@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkt_t=self.webpackChunkt_t||[]).push([[3094],{538:e=>{e.exports=JSON.parse('{"tag":{"label":"2024","permalink":"/t-t/garden/tags/2024","allTagsPath":"/t-t/garden/tags","count":1,"items":[{"id":"changelog/v1.0.0","title":"v1.0.0","description":"Release date: 2024/07/04","permalink":"/t-t/garden/changelog/v1.0.0"}],"unlisted":false}}')}}]);
