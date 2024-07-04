@@ -1,0 +1,30 @@
+# 年份
+'2024':
+  label: '2024'
+  permalink: /2024
+
+'2023':
+  label: '2023'
+  permalink: /2023
+
+# ----------
+# 分類
+reflection:
+  label: Reflection
+  permalink: /reflection
+
+life:
+  label: Life
+  permalink: /life
+
+forum:
+  label: Forum
+  permalink: /forum
+
+murmur:
+  label: Murmur
+  permalink: /murmur
+
+pm:
+  label: PM
+  permalink: /pm
