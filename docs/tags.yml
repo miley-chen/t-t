@@ -1,0 +1,18 @@
+# 年份
+'2024':
+  label: '2024'
+  permalink: /2024
+
+# ----------
+# 分類
+reflection:
+  label: Reflection
+  permalink: /reflection
+
+medium:
+  label: Medium
+  permalink: /medium
+
+markdown:
+  label: Markdown
+  permalink: /markdown
