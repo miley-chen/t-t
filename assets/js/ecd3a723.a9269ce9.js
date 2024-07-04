@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkt_t=self.webpackChunkt_t||[]).push([[2685],{6608:t=>{t.exports=JSON.parse('{"tag":{"label":"2023","permalink":"/t-t/blog/tags/2023","allTagsPath":"/t-t/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/t-t/blog/tags/2023","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
