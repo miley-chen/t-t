@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkt_t=self.webpackChunkt_t||[]).push([[7836],{5605:a=>{a.exports=JSON.parse('{"tags":[{"label":"2024","permalink":"/garden/tags/2024","count":2},{"label":"Medium","permalink":"/garden/tags/medium","count":1},{"label":"Markdown","permalink":"/garden/tags/markdown","count":1},{"label":"HTML","permalink":"/garden/tags/html","count":1}]}')}}]);
