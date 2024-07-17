@@ -17,7 +17,7 @@
             <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="classroom" src="https://www.t-t.cool/assets/images/knowledge-34e31a3860f2dbdfcbd1620aac5fbc7a.jpg" width="3773" height="2830" class="img_ev3q"></p>
 <p>這篇文想來紀錄近期比較有意識在思考與建構的個人知識管理（Personal Knowledge Management）運作流程。</p>
 <p>儘管這是個通俗的說法，但我其實並不喜歡「知識管理」這個詞，就有點像部分人認為「設計思考」這個詞被濫用，那些思考框架是來自於獲得良好結果過程的歸納，而不是死板的遵從這些步驟就能成功得出好的設計或策略；同理，知識的運作可以被學者、知識工作者拆分成許多階段，但若要能夠在生活中良好地吸收、轉化、應用資訊並累積知識，追根究底還是來自於對自己的認識，歸納出一套符合自己腦袋運作方式的流程。</p>
-<p>由於我實在是個很散的人，以下不會有很明確的方法論、框範架構，單純是個人想法的統合整理。</p>
+<p>由於我實在是個很散的人，以下不會有很明確的方法論、框架規範，單純是個人想法的統合整理。</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="參考資料">參考資料<a class="hash-link" aria-label="參考資料的直接連結" title="參考資料的直接連結" href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99">​</a></h2>
 <p>寫這篇文章之前我也看了一些其他人的流程（結果列出來發現只有某間公司的員工跟我的朋友 XD）</p>
 <p>以下流程對我來說有重疊也有借鏡，值得一提的是大家各自的用詞可能有所不同，「Lifecycle」、「系統」、「流程」，但<strong>深入本質，我認為都像是一種「思考的迭代」，這些步驟循環往復、成果堆疊，最終成為最適於現在，更優於未來的我們。</strong></p>
@@ -39,13 +39,13 @@
 <p>在初始的探索階段，得到的會是片段的資訊、不同感官的體驗。</p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="資訊輸入">資訊輸入<a class="hash-link" aria-label="資訊輸入的直接連結" title="資訊輸入的直接連結" href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E8%B3%87%E8%A8%8A%E8%BC%B8%E5%85%A5">​</a></h4>
 <p>這個部分最常會是透過大家習慣的不同知識載體來獲取資訊，包含文字、影音、圖像、音樂等，在數位時代之中，這些會是最氾濫、最多元、最容易取得，卻也最需要篩選的內容。</p>
-<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>幫助我探索、過濾、收斂、總結的工具包含以下：Arc、Kobo、Readwise、Immersive translate、ChatGPT、Spotify。</div></div>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>幫助我探索、過濾、收斂、總結的工具包含以下：Arc、Kobo、Spotify、Readwise、Immersive translate、ChatGPT。</div></div>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="體驗">體驗<a class="hash-link" aria-label="體驗的直接連結" title="體驗的直接連結" href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E9%AB%94%E9%A9%97">​</a></h4>
 <p>這裡的體驗指的是動用身心五感在真實生活中的場景沈浸，通常除了被動地吸收還會主動同步、甚至是進一步的輸出，比如運動、演奏、對談等。</p>
 <div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>對我來說，我近期保持或是新嘗試的體驗有這些：練舞、水肺潛水、雪板課程、聊聊計畫。</div></div>
 <hr>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="採集-capture">採集 Capture<a class="hash-link" aria-label="採集 Capture的直接連結" title="採集 Capture的直接連結" href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E6%8E%A1%E9%9B%86-capture">​</a></h3>
-<p>接續著探索的過程，從資訊與體驗中採集對自己有意義的內容是個重要的過程，並且有許多種形式。尤其對我來說，這是開始進入神奇腦內運作的一個階段，要嘗試把資訊、思考、感受用最貼近腦中的形式採集下來。</p>
+<p>接續著探索的過程，從資訊與體驗中採集對自己有意義的內容是個重要的過程，並且有許多種形式。這是開始進入神奇腦內運作的一個階段，要嘗試把資訊、思考、感受用最貼近腦中的形式採集下來。</p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="文字筆記">文字筆記<a class="hash-link" aria-label="文字筆記的直接連結" title="文字筆記的直接連結" href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E6%96%87%E5%AD%97%E7%AD%86%E8%A8%98">​</a></h4>
 <p>文字是從小到大被教育使用、也最習慣使用的方式，對我來說的好處是它適合用來理解、用來表達，但難處卻是它經常無法足夠貼近我的思考，因此對我來說是個概略的採集方式。</p>
 <div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>目前的採集工具：Heptabase（只想短暫保存的部分偶爾還是會用一下 Google Keeps）</div></div>
@@ -64,29 +64,29 @@
 <p>在建立起知識，有了自己的想法、立場、觀點以後，我認為最重要的部分是如何將這些腦內劇場化為實體的行動。就如同我在 About 頁面提到的 Personal Rules：比起猶豫不決更優先採取行動，行動是開啟新的探索的鑰匙、是改變狀態的推力，也是看見現有思考缺口的方式。</p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="分享">分享<a class="hash-link" aria-label="分享的直接連結" title="分享的直接連結" href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E5%88%86%E4%BA%AB">​</a></h4>
 <p>就像是學外文，輸入和輸出是兩種完全不同的理解。</p>
-<p>如 From Digital Sandbox To Digital Garden 所提到蒐集想法、寫作、釐清自己的思路是一個連續的過程，當我閱讀了我的寫作我才真正瞭解我所想 (<em>"I write because I don't know what I think until I read what I say." — Flannery O'Connor</em>)，而在分享過後，也才能夠得到回覆、展開對話，開啟新的探索和聽見不同的聲音。</p>
+<p>如 <a href="https://t.co/mhis0bQz0c" target="_blank" rel="noopener noreferrer">From Digital Sandbox To Digital Garden</a> 所提到蒐集想法、寫作、釐清自己的思路是一個連續的過程，當我閱讀了我的寫作我才真正瞭解我所想 <code>("I write because I don't know what I think until I read what I say." — Flannery O'Connor)</code>，而在分享過後，也才能夠得到回覆、展開對話，開啟新的探索和聽見不同的聲音。</p>
 <p>除了寫作以外，各種型態的分享也是如此，跳舞的人會用舞蹈分享對音樂的理解、攝影的人會用照片展現觀看的視角，除了分享自己，也會去了解別人。</p>
-<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>我常用的工具：Twitter、個人網站（過去是用 Medium）、（Instagram）</div></div>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>我常用的工具：Twitter、個人網站（過去是用 Medium）、Instagram</div></div>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="決策">決策<a class="hash-link" aria-label="決策的直接連結" title="決策的直接連結" href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E6%B1%BA%E7%AD%96">​</a></h4>
-<p>行動的另一個層面是決策，當了解夠多理財知識後決定要投資哪一支股票、當足夠瞭解用戶需求後決定要採取特定解法……這些決策帶領著我們去改變現狀、驗證思考，並不斷因失敗或變化而讓自己認知到原有的認知不足，需要重新從探索開始累積知識。</p>
+<p>行動的另一個層面是決策，當了解夠多理財知識後決定要投資哪一支股票、當足夠瞭解用戶需求後決定要採取特定解法……這些決策帶領著我們去改變現狀、驗證思考，並不斷因失敗或變化而讓自己意識到原有的認知不足，需要重新從探索開始累積知識。</p>
 <hr>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="更多關於行動">更多關於行動<a class="hash-link" aria-label="更多關於行動的直接連結" title="更多關於行動的直接連結" href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E6%9B%B4%E5%A4%9A%E9%97%9C%E6%96%BC%E8%A1%8C%E5%8B%95">​</a></h2>
 <p>由於過往常常讓許多想法或計劃卡在自己腦內，因此「行動」是我近期最關注並且督促自己執行的一個階段，以下是有關行動的一些引言，希望能用來提醒自己。</p>
 <blockquote>
 <p>If you just do knowledge work, it's always connected to action.</p>
 </blockquote>
-<p><em>—— 《Exploring Heptabase's 2024 Feature Updates and Future Plans with Founder Alan Chan》</em></p>
+<p><em><a href="https://youtu.be/dIwvYBzj1oQ" target="_blank" rel="noopener noreferrer">—— 《Exploring Heptabase's 2024 Feature Updates and Future Plans with Founder Alan Chan》</a></em></p>
 <blockquote>
 <p>「資訊」「思考」「行動」三者必須相輔相成，其中又以「行動」特別重要。</p>
 </blockquote>
 <blockquote>
 <p>唯有行動才能得到他人與市場的回饋，這些都是無法從書上和網路上取得的資訊。而且行動帶來的體驗也能促進我們思考，換句話說，行動可以推動良性循環，獲得更優質的資訊與思考。</p>
 </blockquote>
-<p><em>—— 《提高思考解析度》</em></p>
+<p><em><a href="https://www.kobo.com/tw/zh/ebook/GDLFuRmIZDa7dF9w7VqWYg?utm_content=PMAX&amp;gad_source=1&amp;gclid=CjwKCAjw1920BhA3EiwAJT3lSREhM7G19RvvQJ20l5QP70L2qqK7n-td3E1cIRGeLX67YlGiO46ZSRoCepoQAvD_BwE" target="_blank" rel="noopener noreferrer">—— 《提高思考解析度》</a></em></p>
 <blockquote>
 <p>一位 PM 就像是一個產品，不斷修正自己的假設與行動就如同產品迭代 ( Iteration )，持續地提升性能就能夠解決更多更重要的問題。</p>
 </blockquote>
-<p><em>—— 《Blog 81 — 身為一個 PM 新手，我可以如何快速上手工作 (中)，產品經理技能篇》</em></p>]]></content:encoded>
+<p><em><a href="https://chuhenry.medium.com/blog-80-%E8%BA%AB%E7%82%BA%E4%B8%80%E5%80%8B-pm-%E6%96%B0%E6%89%8B-%E6%88%91%E5%8F%AF%E4%BB%A5%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E5%B7%A5%E4%BD%9C-%E4%B8%8A-308b72972906" target="_blank" rel="noopener noreferrer">—— 《Blog 81 — 身為一個 PM 新手，我可以如何快速上手工作 (中)，產品經理技能篇》</a></em></p>]]></content:encoded>
             <category>2024</category>
             <category>Knowledge</category>
             <category>Management</category>
