@@ -4,12 +4,193 @@
         <title>Thinking Today Blog</title>
         <link>https://www.t-t.cool/blog</link>
         <description>Thinking Today Blog</description>
-        <lastBuildDate>Sat, 14 Sep 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
         <item>
-            <title><![CDATA[近年喜歡的影視作品]]></title>
+            <title><![CDATA[PM 筆記｜知識與經驗在工作中的角色：領域知識、經驗知識、成長動能]]></title>
+            <link>https://www.t-t.cool/blog/pm-ability-breakdown</link>
+            <guid>https://www.t-t.cool/blog/pm-ability-breakdown</guid>
+            <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[cover]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover" src="https://www.t-t.cool/assets/images/cover-c6ff9e794d07228f12f87b8a9cd52eca.png" width="1920" height="1080" class="img_ev3q"></p>
+<p>開始想寫這篇文的契機是最近在 Facebook 看到了一篇<a href="https://www.facebook.com/100000072259315/posts/pfbid02xc5PJvtfbRB5aNNmxeiiWstss1Gm69RR8LpadSH846Ami5HtEZfCwWuGrmEif4ikl/?d=n" target="_blank" rel="noopener noreferrer">游舒帆撰寫的有趣文章</a>，主旨是從 AI 學習的角度切入，思考對人類更有效學習的方式。看完文章後，我馬上想起近期看到的 <a href="https://www.youtube.com/watch?v=gqUQbjsYZLQ" target="_blank" rel="noopener noreferrer">Cursor 小撇步影片</a>，也開始聯想到自身的工作經歷，尤其是我一直以來對於 PM 工作中的經驗與知識角色的反思，然後又延伸想到從開始工作到現在我一直會自問跟也很常被其他人問的問題：<code>不是都說 PM 很需要職場經驗嗎，那為什麼你剛畢業可以當 PM？</code></p>
+<p>在 PM 工作中，究竟「知識」與「經驗」扮演著什麼角色？這是這篇文想透過我個人的觀點探討的問題。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="自問自答經驗真的就那麼重要嗎">自問自答：經驗真的就那麼重要嗎？<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E8%87%AA%E5%95%8F%E8%87%AA%E7%AD%94%E7%B6%93%E9%A9%97%E7%9C%9F%E7%9A%84%E5%B0%B1%E9%82%A3%E9%BA%BC%E9%87%8D%E8%A6%81%E5%97%8E" class="hash-link" aria-label="自問自答：經驗真的就那麼重要嗎？的直接連結" title="自問自答：經驗真的就那麼重要嗎？的直接連結">​</a></h2>
+<p>我從準備找工作開始，就不斷地思考經驗到底能為初階職位競爭者帶來多大的差異性。不只是因為和所有新鮮人一樣陷入了沒有經驗就沒有工作、沒有工作就沒有經驗的恐怖漩渦，一開始就鎖定軟體產品經理這個工作也加劇了缺乏經驗對找工作的影響力。</p>
+<p>在開始工作後，我觀察了身邊各式各樣的產品經理，想了解經驗到底對這個職位影響力有多大，最後得出的結論卻是如同另一位曾任 PM 職位（註：此篇的 PM 皆是指 Product Manger）的朋友所說：<code>我覺得大家有點太盲信經驗了。</code></p>
+<p>會這麼說<strong>並不是認為經驗不重要，而是經驗在每個人身上並不同等重要。</strong></p>
+<p>比如說我曾看過有多年經驗的 PM 特別堅持自己手上產品的理想樣貌，和團隊成員沈浸於打造理想產品卻時程嚴重延宕，讓主管們氣得跳腳；看過由工程師轉職的 PM，因為有過程式實作經驗，會以自己的想法而不是與工程師討論後的做法對外溝通，最後因執行方式和他的想法不同而導致溝通無效；但也看過經驗不深，不裝懂、同步事項明確，讓團隊都十分信賴、自己的能力又快速進步的 PM。</p>
+<p>觀察「經驗」在這些人身上起的作用，有些能夠透過累積經驗的過程快速增幅自己的能力值，有些卻反而被過去的經驗阻礙，由此可以看出經驗並不能完全代表一個 PM 的能力，用一個人有多少「經驗」來判斷是否有能力是似乎是一種表面歸因錯誤（Superficial Attribution Error），真正重要的應該是透過經驗形成的「經驗知識」（Experiencial Knowledge）。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="拆解能力值">拆解能力值<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E6%8B%86%E8%A7%A3%E8%83%BD%E5%8A%9B%E5%80%BC" class="hash-link" aria-label="拆解能力值的直接連結" title="拆解能力值的直接連結">​</a></h2>
+<p>所以所謂 PM 的能力值到底來自哪裡？我自己目前會拆解成幾項歸類：領域知識、經驗知識、成長動能。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="領域知識-vs-經驗知識">領域知識 vs 經驗知識<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E9%A0%98%E5%9F%9F%E7%9F%A5%E8%AD%98-vs-%E7%B6%93%E9%A9%97%E7%9F%A5%E8%AD%98" class="hash-link" aria-label="領域知識 vs 經驗知識的直接連結" title="領域知識 vs 經驗知識的直接連結">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="領域知識">領域知識<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E9%A0%98%E5%9F%9F%E7%9F%A5%E8%AD%98" class="hash-link" aria-label="領域知識的直接連結" title="領域知識的直接連結">​</a></h4>
+<p>領域知識泛指在所屬崗位中所需的相關知識，包含常見的產品管理的技術、用戶、商業三大領域，還有各個產業中的特殊知識，像是金融或教育領域的特定需求。</p>
+<p>列舉出這些面向好像還是很模糊，如果沒有工作經驗，我能夠擁有這些知識嗎？如果沒進入過該產業、沒有面對過實際的用戶，我要怎麼有相關的知識？</p>
+<p>我的想法是「領域知識是前人經驗的統整，經驗知識則是自身對於知識的實踐和適配」。</p>
+<p>領域知識可以是一些商業模型、一些用戶研究的方法論、一些 Web / App / Desktop 軟體運作的基本概念，也可以是不同產業的商品特性或甚至法規等，可以預先學習的結構性內容。這些結構性內容和所有學校學到的學科一樣，其實來源就是前人的經驗、研究、思考，是一套預先被前人統整好的框架。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="經驗知識">經驗知識<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E7%B6%93%E9%A9%97%E7%9F%A5%E8%AD%98" class="hash-link" aria-label="經驗知識的直接連結" title="經驗知識的直接連結">​</a></h4>
+<p>而經驗知識，則是在工作經驗（或者說任何非單向輸入的實作形式經驗）中，面對真實問題時，透過篩選、實踐、修正既有認知，最終形成的個人見解。拿專案管理來說，訂定人力和時程、安排優先序是可以依據理論達成規劃的，但如何為團隊預留合適的緩衝時間、怎麼在變動中不斷動態溝通和調整安排，都是可以在過程中不斷優化並累積為自己經驗知識的部分。</p>
+<p>領域知識為經驗知識奠定了基礎，幫助我們更快適應新的情境。然而，由前面所舉的 PM 例子來看，多年經驗的理想產品主義者、用自身工程經驗自行推斷實作方法的產品經理，兩者都好像應該已經擁有領域知識和經驗知識，卻未能構成與最後一位相同的備受信賴、快速進步結果，也許是受部分我暫稱之為「成長動能」的其他因素影響。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="成長動能">成長動能<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E6%88%90%E9%95%B7%E5%8B%95%E8%83%BD" class="hash-link" aria-label="成長動能的直接連結" title="成長動能的直接連結">​</a></h3>
+<p>除了領域知識和經驗知識，成長動能也是影響 PM 能力的重要因素，我認為這三者共同構成了 PM 的能力模型。</p>
+<p>在面對任何新的工作項目或挑戰時，有幾件我認為很重要的事：我多能理解當下的情況、我多想知道背後的原因、我多能想像和接納全新的成功或失敗方式，這幾項分別對應到接下來要提到的<strong>流動智力、好奇心、成長型思維</strong>。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="流動智力">流動智力<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E6%B5%81%E5%8B%95%E6%99%BA%E5%8A%9B" class="hash-link" aria-label="流動智力的直接連結" title="流動智力的直接連結">​</a></h4>
+<p>在思考對情境的理解能力的時候，我想起過去在課堂學過的「流動智力」這個詞。在心理學家 Cattell 對智力的分類中，人類的認知有兩種智力類型，第一種是「流體智力」（fluid intelligence），主要為邏輯推理、彈性思考與解決新問題的能力；第二種則為「晶體智力」（crystallized intelligence），主要是運用過去所累積知識庫存的能力。在理論中，晶體智力會隨著年紀 aka 人生經驗增長、流動智力在 20 - 30 歲達到高峰後漸漸下降。</p>
+<p>簡言之，流動智力代表我們在面對新問題時的反應和解決能力，比如當你首次接手一個全新領域的項目時，能快速理清邏輯並做出判斷。晶體智力則是你過去經驗中的累積，比如在過去解決過類似問題後，對下一次挑戰更有把握。</p>
+<p>針對目前工作上遇到的各種情境，我基於這項理論得到的想法是，在我現在的人生階段，我倚靠的大多是流動智力帶來的反應力與判斷力，並透過這些組織、解決問題的經驗來累積晶體智力。雖然在決策時並不是只能運用其一，但我自認為在這個階段就大幅地使用經驗來做判斷，是不夠安全的做法，因為此時的我經驗不夠多、不夠全面、也未經過多次驗證；也因此，我會時刻提醒自己在累積與運用經驗知識的同時，要保持存疑、隨時修正。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="好奇心">好奇心<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E5%A5%BD%E5%A5%87%E5%BF%83" class="hash-link" aria-label="好奇心的直接連結" title="好奇心的直接連結">​</a></h4>
+<p>流體智力帶來的反應力與判斷力是針對問題的快速處理和概略理解，而如果要更深入了解問題的核心，則需要深掘更多細節，這會需要對問題有足夠的好奇心。比如主管不滿意自己交付的成果時、新發布的功能成效不彰時、抑或是團隊溝通不夠順暢時，都需要反覆地思考跟挖掘為什麼？有哪些因素導致這樣的結果？那用什麼方式能夠帶來何種改變？（如同著名的黃金圈理論 Why - How - What）</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="成長型思維">成長型思維<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E6%88%90%E9%95%B7%E5%9E%8B%E6%80%9D%E7%B6%AD" class="hash-link" aria-label="成長型思維的直接連結" title="成長型思維的直接連結">​</a></h4>
+<p>而要能創造改變就會需要成長型思維：願意學習新知識、嘗試不同的方法，並且在面對失敗或挫折時保持堅韌和積極的態度。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="能力值的構成">能力值的構成<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E8%83%BD%E5%8A%9B%E5%80%BC%E7%9A%84%E6%A7%8B%E6%88%90" class="hash-link" aria-label="能力值的構成的直接連結" title="能力值的構成的直接連結">​</a></h3>
+<p>上述提到的領域知識、經驗知識、成長動能三者相輔相成，形成產品經理的基礎能力值。</p>
+<p><img decoding="async" loading="lazy" alt="formula" src="https://www.t-t.cool/assets/images/formula-c5b6c313b07d52cc05b625e737f5ead6.png" width="1920" height="1080" class="img_ev3q"></p>
+<p>經驗知識的初始值可能很低，卻會隨著工作經驗增長，但增長的幅度是會受到領域知識與成長動能影響深度和廣度的。</p>
+<p>另一方面，領域知識與成長動能是初期就可以培養出的能力，但沒有隨著工作經驗增長一起增加的話，整體能力值成長幅度也會因此受限。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="建構能力值">建構能力值<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E5%BB%BA%E6%A7%8B%E8%83%BD%E5%8A%9B%E5%80%BC" class="hash-link" aria-label="建構能力值的直接連結" title="建構能力值的直接連結">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="終於要回頭講到一開始提到的文章和影片">終於要回頭講到一開始提到的文章和影片……<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E7%B5%82%E6%96%BC%E8%A6%81%E5%9B%9E%E9%A0%AD%E8%AC%9B%E5%88%B0%E4%B8%80%E9%96%8B%E5%A7%8B%E6%8F%90%E5%88%B0%E7%9A%84%E6%96%87%E7%AB%A0%E5%92%8C%E5%BD%B1%E7%89%87" class="hash-link" aria-label="終於要回頭講到一開始提到的文章和影片……的直接連結" title="終於要回頭講到一開始提到的文章和影片……的直接連結">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="從-ai-學習的角度切入思考對人類更有效學習的方式">從 AI 學習的角度切入，思考對人類更有效學習的方式<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E5%BE%9E-ai-%E5%AD%B8%E7%BF%92%E7%9A%84%E8%A7%92%E5%BA%A6%E5%88%87%E5%85%A5%E6%80%9D%E8%80%83%E5%B0%8D%E4%BA%BA%E9%A1%9E%E6%9B%B4%E6%9C%89%E6%95%88%E5%AD%B8%E7%BF%92%E7%9A%84%E6%96%B9%E5%BC%8F" class="hash-link" aria-label="從 AI 學習的角度切入，思考對人類更有效學習的方式的直接連結" title="從 AI 學習的角度切入，思考對人類更有效學習的方式的直接連結">​</a></h4>
+<p><img decoding="async" loading="lazy" alt="performance" src="https://www.t-t.cool/assets/images/performance-88330eca30fc8c2d90c8254f40b88217.png" width="1162" height="649" class="img_ev3q"></p>
+<p><code>pic from: (第一段所述)游舒帆撰寫的文章</code></p>
+<p>在游舒帆的文章中，提到了以下幾點：</p>
+<ul>
+<li>
+<p>在訓練人工智慧時</p>
+<ul>
+<li>
+<p>高結構性的輸入（知識框架、流程步驟）在早期有效率，但是長期效果差</p>
+</li>
+<li>
+<p>低結構性的輸入，早期表現差，但後期會有飛躍性提升</p>
+</li>
+<li>
+<p>在運用低結構性學習方式去完成一個任務的過程，其實他會同步練習到其他能力，例如語言、邏輯、數學，但訓練到的量都很小很小，需要靠大量的累積後才會形成一種能力</p>
+</li>
+<li>
+<p>AI 能在很短的時間內完成非結構化學習，而人類的學習速度很難跟上 AI</p>
+</li>
+</ul>
+</li>
+<li>
+<p>因此，他提出了人類適合學習的方式</p>
+<ul>
+<li>
+<p>早期：運用高結構性的方式加速學習</p>
+</li>
+<li>
+<p>中期：善用低結構性的學習方式來深化學習</p>
+</li>
+<li>
+<p>後期：盡可能跨領域思考，打破既有框架，建立新框架。</p>
+</li>
+</ul>
+</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="和建構能力值的關聯性">和建構能力值的關聯性<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E5%92%8C%E5%BB%BA%E6%A7%8B%E8%83%BD%E5%8A%9B%E5%80%BC%E7%9A%84%E9%97%9C%E8%81%AF%E6%80%A7" class="hash-link" aria-label="和建構能力值的關聯性的直接連結" title="和建構能力值的關聯性的直接連結">​</a></h4>
+<p>以上和前面討論的能力值建構元素有很大的相似之處，若套入上方提及的時間段區隔：</p>
+<ul>
+<li>
+<p>早期：透過結構化學習，快速建立領域知識</p>
+</li>
+<li>
+<p>中期：透過低結構性方法，累積經驗知識，深化學習</p>
+</li>
+<li>
+<p>後期：透過成長動能，擁抱新知、調整自己的認知與行為，突破思考侷限</p>
+</li>
+</ul>
+<p>這邊的早期中期後期並不會是線性的流程，而是可以視為一個循環往復的思考迭代過程，在累積不同領域知識、實踐、內化的循環裡，提升對不同知識與技能的掌握度。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="使用-cursorai-與人類的結構與非結構化學習">使用 Cursor：AI 與人類的結構與非結構化學習<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E4%BD%BF%E7%94%A8-cursorai-%E8%88%87%E4%BA%BA%E9%A1%9E%E7%9A%84%E7%B5%90%E6%A7%8B%E8%88%87%E9%9D%9E%E7%B5%90%E6%A7%8B%E5%8C%96%E5%AD%B8%E7%BF%92" class="hash-link" aria-label="使用 Cursor：AI 與人類的結構與�非結構化學習的直接連結" title="使用 Cursor：AI 與人類的結構與非結構化學習的直接連結">​</a></h4>
+<p>很有趣的是在先前提及的這部 Cursor 小撇步介紹影片中，對於用戶和 Cursor 好的合作的方式，提及的方法有幾分關聯性：</p>
+<ul>
+<li>
+<p>專案事前目標、流程、畫面規劃 —— 用戶定義出的結構性資料</p>
+</li>
+<li>
+<p>給 Cursor 技術文件、框架概要等 —— 對 AI 來說的結構性資料</p>
+</li>
+<li>
+<p>實際給予草圖、提出要求 —— 對 AI 來說的非結構式情境</p>
+</li>
+<li>
+<p>產出 Code，使用者對內容提問與修改 ——對用戶來說的非結構式經驗</p>
+</li>
+</ul>
+<p>講者主張這對不一定有深入程式能力但想使用 Cursor 開啟專案、學習程式知識的用戶來說是較好的使用方式，可以說是因為在短詩間內給了雙方從結構性到非結構性的學習。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="小結">小結<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E5%B0%8F%E7%B5%90" class="hash-link" aria-label="小結的直接連結" title="小結的直接連結">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="總而言之">總而言之<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E7%B8%BD%E8%80%8C%E8%A8%80%E4%B9%8B" class="hash-link" aria-label="總而言之的直接連結" title="總而言之的直接連結">​</a></h3>
+<ul>
+<li>
+<p>只用經驗去判斷一個人的能力是種表面歸因錯誤（Superficial Attribution Error），真正重要的應該是透過經驗形成的「經驗知識」（Experiencial Knowledge）</p>
+</li>
+<li>
+<p>能力值的構成：領域知識 x 經驗知識 x 成長動能</p>
+</li>
+<li>
+<p>先建立結構化的領域知識，再透過實際經歷獲取經驗知識，並藉由成長動能放大加乘效果，是能力值增長的方式</p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="所以沒有工作經驗可以當產品經理嗎">所以，沒有工作經驗可以當產品經理嗎？<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E6%89%80%E4%BB%A5%E6%B2%92%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%B6%93%E9%A9%97%E5%8F%AF%E4%BB%A5%E7%95%B6%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86%E5%97%8E" class="hash-link" aria-label="所以，沒有工作經驗可以當產品經理嗎？的直接連結" title="所以，沒有工作經驗可以當產品經理嗎？的直接連結">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="hiring-meme" src="https://www.t-t.cool/assets/images/hiring-meme-d1967573c7c3ebe9b385e623a2565f35.png" width="600" height="544" class="img_ev3q"></p>
+<p>回應第一段遇到的這個問題，總結來說，我認為要成為一名 PM，不能僅依賴經驗，而是需要在領域知識、經驗知識和成長動能之間取得平衡。所以，對於那個經常被問到的問題——『沒有經驗能當 PM 嗎？』我的答案是，若能擁有基本領域知識、足夠的成長動能、一點點小型專案而來的經驗知識，是可以的。</p>
+<p>和從其他職位轉職同理，前提都是你能從其他地方累積到你進入的職位所要求的基礎能力值，比如對用戶研究方法的理解和實際專案經驗等。我身邊也有不少朋友一樣是透過在大學／研究所時期累積的軟體相關專案、實習、研究經驗，一出社會就擔任這個 PM 職位。</p>
+<p>當然，這裡僅限 Junior、IC 職位，其他更高階的職位不在此次討論範圍。</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="參考資料">參考資料<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99" class="hash-link" aria-label="參考資料的直接連結" title="參考資料的直接連結">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="體驗知識">體驗知識<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E9%AB%94%E9%A9%97%E7%9F%A5%E8%AD%98" class="hash-link" aria-label="體驗知識的直接連結" title="體驗知識的直接連結">​</a></h3>
+<ul>
+<li>
+<p><a href="https://en.wikipedia.org/wiki/Experiential_knowledge" target="_blank" rel="noopener noreferrer">Wikipedia - Experiential Knowledge</a></p>
+</li>
+<li>
+<p><a href="https://peertac.org/2023/10/05/what-is-experiential-knowledge/" target="_blank" rel="noopener noreferrer">What is Experiential Knowledge?</a></p>
+</li>
+<li>
+<p><a href="https://theprodzen.com/experiential-learning-a-must-for-product-managers-and-leaders/" target="_blank" rel="noopener noreferrer">Experiential learning: A must for product managers and leaders</a></p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="流動智力--固定智力">流動智力 / 固定智力<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E6%B5%81%E5%8B%95%E6%99%BA%E5%8A%9B--%E5%9B%BA%E5%AE%9A%E6%99%BA%E5%8A%9B" class="hash-link" aria-label="流動智力 / 固定智力的直接連結" title="流動智力 / 固定智力的直接連結">​</a></h3>
+<ul>
+<li>
+<p><a href="https://vocus.cc/article/65d0bb81fd89780001301ebb" target="_blank" rel="noopener noreferrer">流體智力與晶體智力</a></p>
+</li>
+<li>
+<p><a href="https://psychmemorandum.blogspot.com/2021/12/fluid-crystallized-intelligence.html" target="_blank" rel="noopener noreferrer">流體智力（fluid intelligence）vs. 晶體智力 （crystallized intelligence）</a></p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="成長型思維-1">成長型思維<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E6%88%90%E9%95%B7%E5%9E%8B%E6%80%9D%E7%B6%AD-1" class="hash-link" aria-label="成長型思維的直接連結" title="成長型思維的直接連結">​</a></h3>
+<ul>
+<li><a href="https://epaper.naer.edu.tw/edm.php?grp_no=3&amp;edm_no=170&amp;content_no=2989" target="_blank" rel="noopener noreferrer">成長型思維模式的教育新趨勢</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="推薦閱讀">推薦閱讀<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E6%8E%A8%E8%96%A6%E9%96%B1%E8%AE%80" class="hash-link" aria-label="推薦閱讀的直接連結" title="推薦閱讀的直接連結">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="若對如何成為軟體產品經理感興趣">若對如何成為（軟體）產品經理感興趣<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E8%8B%A5%E5%B0%8D%E5%A6%82%E4%BD%95%E6%88%90%E7%82%BA%E8%BB%9F%E9%AB%94%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86%E6%84%9F%E8%88%88%E8%B6%A3" class="hash-link" aria-label="若對如何成為（軟體）產品經理感興趣的直接連結" title="若對如何成為（軟體）產品經理感興趣的直接連結">​</a></h3>
+<ul>
+<li>
+<p>Samuel - <a href="https://medium.com/@citysite1025/%E5%A6%82%E4%BD%95%E6%88%90%E7%82%BA%E4%B8%80%E4%BD%8D%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86-product-manager-80f8234389f6" target="_blank" rel="noopener noreferrer">如何從零開始成為一位產品經理（Product Manager）？ </a></p>
+</li>
+<li>
+<p>Charles - <a href="https://medium.com/charles-tseng/%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E6%88%91%E5%80%91%E9%9C%80%E8%A6%81%E6%9B%B4%E6%9C%89%E7%B6%93%E9%A9%97%E7%9A%84%E4%BA%BA%E9%81%B8-%E9%97%9C%E6%96%BC%E7%AC%AC%E4%B8%80%E4%BB%BD%E5%B7%A5%E4%BD%9C%E5%A6%82%E4%BD%95%E6%88%90%E7%82%BA%E8%BB%9F%E9%AB%94%E7%94%A2%E6%A5%AD%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86-software-product-manager-978e1c7120f4" target="_blank" rel="noopener noreferrer">不好意思我們需要更有經驗的人選—關於第一份工作如何成為軟體產業產品經理 Software Product Manager</a></p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="若想知道更細節和更深入的-pm-相關能力">若想知道更細節和更深入的 PM 相關能力<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E8%8B%A5%E6%83%B3%E7%9F%A5%E9%81%93%E6%9B%B4%E7%B4%B0%E7%AF%80%E5%92%8C%E6%9B%B4%E6%B7%B1%E5%85%A5%E7%9A%84-pm-%E7%9B%B8%E9%97%9C%E8%83%BD%E5%8A%9B" class="hash-link" aria-label="若想知道更細節和更深入的 PM 相關能力的直接連結" title="若想知道更細節和更深入的 PM 相關能力的直接連結">​</a></h3>
+<ul>
+<li>
+<p>Peter Su - <a href="https://medium.com/3pm-lab/%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86%E5%A6%82%E4%BD%95%E6%88%90%E9%95%B7-1c2c7979f5af" target="_blank" rel="noopener noreferrer">產品經理如何成長？</a></p>
+</li>
+<li>
+<p>產品經理喬 PM Joe - <a href="https://medium.com/@ohjoe86/pm-product-manager-%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86%E8%A6%81%E5%85%B7%E5%82%99%E4%BB%80%E9%BA%BC%E8%83%BD%E5%8A%9B-%E4%BB%80%E9%BA%BC%E6%98%AF%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86-a6a564ec53ca" target="_blank" rel="noopener noreferrer">PM (Product Manager) 產品經理要具備什麼能力？什麼是產品經理？</a></p>
+</li>
+</ul>]]></content:encoded>
+            <category>2024</category>
+            <category>PM</category>
+            <category>Knowledge</category>
+            <category>Career</category>
+        </item>
+        <item>
+            <title><![CDATA[生活紀錄｜近年喜歡的影視作品]]></title>
             <link>https://www.t-t.cool/blog/2024-series-and-movies</link>
             <guid>https://www.t-t.cool/blog/2024-series-and-movies</guid>
             <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
@@ -195,7 +376,7 @@
 <hr>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="組織和延展-organize--develop">組織和延展 Organize &amp; Develop<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E7%B5%84%E7%B9%94%E5%92%8C%E5%BB%B6%E5%B1%95-organize--develop" class="hash-link" aria-label="組織和延展 Organize &amp; Develop的直接連結" title="組織和延展 Organize &amp; Develop的直接連結">​</a></h3>
 <p>在探索和採集後，會需要透過組織來形成更全面的理解、基於理解去發展自己的觀點與立場。</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="思考理解連結">思考、理解、連結<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%EF%BF%BD%E6%80%9D%E8%80%83%E7%90%86%E8%A7%A3%E9%80%A3%E7%B5%90" class="hash-link" aria-label="思考、理解、連結的直接連結" title="思考、理解、連結的直接連結">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="思考理解連結">思考、理解、連結<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E6%80%9D%E8%80%83%E7%90%86%E8%A7%A3%E9%80%A3%E7%B5%90" class="hash-link" aria-label="思考、理解、連結的直接連結" title="思考、理解、連結的直接連結">​</a></h4>
 <p>在這個階段裡其實手段是很混合的，我會查看採集而來的內容，找尋連結、理解脈絡、思考延伸發展的可能性。</p>
 <p>而這也是為什麼我認爲這整個流程是一種思考的迭代，因為在這個階段中，我很有可能回頭反覆進行探索與採集，以增加我組織與延展的素材。</p>
 <div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>在這個階段裡我會使用的工具涵括前兩個階段，但更多的會是需要聚集採集到的資訊，因此以現階段來說會以 Heptabase 跟 FigJam 有較高的使用頻率。</div></div>
@@ -329,13 +510,13 @@
 <p>過程中會發現我們感興趣的點不太一樣，也因此能夠在共同的主題之下進行一些有趣的多面向討論。在討論之中被點出我會拿很多的產品來類比與想像可能性，而我自己從沒想過這種思考方向的特別之處。</p>
 <p>依循著思考工具這一條主軸，我發現自己感興趣的範圍還可以前後延伸到 Sketch noting 如何幫助人思考、個人知識在組織中如何轉移等，這些平常生活中該跟個人數位思考工具銜接，卻讓我時常感到有斷裂感的範疇。</p>
 <p>好像突然間開啟了一個很廣大、深不見底的學習範圍，雖然認識還很淺薄、在工作之餘探索的速度非常緩慢，但每一步新的瞭解都讓我感到雀躍與快樂。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="看-n-場發表會">看 N 場發表會<a href="https://www.t-t.cool/blog/2024-mid-year-reflection#%E7%9C%8B-n-%E5%A0%B4%E7%99%BC%E8%A1%A8%E6%9C%83" class="hash-link" aria-label="看 N 場發表會的直接連結" title="看 N 場發表會的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="看-n-場發表會">看 N 場發表會<a href="https://www.t-t.cool/blog/2024-mid-year-reflection#%E7%9C%8B-n-%E5%A0%B4%EF%BF%BD%EF%BF%BD%E7%99%BC%E8%A1%A8%E6%9C%83" class="hash-link" aria-label="看 N 場發表會的直接連結" title="看 N 場發表會的直接連結">​</a></h3>
 <p>剛好五月是個發表會爆發的月份，以前其實沒有特別看發表會的習慣，但從 Youtube 演算法推薦我 iPad 發表會開始，我這個月實時追了 Apple 和 OpenAI 的發表會、看了 Google I/O 的整理，並在 designtips.io 的<a href="https://t.co/3THEqPOevD" target="_blank" rel="noopener noreferrer">發文推坑</a>之下看了 Canva Create。</p>
 <p>第一時間知道新的發展和想像未來趨勢是一件振奮人心的事，這提醒了我會想做軟體產品，其實就是被能夠不斷思考人類生活方式可以如何改變的特性所吸引。</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="這些嘗試所促成的個人改變">這些嘗試所促成的個人改變<a href="https://www.t-t.cool/blog/2024-mid-year-reflection#%E9%80%99%E4%BA%9B%E5%98%97%E8%A9%A6%E6%89%80%E4%BF%83%E6%88%90%E7%9A%84%E5%80%8B%E4%BA%BA%E6%94%B9%E8%AE%8A" class="hash-link" aria-label="這些嘗試所促成的個人改變的直接連結" title="這些嘗試所促成的個人改變的直接連結">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="比起猶豫不決更優先採取行動">比起猶豫不決更優先採取行動<a href="https://www.t-t.cool/blog/2024-mid-year-reflection#%E6%AF%94%E8%B5%B7%E7%8C%B6%E8%B1%AB%E4%B8%8D%E6%B1%BA%E6%9B%B4%E5%84%AA%E5%85%88%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95" class="hash-link" aria-label="比起猶豫不決更優先採取行動的直接連結" title="比起猶豫不決更優先採取行動的直接連結">​</a></h3>
 <p>過去的我經常先思考很多可能性和後果然後就止步不前，但從上面工作與生活上不同的嘗試來看，我發現有時若已經有目標或想法，「開始行動」正是能讓自己跨越阻礙的方法。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="不安於現狀但不要不安於現狀">不安於現狀，但不要不安於現狀<a href="https://www.t-t.cool/blog/2024-mid-year-reflection#%E4%B8%8D%E5%AE%89%E6%96%BC%E7%8F%BE%E7%8B%80%E4%BD%86%E4%B8%8D%E8%A6%81%E4%B8%8D%E5%AE%89%E6%96%BC%E7%8F%BE%E7%8B%80" class="hash-link" aria-label="不安於現狀，但不要不安於現狀的直接連結" title="不安於現狀，但不要不安於��現狀的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="不安於現狀但不要不安於現狀">不安於現狀，但不要不安於現狀<a href="https://www.t-t.cool/blog/2024-mid-year-reflection#%E4%B8%8D%E5%AE%89%E6%96%BC%E7%8F%BE%E7%8B%80%E4%BD%86%E4%B8%8D%E8%A6%81%E4%B8%8D%E5%AE%89%E6%96%BC%E7%8F%BE%E7%8B%80" class="hash-link" aria-label="不安於現狀，但不要不安於現狀的直接連結" title="不安於現狀，但不要不安於現狀的直接連結">​</a></h3>
 <p>在探索的過程中才清楚認知到，我是一個很需要持續有外在刺激的人，這讓我不會安於現狀，願意尋求成長與新體驗，卻也讓我「不安」於現狀，傾向把沒有改變跟停滯劃上等號。 事實上很多時候表面的沒改變是正在擴展自己的能量總和，當自己有足夠能量躍遷到新一階時，改變才可能發生；沒改變不等於停滯，維持穩定狀態也是件不容易的事。</p>
 <hr>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="題外話關於思考紀錄">題外話：關於思考紀錄<a href="https://www.t-t.cool/blog/2024-mid-year-reflection#%E9%A1%8C%E5%A4%96%E8%A9%B1%E9%97%9C%E6%96%BC%E6%80%9D%E8%80%83%E7%B4%80%E9%8C%84" class="hash-link" aria-label="題外話：關於思考紀錄的直接連結" title="題外話：關於思考紀錄的直接連結">​</a></h2>
@@ -372,7 +553,7 @@
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="對-pm-的期待不同">對 PM 的期待不同<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E5%B0%8D-pm-%E7%9A%84%E6%9C%9F%E5%BE%85%E4%B8%8D%E5%90%8C" class="hash-link" aria-label="對 PM 的期待不同的直接連結" title="對 PM 的期待不同的直接連結">​</a></h3>
 <p><img decoding="async" loading="lazy" alt="expectations" src="https://www.t-t.cool/assets/images/pm-thoughts-320734448a9bafda2ff05c594c819b26.webp" width="1290" height="716" class="img_ev3q"></p>
 <p>不同公司、不同團隊、不同角色對 PM 有各種不同的期待，Eileen 提到團隊合作沒有標準答案，可以用後面會提到的小撇步 1 on 1 來了解團隊成員的期待，也可以在 PRD 清楚溝通目標來凝聚團隊共識。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一些小撇步">一些小撇步<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E4%B8%80%E4%BA%9B%E5%B0%8F%E6%92%87%E6%AD%A5" class="hash-link" aria-label="一些小撇步的直接連結" title="一些小撇步的直接連結">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一些小撇步">一些小撇步<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E4%B8%80%E4%BA%9B%E5%B0%8F%E6%92%87%E6%AD%A5" class="hash-link" aria-label="一些小撇步的直接連結" title="一些小撇步�的直接連結">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="降落新團隊小秘訣">降落新團隊小秘訣<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E9%99%8D%E8%90%BD%E6%96%B0%E5%9C%98%E9%9A%8A%E5%B0%8F%E7%A7%98%E8%A8%A3" class="hash-link" aria-label="降落新團隊小秘訣的直接連結" title="降落新團隊小秘訣的直接連結">​</a></h3>
 <p>Eileen 分享了幾項降落新團隊時可以加速適應的小秘訣：</p>
 <ul>
@@ -421,7 +602,7 @@
 <li>教學者的基礎涵養 — — 工作記憶</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="對自己的定位">對自己的定位<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E5%B0%8D%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AE%9A%E4%BD%8D" class="hash-link" aria-label="對自己的定位的直接連結" title="對自己的定位的直接連結">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="回歸目的想扮演什麼樣的團隊角色">回歸目的：想扮演什麼樣的團隊角色<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E5%9B%9E%E6%AD%B8%E7%9B%AE%E7%9A%84%E6%83%B3%E6%89%AE%E6%BC%94%E4%BB%80%E9%BA%BC%E6%A8%A3%E7%9A%84%E5%9C%98%E9%9A%8A%E8%A7%92%E8%89%B2" class="hash-link" aria-label="回歸目的：想扮演什麼樣的團隊角色的直接連結" title="回歸目的：想扮演什麼樣的團隊角色的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="回歸目的想扮演什麼樣的團隊角�色">回歸目的：想扮演什麼樣的團隊角色<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E5%9B%9E%E6%AD%B8%E7%9B%AE%E7%9A%84%E6%83%B3%E6%89%AE%E6%BC%94%E4%BB%80%E9%BA%BC%E6%A8%A3%E7%9A%84%E5%9C%98%E9%9A%8A%E8%A7%92%E8%89%B2" class="hash-link" aria-label="回歸目的：想扮演什麼樣的團隊角色的直接連結" title="回歸目的：想扮演什麼樣的團隊角色的直接連結">​</a></h3>
 <p><img decoding="async" loading="lazy" alt="position" src="https://www.t-t.cool/assets/images/position-72ac5466ea7f52a82988edee004b7a9f.gif" width="480" height="480" class="img_ev3q"></p>
 <p>在分享的最後，Eileen 提到適合當什麼樣的 PM，其實還是要回歸目的：你想在團隊扮演什麼樣的角色？</p>
 <p>她自己的回答會是擔任團隊的催化劑，讓團隊可以在有了她以後促使事情發生。</p>
@@ -467,7 +648,7 @@
 <li>星箭廣播</li>
 <li>世代登出</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="伴我走過低潮的心理系列">伴我走過低潮的心理系列<a href="https://www.t-t.cool/blog/2024-podcast#%E4%BC%B4%E6%88%91%E8%B5%B0%E9%81%8E%E4%BD%8E%E6%BD%AE%E7%9A%84%E5%BF%83%E7%90%86%E7%B3%BB%E5%88%97" class="hash-link" aria-label="伴我走過低潮的心理系列的直接連結" title="伴我走過低潮的心理系列的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="伴我走��過低潮的心理系列">伴我走過低潮的心理系列<a href="https://www.t-t.cool/blog/2024-podcast#%E4%BC%B4%E6%88%91%E8%B5%B0%E9%81%8E%E4%BD%8E%E6%BD%AE%E7%9A%84%E5%BF%83%E7%90%86%E7%B3%BB%E5%88%97" class="hash-link" aria-label="伴我走過低潮的心理系列的直接連結" title="伴我走過低潮的心理系列的直接連結">​</a></h3>
 <ul>
 <li>心理師想跟你說</li>
 <li>草木談心</li>
@@ -544,7 +725,7 @@
 <div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">． 2023 Health &amp; Play</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">． 2023 Love</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">． 2023 小結</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="複製程式碼至剪貼簿" title="複製" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <hr>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="2023-health--play">2023 Health &amp; Play<a href="https://www.t-t.cool/blog/2023-reflection-part-2#2023-health--play" class="hash-link" aria-label="2023 Health &amp; Play的直接連結" title="2023 Health &amp; Play的直接連結">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="允��許自己放鬆放空與遊樂">允許自己放鬆、放空與遊樂<a href="https://www.t-t.cool/blog/2023-reflection-part-2#%E5%85%81%E8%A8%B1%E8%87%AA%E5%B7%B1%E6%94%BE%E9%AC%86%E6%94%BE%E7%A9%BA%E8%88%87%E9%81%8A%E6%A8%82" class="hash-link" aria-label="允許自己放鬆、放空與遊樂的直接連結" title="允許自己放鬆、放空與遊樂的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="允許自己放鬆放空與遊樂">允許自己放鬆、放空與遊樂<a href="https://www.t-t.cool/blog/2023-reflection-part-2#%E5%85%81%E8%A8%B1%E8%87%AA%E5%B7%B1%E6%94%BE%E9%AC%86%E6%94%BE%E7%A9%BA%E8%88%87%E9%81%8A%E6%A8%82" class="hash-link" aria-label="允許自己放鬆、放空與遊樂的直接連結" title="允許自己放鬆、放空與遊樂的直接連結">​</a></h3>
 <p>如同在上一篇所回顧的不追求不斷提升生產力，留給自己放鬆的空間是我從大學以來的課題，大學時用學分和活動把生活塞滿，出了社會則是變成下班還在想著工作、下班仍覺得自己沒有上一些課或做 side project 就很焦慮的狀態。</p>
 <p>在 2023 的後半，我趁著換工作前出國到清邁找備考中到處游牧的瓜瓜，很短暫地完全抽離工作，在那個步調很鬆但有著許多遠端工作者的城市，又認識一種新的生活型態。</p>
 <blockquote>
@@ -727,7 +908,7 @@
 <li>多語言問卷 — 功能規劃</li>
 </ul>
 <p>現在回想起來一切都是如此地湊巧，如果不是被迷惘和焦慮籠罩，我可能就不會做這些嘗試，就也不會找到那些讓自己眼神發光的時刻了。雖然老套，但當個「積極的迷惘人」，還是有些道理的。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="從大學畢業">從大學畢業<a href="https://www.t-t.cool/blog/2022-recap#%E5%BE%9E%E5%A4%A7%E5%AD%B8%E7%95%A2%E6%A5%AD" class="hash-link" aria-label="從大學畢業的直�接連結" title="從大學畢業的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="從大學畢業">從大學畢業<a href="https://www.t-t.cool/blog/2022-recap#%E5%BE%9E%E5%A4%A7%E5%AD%B8%E7%95%A2%E6%A5%AD" class="hash-link" aria-label="從大學畢業的直接連結" title="從大學畢業的直接連結">​</a></h3>
 <p>在 2022 年的七月，我從台北租屋處回到新竹跑離校，只不過是過去六年，卻好像已經費盡百年，終於來到這個最後的 RGP 魔王關卡。</p>
 <p>領完系上的紀念品後，也去領了學校送的紀念品和寫著與入學校名不同的畢業證書套，還好延畢前就有買可能絕版的證書套、系上也有一張交大工工系的紀念證書，掛著不同校名的證書們各有歸處。</p>
 <p>看著拿到的那四張紙（中英文畢業證書＋兩張學分學程），內心比起激昂是更加感慨，過去的大學時光，無論瘋狂、勞累、挫折、掙扎，這一刻，一起成為了這幾張紙和成績單上 173 學分的數字，頓時覺得有些單薄。</p>
