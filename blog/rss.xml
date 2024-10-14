@@ -14,9 +14,9 @@
             <guid>https://www.t-t.cool/blog/pm-ability-breakdown</guid>
             <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[cover]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover" src="https://www.t-t.cool/assets/images/cover-c6ff9e794d07228f12f87b8a9cd52eca.png" width="1920" height="1080" class="img_ev3q"></p>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover" src="https://www.t-t.cool/assets/images/cover-0599b090295ebbed0365d3b2d2f87dbe.png" width="1920" height="1080" class="img_ev3q"></p>
 <p>開始想寫這篇文的契機是最近在 Facebook 看到了一篇<a href="https://www.facebook.com/100000072259315/posts/pfbid02xc5PJvtfbRB5aNNmxeiiWstss1Gm69RR8LpadSH846Ami5HtEZfCwWuGrmEif4ikl/?d=n" target="_blank" rel="noopener noreferrer">游舒帆撰寫的有趣文章</a>，主旨是從 AI 學習的角度切入，思考對人類更有效學習的方式。看完文章後，我馬上想起近期看到的 <a href="https://www.youtube.com/watch?v=gqUQbjsYZLQ" target="_blank" rel="noopener noreferrer">Cursor 小撇步影片</a>，也開始聯想到自身的工作經歷，尤其是我一直以來對於 PM 工作中的經驗與知識角色的反思，然後又延伸想到從開始工作到現在我一直會自問跟也很常被其他人問的問題：<code>不是都說 PM 很需要職場經驗嗎，那為什麼你剛畢業可以當 PM？</code></p>
-<p>在 PM 工作中，究竟「知識」與「經驗」扮演著什麼角色？這是這篇文想透過我個人的觀點探討的問題。</p>
+<p>在 PM 工作中，究竟「知識」與「經驗」扮演著什麼角色？這是這篇文想透過一些個人觀點探討的問題。</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="自問自答經驗真的就那麼重要嗎">自問自答：經驗真的就那麼重要嗎？<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E8%87%AA%E5%95%8F%E8%87%AA%E7%AD%94%E7%B6%93%E9%A9%97%E7%9C%9F%E7%9A%84%E5%B0%B1%E9%82%A3%E9%BA%BC%E9%87%8D%E8%A6%81%E5%97%8E" class="hash-link" aria-label="自問自答：經驗真的就那麼重要嗎？的直接連結" title="自問自答：經驗真的就那麼重要嗎？的直接連結">​</a></h2>
 <p>我從準備找工作開始，就不斷地思考經驗到底能為初階職位競爭者帶來多大的差異性。不只是因為和所有新鮮人一樣陷入了沒有經驗就沒有工作、沒有工作就沒有經驗的恐怖漩渦，一開始就鎖定軟體產品經理這個工作也加劇了缺乏經驗對找工作的影響力。</p>
 <p>在開始工作後，我觀察了身邊各式各樣的產品經理，想了解經驗到底對這個職位影響力有多大，最後得出的結論卻是如同另一位曾任 PM 職位（註：此篇的 PM 皆是指 Product Manger）的朋友所說：<code>我覺得大家有點太盲信經驗了。</code></p>
@@ -29,17 +29,19 @@
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="領域知識">領域知識<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E9%A0%98%E5%9F%9F%E7%9F%A5%E8%AD%98" class="hash-link" aria-label="領域知識的直接連結" title="領域知識的直接連結">​</a></h4>
 <p>領域知識泛指在所屬崗位中所需的相關知識，包含常見的產品管理的技術、用戶、商業三大領域，還有各個產業中的特殊知識，像是金融或教育領域的特定需求。</p>
 <p>列舉出這些面向好像還是很模糊，如果沒有工作經驗，我能夠擁有這些知識嗎？如果沒進入過該產業、沒有面對過實際的用戶，我要怎麼有相關的知識？</p>
+<blockquote>
 <p>我的想法是「領域知識是前人經驗的統整，經驗知識則是自身對於知識的實踐和適配」。</p>
+</blockquote>
 <p>領域知識可以是一些商業模型、一些用戶研究的方法論、一些 Web / App / Desktop 軟體運作的基本概念，也可以是不同產業的商品特性或甚至法規等，可以預先學習的結構性內容。這些結構性內容和所有學校學到的學科一樣，其實來源就是前人的經驗、研究、思考，是一套預先被前人統整好的框架。</p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="經驗知識">經驗知識<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E7%B6%93%E9%A9%97%E7%9F%A5%E8%AD%98" class="hash-link" aria-label="經驗知識的直接連結" title="經驗知識的直接連結">​</a></h4>
-<p>而經驗知識，則是在工作經驗（或者說任何非單向輸入的實作形式經驗）中，面對真實問題時，透過篩選、實踐、修正既有認知，最終形成的個人見解。拿專案管理來說，訂定人力和時程、安排優先序是可以依據理論達成規劃的，但如何為團隊預留合適的緩衝時間、怎麼在變動中不斷動態溝通和調整安排，都是可以在過程中不斷優化並累積為自己經驗知識的部分。</p>
+<p>而經驗知識，則是在工作經驗（或者說任何非單向輸入的實作形式經驗）中，面對真實問題時，透過篩選、實踐、修正既有認知，最終形成的個人見解。拿專案管理來說，訂定人力和時程、安排優先序是可以依據理論達成規劃的，但如何為團隊預留合適的緩衝時間、怎麼在變動中不斷動態溝通和調整安排，都是需要在過程中不斷優化並累積為自己經驗知識的部分。</p>
 <p>領域知識為經驗知識奠定了基礎，幫助我們更快適應新的情境。然而，由前面所舉的 PM 例子來看，多年經驗的理想產品主義者、用自身工程經驗自行推斷實作方法的產品經理，兩者都好像應該已經擁有領域知識和經驗知識，卻未能構成與最後一位相同的備受信賴、快速進步結果，也許是受部分我暫稱之為「成長動能」的其他因素影響。</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="成長動能">成長動能<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E6%88%90%E9%95%B7%E5%8B%95%E8%83%BD" class="hash-link" aria-label="成長動能的直接連結" title="成長動能的直接連結">​</a></h3>
 <p>除了領域知識和經驗知識，成長動能也是影響 PM 能力的重要因素，我認為這三者共同構成了 PM 的能力模型。</p>
 <p>在面對任何新的工作項目或挑戰時，有幾件我認為很重要的事：我多能理解當下的情況、我多想知道背後的原因、我多能想像和接納全新的成功或失敗方式，這幾項分別對應到接下來要提到的<strong>流動智力、好奇心、成長型思維</strong>。</p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="流動智力">流動智力<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E6%B5%81%E5%8B%95%E6%99%BA%E5%8A%9B" class="hash-link" aria-label="流動智力的直接連結" title="流動智力的直接連結">​</a></h4>
-<p>在思考對情境的理解能力的時候，我想起過去在課堂學過的「流動智力」這個詞。在心理學家 Cattell 對智力的分類中，人類的認知有兩種智力類型，第一種是「流體智力」（fluid intelligence），主要為邏輯推理、彈性思考與解決新問題的能力；第二種則為「晶體智力」（crystallized intelligence），主要是運用過去所累積知識庫存的能力。在理論中，晶體智力會隨著年紀 aka 人生經驗增長、流動智力在 20 - 30 歲達到高峰後漸漸下降。</p>
-<p>簡言之，流動智力代表我們在面對新問題時的反應和解決能力，比如當你首次接手一個全新領域的項目時，能快速理清邏輯並做出判斷。晶體智力則是你過去經驗中的累積，比如在過去解決過類似問題後，對下一次挑戰更有把握。</p>
+<p>在思考對情境的理解能力的時候，我想起過去在課堂學過的「流動智力」這個詞。在心理學家 Cattell 對智力的分類中，人類的認知有兩種智力類型，第一種是「流體智力」（Fluid Intelligence），主要為邏輯推理、彈性思考與解決新問題的能力；第二種則為「晶體智力」（Crystallized Intelligence），主要是運用過去所累積知識庫存的能力。在理論中，晶體智力會隨著年紀 aka 人生經驗增長、流動智力在 20 - 30 歲達到高峰後漸漸下降。</p>
+<p>簡言之，流動智力代表我們在面對新問題時的反應和解決能力，比如當你首次接手一個全新領域的項目時，能快速理清邏輯並做出判斷。晶體智力則是你過去經驗中的累積，和經驗知識有很大的關聯性，比如在過去解決過類似問題後，對下一次挑戰更有把握。</p>
 <p>針對目前工作上遇到的各種情境，我基於這項理論得到的想法是，在我現在的人生階段，我倚靠的大多是流動智力帶來的反應力與判斷力，並透過這些組織、解決問題的經驗來累積晶體智力。雖然在決策時並不是只能運用其一，但我自認為在這個階段就大幅地使用經驗來做判斷，是不夠安全的做法，因為此時的我經驗不夠多、不夠全面、也未經過多次驗證；也因此，我會時刻提醒自己在累積與運用經驗知識的同時，要保持存疑、隨時修正。</p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="好奇心">好奇心<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E5%A5%BD%E5%A5%87%E5%BF%83" class="hash-link" aria-label="好奇心的直接連結" title="好奇心的直接連結">​</a></h4>
 <p>流體智力帶來的反應力與判斷力是針對問題的快速處理和概略理解，而如果要更深入了解問題的核心，則需要深掘更多細節，這會需要對問題有足夠的好奇心。比如主管不滿意自己交付的成果時、新發布的功能成效不彰時、抑或是團隊溝通不夠順暢時，都需要反覆地思考跟挖掘為什麼？有哪些因素導致這樣的結果？那用什麼方式能夠帶來何種改變？（如同著名的黃金圈理論 Why - How - What）</p>
@@ -47,7 +49,7 @@
 <p>而要能創造改變就會需要成長型思維：願意學習新知識、嘗試不同的方法，並且在面對失敗或挫折時保持堅韌和積極的態度。</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="能力值的構成">能力值的構成<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E8%83%BD%E5%8A%9B%E5%80%BC%E7%9A%84%E6%A7%8B%E6%88%90" class="hash-link" aria-label="能力值的構成的直接連結" title="能力值的構成的直接連結">​</a></h3>
 <p>上述提到的領域知識、經驗知識、成長動能三者相輔相成，形成產品經理的基礎能力值。</p>
-<p><img decoding="async" loading="lazy" alt="formula" src="https://www.t-t.cool/assets/images/formula-c5b6c313b07d52cc05b625e737f5ead6.png" width="1920" height="1080" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="formula" src="https://www.t-t.cool/assets/images/formula-262400e6792d11e2944cca6578a31803.png" width="1920" height="1080" class="img_ev3q"></p>
 <p>經驗知識的初始值可能很低，卻會隨著工作經驗增長，但增長的幅度是會受到領域知識與成長動能影響深度和廣度的。</p>
 <p>另一方面，領域知識與成長動能是初期就可以培養出的能力，但沒有隨著工作經驗增長一起增加的話，整體能力值成長幅度也會因此受限。</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="建構能力值">建構能力值<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E5%BB%BA%E6%A7%8B%E8%83%BD%E5%8A%9B%E5%80%BC" class="hash-link" aria-label="建構能力值的直接連結" title="建構能力值的直接連結">​</a></h2>
@@ -102,8 +104,9 @@
 <p>後期：透過成長動能，擁抱新知、調整自己的認知與行為，突破思考侷限</p>
 </li>
 </ul>
-<p>這邊的早期中期後期並不會是線性的流程，而是可以視為一個循環往復的思考迭代過程，在累積不同領域知識、實踐、內化的循環裡，提升對不同知識與技能的掌握度。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="使用-cursorai-與人類的結構與非結構化學習">使用 Cursor：AI 與人類的結構與非結構化學習<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E4%BD%BF%E7%94%A8-cursorai-%E8%88%87%E4%BA%BA%E9%A1%9E%E7%9A%84%E7%B5%90%E6%A7%8B%E8%88%87%E9%9D%9E%E7%B5%90%E6%A7%8B%E5%8C%96%E5%AD%B8%E7%BF%92" class="hash-link" aria-label="使用 Cursor：AI 與人類的結構與非結構化學習的直接連結" title="使用 Cursor：AI 與人類的結構與非結構化學習的直接連結">​</a></h3>
+<p>這邊的早期中期後期並不會是線性的流程，而是可以視為一個循環往復的迭代過程，在累積不同領域知識、實踐、內化的循環裡，提升對不同知識與技能的掌握度。<br>
+<!-- -->另外，應當記得有 <code>低結構性的輸入，早期表現差，但後期會有飛躍性提升</code> 這個原則。工作者在開始累積經驗時要有面對初期大量的挫敗與不適應的心理準備，但倚靠自我提升領域知識與成長動能，可以決定整體適應狀況與能力成長的幅度。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="使用-cursorai-與人類的結構與非結構化學習">使用 Cursor：AI 與人類的結構與非結構化學習<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E4%BD%BF%E7%94%A8-cursorai-%E8%88%87%E4%BA%BA%E9%A1%9E%E7%9A%84%E7%B5%90%E6%A7%8B%E8%88%87%E9%9D%9E%E7%B5%90%E6%A7%8B%E5%8C%96%E5%AD%B8%E7%BF%92" class="hash-link" aria-label="使��用 Cursor：AI 與人類的結構與非結構化學習的直接連結" title="使用 Cursor：AI 與人類的結構與非結構化學習的直接連結">​</a></h3>
 <p>很有趣的是在先前提及的這部 Cursor 小撇步介紹影片中，對於用戶和 Cursor 好的合作的方式，提及的方法有幾分關聯性：</p>
 <ul>
 <li>
@@ -133,11 +136,11 @@
 <p>先建立結構化的領域知識，再透過實際經歷獲取經驗知識，並藉由成長動能放大加乘效果，是能力值增長的方式</p>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="所以沒有工作經驗可以當產品經理嗎">所以，沒有工作經驗可以當產品經理嗎？<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E6%89%80%E4%BB%A5%E6%B2%92%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%B6%93%E9%A9%97%E5%8F%AF%E4%BB%A5%E7%95%B6%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86%E5%97%8E" class="hash-link" aria-label="所以，沒有工作經驗可以當產品經理嗎？的直接連結" title="所以，沒有工作經驗可以當產品經理嗎？的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="所以沒有工作經驗可以當產品經理嗎">所以，沒有工作經驗可以當產品經理嗎？<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E6%89%80%E4%BB%A5%E6%B2%92%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%B6%93%E9%A9%97%E5%8F%AF%E4%BB%A5%E7%95%B6%E7%94%A2%E5%93%81%E7%B6%93%EF%BF%BD%E7%90%86%E5%97%8E" class="hash-link" aria-label="所以，沒有工作經驗可以當產品經理嗎？的直接連結" title="所以，沒有工作經驗可以當產品經理嗎？的直接連結">​</a></h3>
 <p><img decoding="async" loading="lazy" alt="hiring-meme" src="https://www.t-t.cool/assets/images/hiring-meme-d1967573c7c3ebe9b385e623a2565f35.png" width="600" height="544" class="img_ev3q"></p>
 <p>回應第一段遇到的這個問題，總結來說，我認為要成為一名 PM，不能僅依賴經驗，而是需要在領域知識、經驗知識和成長動能之間取得平衡。所以，對於那個經常被問到的問題——『沒有經驗能當 PM 嗎？』我的答案是，若能擁有基本領域知識、足夠的成長動能、一點點小型專案而來的經驗知識，是可以的。</p>
-<p>和從其他職位轉職同理，前提都是你能從其他地方累積到你進入的職位所要求的基礎能力值，比如對用戶研究方法的理解和實際專案經驗等。我身邊也有不少朋友一樣是透過在大學／研究所時期累積的軟體相關專案、實習、研究經驗，一出社會就擔任這個 PM 職位。</p>
-<p>當然，這裡僅限 Junior、IC 職位，其他更高階的職位不在此次討論範圍。</p>
+<p>和從其他職位轉職同理，前提都是你能從其他地方累積到你進入的職位所要求的基礎能力值，比如對用戶研究方法的理解和實際專案經驗等。我身邊也有不少朋友一樣是透過在大學／研究所時期累積的軟體相關專案、實習、研究經驗，一出社會就擔任 PM 這項職位。</p>
+<p>當然，以上探討僅限縮於我自身處在的 IC、相對 Junior 的職位，其他更高階的職位不在這裡的討論範圍。</p>
 <hr>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="參考資料">參考資料<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99" class="hash-link" aria-label="參考資料的直接連結" title="參考資料的直接連結">​</a></h2>
 <ul>
