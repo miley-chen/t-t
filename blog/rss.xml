@@ -4,11 +4,119 @@
         <title>Thinking Today Blog</title>
         <link>https://www.t-t.cool/blog</link>
         <description>Thinking Today Blog</description>
-        <lastBuildDate>Sun, 13 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Nov 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
         <copyright>Copyright © 2024 Thinking Today</copyright>
+        <item>
+            <title><![CDATA[對 AI 的粗淺認識與個人見解]]></title>
+            <link>https://www.t-t.cool/blog/AI-notes-and-perspection</link>
+            <guid>https://www.t-t.cool/blog/AI-notes-and-perspection</guid>
+            <pubDate>Sat, 09 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[cover]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover" src="https://www.t-t.cool/assets/images/cover-15ee9f37b7f31d3e01aea4713f685b11.png" width="1920" height="1080" class="img_ev3q"></p>
+<p>前陣子在 Coursera 上完成了 <a href="https://www.coursera.org/learn/google-ai-essentials?irgwc=1&amp;utm_medium=partners&amp;utm_source=impact&amp;utm_campaign=2985301&amp;utm_content=b2c&amp;gad_source=1&amp;irclickid=1AxwlqWyFxyKR7MXQczqn2pCUkCTLu3AxWUfwA0" target="_blank" rel="noopener noreferrer">Google AI Essential</a> 這門課，相比先前在 Google Skill Shop 沒上完的 AI 課程，這是一門更加容易上手的基本入門課（aka 比初階更初階的基礎介紹），對 AI 的技術說明比例較低，較多圍繞在 AI 限制與帶來的影響、Prompt Engineering 這些主題。上課筆記被我整理在 Garden 裡，而這篇文章主要是連結了近期看到的文章們，紀錄下一些個人想法。</p>
+<p>免責聲明（？）：上課筆記可能有理解錯誤或敘述不清，個人見解部分則是我腦洞大開，都歡迎利用網站右下角的回饋或是來信網站底端附上的信箱討論。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="對-ai-的粗淺認識">對 AI 的粗淺認識<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E5%B0%8D-ai-%E7%9A%84%E7%B2%97%E6%B7%BA%E8%AA%8D%E8%AD%98" class="hash-link" aria-label="對 AI 的粗淺認識的直接連結" title="對 AI 的粗淺認識的直接連結">​</a></h2>
+<p>避免文章過長，比較詳細的技術名詞筆記都在 Garden，建議對技術名詞解釋的人有興趣再點擊文內連結去看。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="llm-是-ai-的一個子集合"><a href="https://www.t-t.cool/garden/tech-notes/AI/LLM">LLM 是 AI 的一個子集合</a><a href="https://www.t-t.cool/blog/AI-notes-and-perspection#llm-%E6%98%AF-ai-%E7%9A%84%E4%B8%80%E5%80%8B%E5%AD%90%E9%9B%86%E5%90%88" class="hash-link" aria-label="llm-是-ai-的一個子集合的直接連結" title="llm-是-ai-的一個子集合的直接連結">​</a></h3>
+<p>近年迅速竄起的 AI 產業風潮，精確來說是由使用大型語言模型（Large language model, LLM）技術的工具所引領，而 LLM 是人工智慧（Artificial Intelligence, AI）的一個子集。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="重點整理">重點整理<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E9%87%8D%E9%BB%9E%E6%95%B4%E7%90%86" class="hash-link" aria-label="重點整理的直接連結" title="重點整理的直接連結">​</a></h4>
+<p>為了區分什麼是 LLM，實在是需要了解非常多專有名詞，可以點擊標題去參考 Garden 的筆記，簡化後的兩點關鍵：</p>
+<ul>
+<li>
+<p>AI 是指能模擬人類智慧完成做決策或解決問題等複雜情境的電腦程式</p>
+</li>
+<li>
+<p>LLM 是 GAI 的一個子集，特別強調在文字生成與語言理解上的能力</p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ai-的先天限制"><a href="https://www.t-t.cool/garden/tech-notes/AI/AI-limitation">AI 的先天限制</a><a href="https://www.t-t.cool/blog/AI-notes-and-perspection#ai-%E7%9A%84%E5%85%88%E5%A4%A9%E9%99%90%E5%88%B6" class="hash-link" aria-label="ai-的先天限制的直接連結" title="ai-的先天限制的直接連結">​</a></h3>
+<p>即使 AI 的發展越來越進步，它依然面臨一些先天性的限制，讓它在實際應用中可能產生誤差或不準確的情況。</p>
+<p>無論是將它應用於不同產品上的開發端，還是使用應用相關技術工具的用戶端，瞭解他的限制並培養辨認 AI 提供的哪些內容是真實有效都是必要的。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="重點整理-1">重點整理<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E9%87%8D%E9%BB%9E%E6%95%B4%E7%90%86-1" class="hash-link" aria-label="重點整理的直接連結" title="重點整理的直接連結">​</a></h4>
+<ul>
+<li>
+<p>知識截止點來自 AI 無法獲取最新資訊，是知識的靜態限制</p>
+<ul>
+<li>飄移是知識逐漸脫節的動態影響，使 AI 回應的知識不符合現況</li>
+<li>幻覺是知識截止點和飄移造成的結果之一，當 AI 無法提供真實答案時，可能為了填補空缺而編造出錯誤的回應</li>
+</ul>
+</li>
+<li>
+<p>偏誤和幻覺都可能來自 AI 訓練數據的品質問題</p>
+<ul>
+<li>當數據本身存在偏見或錯誤，AI 就可能在回答中反映這些偏見</li>
+<li>偏見可能導致幻覺中的不公平表現，讓 AI 編造出有偏向的答案</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="和-llm-合作更順暢的-prompting-技巧"><a href="https://www.t-t.cool/garden/tech-notes/AI/prompt-engineering">和 LLM 合作更順暢的 Prompting 技巧</a><a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E5%92%8C-llm-%E5%90%88%E4%BD%9C%E6%9B%B4%E9%A0%86%E6%9A%A2%E7%9A%84-prompting-%E6%8A%80%E5%B7%A7" class="hash-link" aria-label="和-llm-合作更順暢的-prompting-技巧的直接連結" title="和-llm-合作更順暢的-prompting-技巧的直接連結">​</a></h3>
+<p>在使用 LLM 時，提示語（Prompt）的撰寫方式會直接影響 AI 回應的品質，因此初步理解提示工程（Prompt engineering）這門用來設計與撰寫指令的技術，能夠幫助自己引導 AI 提供更有用、清晰、並且符合需求的結果。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="重點整理-2">重點整理<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E9%87%8D%E9%BB%9E%E6%95%B4%E7%90%86-2" class="hash-link" aria-label="重點整理的直接連結" title="重點整理的直接連結">​</a></h4>
+<ul>
+<li>給予脈絡，告訴 AI 情境和回答的角色</li>
+<li>使用動詞，明確指出要 AI 執行的事項</li>
+<li>適度給予範例或請 AI 逐步解釋問題</li>
+<li>持續參與和 AI 的對話，運用人類的判斷和審核，引導出合理的結果</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一些個人觀察與見解">一些個人觀察與見解<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E4%B8%80%E4%BA%9B%E5%80%8B%E4%BA%BA%E8%A7%80%E5%AF%9F%E8%88%87%E8%A6%8B%E8%A7%A3" class="hash-link" aria-label="一些個人觀察與見解的直接連結" title="一些個人觀察與見解的直接連結">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="觀察-ai-正在帶來的知識改革新一波知識爆炸時代加深識讀能力的重要性">觀察 AI 正在帶來的知識改革：新一波知識爆炸時代加深識讀能力的重要性<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E8%A7%80%E5%AF%9F-ai-%E6%AD%A3%E5%9C%A8%E5%B8%B6%E4%BE%86%E7%9A%84%E7%9F%A5%E8%AD%98%E6%94%B9%E9%9D%A9%E6%96%B0%E4%B8%80%E6%B3%A2%E7%9F%A5%E8%AD%98%E7%88%86%E7%82%B8%E6%99%82%E4%BB%A3%E5%8A%A0%E6%B7%B1%E8%AD%98%E8%AE%80%E8%83%BD%E5%8A%9B%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7" class="hash-link" aria-label="觀察 AI 正在帶來的知識改革：新一波知識爆炸時代加深識讀能力的重要性的直接連��結" title="觀察 AI 正在帶來的知識改革：新一波知識爆炸時代加深識讀能力的重要性的直接連結">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="更快更容易取得知識密度高但可能有錯的資訊">更快、更容易取得知識密度高（但可能有錯）的資訊<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E6%9B%B4%E5%BF%AB%E6%9B%B4%E5%AE%B9%E6%98%93%E5%8F%96%E5%BE%97%E7%9F%A5%E8%AD%98%E5%AF%86%E5%BA%A6%E9%AB%98%E4%BD%86%E5%8F%AF%E8%83%BD%E6%9C%89%E9%8C%AF%E7%9A%84%E8%B3%87%E8%A8%8A" class="hash-link" aria-label="更快、更容易取得知識密度高（但可能有錯）的資訊的直接連結" title="更快、更容易取得知識密度高（但可能有錯）的資訊的直接連結">​</a></h4>
+<p>AI 的發展為我們提供了前所未有的資訊獲取速度，在這樣一個新時代裡，識讀能力將比以往更加重要，因為知識的生成與傳播速度雖然空前加快，但其中的準確性與適用性卻未必能得到保證。</p>
+<p>AI 工具讓我們能夠迅速獲取濃縮且豐富的知識，無論是技術文件的摘要、學術研究的大綱，還是複雜概念的簡單解釋。然而，這些 AI 生成內容的知識密度雖高，但它們並非總是準確或完整，部分資訊可能包含邏輯漏洞、缺乏背景脈絡，甚至是錯誤陳述。這意味著我們在使用 AI 生成資訊時，必須以批判性的眼光加以檢視，避免過度依賴其結論。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="理解技術有其限制有意識地篩選資訊與挑選應用場景">理解技術有其限制，有意識地篩選資訊與挑選應用場景<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E7%90%86%E8%A7%A3%E6%8A%80%E8%A1%93%E6%9C%89%E5%85%B6%E9%99%90%E5%88%B6%E6%9C%89%E6%84%8F%E8%AD%98%E5%9C%B0%E7%AF%A9%E9%81%B8%E8%B3%87%E8%A8%8A%E8%88%87%E6%8C%91%E9%81%B8%E6%87%89%E7%94%A8%E5%A0%B4%E6%99%AF" class="hash-link" aria-label="理解技術有其限制，有意識地篩選資訊與挑選應用場景的直接連結" title="理解技術有其限制，有意識地篩選資訊與挑選應用場景的直接連結">​</a></h4>
+<p>AI 的優勢在於效率，但它的限制也不可忽視。大型語言模型並不真正「理解」其生成的內容，而是基於語言模式進行推導。因此，它們可能在快速生成重複性內容或提供創意靈感等特定場景下表現出色，但在高度專業化的情境中，如醫學診斷或法律解釋，容易導致誤用風險。因此識讀能力的重要性不僅體現在資訊篩選上，還包括我們對應用場景的意識。使用者需要主動選擇適合 AI 發揮其效能的場景，並在關鍵情境下引入人類專家的判斷。</p>
+<p>以我今年使用 ChatGPT 協助我閱讀一些論文為例，雖然它可以幫助我快速翻譯和整理重點，但有時也會有和未完整說明、不符文章脈絡的資訊參雜其中，如果無法分辨資訊的真偽或與來源的一致性，可能會影響吸收知識的成效。​而如果是用來對閱讀的內容提出問題，相對有更高容錯度，甚至能由它提供的角度激發思考。 <a href="https://www.t-t.cool/blog/AI-notes-and-perspection#1-%E9%97%9C%E6%96%BC%E7%94%A8-ai-%E5%81%9A%E8%B3%87%E8%A8%8A%E8%99%95%E7%90%86manny-%E6%8F%90%E5%87%BA%E7%9A%84%E9%80%99%E7%AF%87%E5%BF%83%E5%BE%97%E5%BE%88%E5%80%BC%E5%BE%97%E7%9C%8B%E7%9C%8B">[1]</a></p>
+<p>理解 AI 工具的優勢與局限，在對生成的知識保持質疑與反思的態度下，挑選適用的場景，會是人們如何能更高效地利用這些新工具拓展知識與技術邊界的關鍵。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="議題探討ai-會讓寫作能力與思考能力消失嗎">議題探討：AI 會讓寫作能力與思考能力消失嗎？<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E8%AD%B0%E9%A1%8C%E6%8E%A2%E8%A8%8Eai-%E6%9C%83%E8%AE%93%E5%AF%AB%E4%BD%9C%E8%83%BD%E5%8A%9B%E8%88%87%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B%E6%B6%88%E5%A4%B1%E5%97%8E" class="hash-link" aria-label="議題探討：AI 會讓寫作能力與思考能力消失嗎？的直接連結" title="議題探討：AI 會讓寫作能力與思考能力消失嗎？的直接連結">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="寫作只是其中一種思考">寫作只是「其中一種」思考<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E5%AF%AB%E4%BD%9C%E5%8F%AA%E6%98%AF%E5%85%B6%E4%B8%AD%E4%B8%80%E7%A8%AE%E6%80%9D%E8%80%83" class="hash-link" aria-label="寫作只是「其中一種」思考的直接連結" title="寫作只是「其中一種」思考的直接連結">​</a></h4>
+<p>前陣子看到 Paul Graham 的文章 <a href="https://paulgraham.com/writes.html?__readwiseLocation=" target="_blank" rel="noopener noreferrer">Writes and Write-Nots</a> 引發了一些討論，他在文章中提出，未來幾十年內，人們將依賴 AI 來完成寫作任務，這將導致寫作能力逐漸消失，進而危及人類的思考能力。然而，我卻不認同人類的獨立思考能力會因此而被嚴重危害。</p>
+<p>在 <a href="https://every.to/chain-of-thought/writing-as-a-way-of-thinking" target="_blank" rel="noopener noreferrer">Writing as a Way of Thinking</a> 這篇文章裡，作者很好地點出另一種論點：寫作不是「唯一」的思考方式，AI 也許會改變現今人們寫作的方式，但其他類型的思考將被保留甚至增強。</p>
+<p>思考能力會隨著寫作能力一起消失的觀點建立在一個假設之上：思考必須依賴寫作，然而這並不完全符合事實。在文字被發明來承載思考以前，思考就已經存在於人們的腦海中，以我自身來說，雖然近一年來我開始透過寫作探索新的思考方式，但這並不意味著過去二十幾年我未曾進行深度思考，只是當時我的思考以不同形式存在；甚至我會說寫作對思考不是必要的，它是幫助人類擴展思考的一種工具，但並非唯一的方法。就像簡報、攝影、舞蹈等媒介一樣，寫作的價值在於幫助我們紀錄、傳遞或回頭觀看思考的脈絡，而不等同於思考本身，這也是為什麼人類不斷發明新的媒介來拓展思考與表達的可能性。</p>
+<p>綜上所述，我相信即使寫作能力削弱，人類的獨立思考能力也不會迎來終點，而是新的思考形式會隨之誕生。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="寫作與思考能力可能會有典範轉移但不會消失">寫作與思考能力可能會有典範轉移但不會消失<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E5%AF%AB%E4%BD%9C%E8%88%87%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B%E5%8F%AF%E8%83%BD%E6%9C%83%E6%9C%89%E5%85%B8%E7%AF%84%E8%BD%89%E7%A7%BB%E4%BD%86%E4%B8%8D%E6%9C%83%E6%B6%88%E5%A4%B1" class="hash-link" aria-label="寫�作與思考能力可能會有典範轉移但不會消失的直接連結" title="寫作與思考能力可能會有典範轉移但不會消失的直接連結">​</a></h4>
+<p>作為一個更偏向科技樂觀主義的人，我相信寫作能力並不會簡單地消失，而是經歷典範轉移。</p>
+<p>從大多數 LLM 工具應用中可以觀察到，AI 的核心應用場景之一是基於文字的對話與指令。這意味著未來的寫作能力可能將不再著重於將從文學式的敘事技巧，而是轉變為如何高效地與 AI 協作，以生成目標成果。與其專注於完整文章的架構，人們可能更需要掌握如何通過簡潔的壓縮詞 <a href="https://www.t-t.cool/blog/AI-notes-and-perspection#2-%E9%97%9C%E6%96%BC%E5%A3%93%E7%B8%AE%E8%A9%9E%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%AF%E4%BB%A5%E5%8F%83%E8%80%83-pj-%E7%9A%84%E9%80%99%E5%B0%81%E4%BF%A1">[2]</a>、精準的提問以及清晰的範例來引導 AI，Prompt Engineering 正是這種新型寫作能力的早期體現。</p>
+<p>這樣的典範轉移也代表著寫作時經歷的思考過程將產生深刻改變。傳統寫作的過程強調從無到有的創造性，而 AI 則讓我們在早期階段進行更多抽象化與結構化的思考。這種人類參與循環結合了人類創造力與模型運算能力，帶來更高效的協作式思考，也改變了寫作的本質。</p>
+<p>例如，行銷團隊可能不再需要完整撰寫行銷文章，而是可以透過向 AI 提供一系列提示來生成初稿，再針對不滿意的部分進行修改和補充。在這樣的情境中，寫作能力仍然發揮作用，但它轉變成更接近於設計者的能力 —— 定義目標、描述意圖、解決問題，而非傳統意義上的文章寫作。</p>
+<p>在 <a href="https://every.to/thesis/the-end-of-productivity" target="_blank" rel="noopener noreferrer">The End of Productivity</a> 這篇文章中可以從 PKM 工具轉變的角度看到 AI 幫助人們從生產力轉向創造力的概念：過去大多數的工具是為了收斂想法所建，引導你專注於用一系列的線性方法簡化和精煉想法；現在藉由其他更自由的組織方式與 AI 的幫助下，創造性的思考得到了更多的支持。</p>
+<blockquote>
+<p>The AI didn’t generate the output for me. It surfaced just-in-time quotes to reinforce my argument, rescue me from my own forgetfulness, and push me to make the occasional creative leap.</p>
+</blockquote>
+<p>這種轉變將導致社會需要重新評估寫作能力的定義，且為了避免人們未能掌握與 AI 協作的新技能而被邊緣化，教育方針也需要因應新型態的寫作調整能力培養方式，以確保人們能在新環境下保持競爭力。總體來說，未來從寫作衍生的思考可能更加多維、模組化，與工具的協作也將成為我們日常思維的一部分。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ai-工具的發展與影響">AI 工具的發展與影響<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#ai-%E5%B7%A5%E5%85%B7%E7%9A%84%E7%99%BC%E5%B1%95%E8%88%87%E5%BD%B1%E9%9F%BF" class="hash-link" aria-label="AI 工具的發展與影響的直接連結" title="AI 工具的發展與影響的直接連結">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="消弭呈現形式在思考和溝通上造成的阻礙">消弭呈現形式在思考和溝通上造成的阻礙<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E6%B6%88%E5%BC%AD%E5%91%88%E7%8F%BE%E5%BD%A2%E5%BC%8F%E5%9C%A8%E6%80%9D%E8%80%83%E5%92%8C%E6%BA%9D%E9%80%9A%E4%B8%8A%E9%80%A0%E6%88%90%E7%9A%84%E9%98%BB%E7%A4%99" class="hash-link" aria-label="消弭呈現形式在思考和溝通上造成的阻礙的直接連結" title="消弭呈現形式在思考和溝通上造成的阻礙的直接連結">​</a></h4>
+<p>AI 的發展讓我看到一個可能性：未來的生產工具不再僅僅是輔助我們創造內容，而是成為一種橋樑，縮短思考與呈現形式之間的距離。在目前的溝通與表達過程中，我們常常受到形式的局限（例如：文章、簡報或圖表）導致無法傳達或接收完整的思路，甚至讓溝通效率降低。AI 有潛力幫助我們直接轉化思考為多種形式的表達，進而大幅減少這些阻礙。</p>
+<p>舉例來說，我在工作中經常需要先用 FigJam 規劃功能與流程，接著將規劃內容整理成 Confluence 規格文件，供工程師開發參照，最後再製作簡報，向跨部門成員解釋功能的情境背景與操作方式。儘管這些內容都來自同一個思考脈絡，但因應面向不同角色的溝通需求，我必須花費大量時間進行「轉譯」。再加上我對文件呈現的龜毛要求，這些形式化的處理，時常成為影響我效率的瓶頸。</p>
+<p>如果 AI 工具能協助我們更快速地在不同形式之間切換，那麼我們就能將更多精力專注於思考本身，而非被表達形式束縛，溝通也藉由便利的形式轉換變得更加容易。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="作為一種新的互動介面">作為一種新的互動介面<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E4%BD%9C%E7%82%BA%E4%B8%80%E7%A8%AE%E6%96%B0%E7%9A%84%E4%BA%92%E5%8B%95%E4%BB%8B%E9%9D%A2" class="hash-link" aria-label="作為一種新的互動介面的直接連結" title="作為一種新的互動介面的直接連結">​</a></h4>
+<p>最近看了一本教導學術寫作的書 They say I say，書中強調學術寫作的核心在於：</p>
+<blockquote>
+<p>你必須將自己的論點與其他論點形成一個對談。</p>
+</blockquote>
+<p>在我看來，這種對話的底層概念在傳統學術寫作與指令寫作之間並未改變。過去，寫作的過程同時是思考與表達的過程，結果最終在靜態文本呈現；而在使用 AI 時，更多的對話與探索過程被保留於動態的互動之中。</p>
+<p>目前許多工具嘗試融入 LLM，讓原本複雜的操作可以透過簡顯易懂的自然語言快速調整，而這種和 AI「對話」的形式成為了一種新的互動介面。</p>
+<blockquote>
+<p>Just as the GUI allowed users to interact with computers through intuitive visual elements, interactive AI enables users to engage with technology — or more properly, the information that technology can make available — as well as their own thinking processes in more dynamic and meaningful ways. This transformation is not merely about making information more accessible, but about fundamentally altering how users retrieve and interact with data, and ultimately, how they think and act in the world.
+—— <a href="https://www.linkedin.com/pulse/ai-interface-transforming-human-computer-interaction-friedland-phd-dvude/" target="_blank" rel="noopener noreferrer">AI as Interface: Transforming Human-Computer Interaction</a></p>
+</blockquote>
+<p>比如 Typeform 直接另闢戰場，推出 AI 新產品 Formless，完全是一個以文字互動為體驗核心的表單軟體，將建立問卷步驟拆解成了一系列文字輸入，甚至問卷本身就是以對話的方式進行。這個產品摒棄了舊有的制式題型，將如何設計問題與分析回答交給 AI 思考，降低資料收集的門檻，讓設計問卷與填答所有流程，都可以用大家最熟悉的對話方式進行 <a href="https://www.t-t.cool/blog/AI-notes-and-perspection#3-%E4%B8%80%E4%BA%9B%E8%88%87%E6%96%87%E7%AB%A0%E7%84%A1%E9%97%9C%E7%9A%84%E6%83%B3%E6%B3%95%E5%85%B6%E5%AF%A6%E7%9B%AE%E5%89%8D%E4%BE%86%E7%9C%8B%E6%88%91%E5%BE%88%E9%9B%A3%E8%AA%AA%E4%BD%BF%E7%94%A8%E9%80%99%E7%A8%AE%E5%B0%8D%E8%A9%B1%E4%BB%8B%E9%9D%A2%E8%AE%93%E9%AB%94%E9%A9%97%E8%AE%8A%E5%A5%BD%E5%8F%AA%E8%83%BD%E8%AA%AA%E4%BD%BF%E7%94%A8%E9%96%80%E6%AA%BB%E9%99%8D%E4%BD%8E%E5%A6%82%E6%9E%9C%E6%98%AF%E5%B0%8D%E5%BE%88%E6%9C%89%E7%B6%93%E9%A9%97%E7%9A%84%E5%95%8F%E5%8D%B7%E8%A8%AD%E8%A8%88%E8%80%85%E4%BE%86%E8%AA%AA%E5%8F%AF%E8%83%BD%E5%8F%8D%E8%80%8C%E8%B7%9F%E9%A0%90%E6%9C%9F%E8%90%BD%E5%B7%AE%E5%BE%88%E9%81%A0%E4%B8%94%E5%B0%8D%E8%A9%B1%E5%BD%A2%E5%BC%8F%E5%B0%8D%E5%A1%AB%E7%AD%94%E8%80%85%E4%BE%86%E8%AA%AA%E8%AE%8A%E5%BE%97%E9%BA%BB%E7%85%A9%E5%A4%A7%E6%A9%9F%E7%8E%87%E6%9C%83%E5%B0%8E%E8%87%B4%E9%99%8D%E4%BD%8E%E5%A1%AB%E7%AD%94%E7%8E%87%E4%BD%86-typeform-%E6%9C%AC%E8%BA%AB%E5%92%8C%E5%85%B6%E4%BB%96%E7%AB%B6%E5%93%81%E4%B8%80%E6%A8%A3%E9%83%BD%E6%9C%89%E4%BB%A5-ai-%E7%94%9F%E6%88%90%E7%B5%90%E6%A7%8B%E5%8C%96%E5%95%8F%E9%A1%8C%E7%9A%84%E5%8A%9F%E8%83%BDformless-%E9%80%99%E5%80%8B%E7%94%A2%E5%93%81%E7%9C%8B%E8%B5%B7%E4%BE%86%E6%9B%B4%E5%83%8F%E6%98%AF%E5%9C%A8%E6%8C%91%E6%88%B0%E6%9C%AA%E4%BE%86%E4%BA%BA%E5%80%91%E6%9C%83%E7%BF%92%E6%85%A3%E5%AE%8C%E5%85%A8%E4%BD%BF%E7%94%A8%E9%80%99%E7%A8%AE%E5%B0%8D%E8%A9%B1%E4%BB%8B%E9%9D%A2%E7%9A%84%E5%8F%AF%E8%83%BD">[3]</a>。</p>
+<p>這種互動介面可以用在各式各樣的產品與領域，於是各種與推導、規劃、生成相關的技能似乎都會和前述的寫作能力變化面臨相同的問題 —— 會有更多人向倚靠 AI 達成任務、深度鑽研知識的兩端靠攏。許多人可能就止步在讓 AI 完成最基本的工作，卻沒有更深入的知識可以引導或調整出更好的成果；也有些人可能是現在已有高知識含量、或是能夠善用 AI 工具幫助自己到深度知識的一端。如何能發展新的學習或思考方式來跨越兩端中間的鴻溝，是在有了各種 AI 工具以後人們將面臨的一大挑戰。</p>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>備註</div><div class="admonitionContent_BuS1"><h5 class="anchor anchorWithStickyNavbar_LWe7" id="1-關於用-ai-做資訊處理manny-提出的這篇心得很值得看看">[1] 關於用 AI 做資訊處理，<a href="https://www.facebook.com/mannyyhl/posts/pfbid024116F3trjJV7J1gqVMbGWJWTKfbwKWKeZbiL714Ny6LRnz5tjjRUpRVd8Xhwgggel?rdid=iMh4e9QiSGgFtE1t" target="_blank" rel="noopener noreferrer">Manny 提出的這篇心得</a>很值得看看<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#1-%E9%97%9C%E6%96%BC%E7%94%A8-ai-%E5%81%9A%E8%B3%87%E8%A8%8A%E8%99%95%E7%90%86manny-%E6%8F%90%E5%87%BA%E7%9A%84%E9%80%99%E7%AF%87%E5%BF%83%E5%BE%97%E5%BE%88%E5%80%BC%E5%BE%97%E7%9C%8B%E7%9C%8B" class="hash-link" aria-label="1-關於用-ai-做資訊處理manny-提出的這篇心得很值得看看的直接連結" title="1-關於用-ai-做資訊處理manny-提出的這篇心得很值得看看的直接連結">​</a></h5><h5 class="anchor anchorWithStickyNavbar_LWe7" id="2-關於壓縮詞的概念可以參考-pj-的這封信">[2] 關於壓縮詞的概念，可以參考 <a href="https://world.hey.com/mimir/a-letter-from-pj-no-2-ai-12549d51" target="_blank" rel="noopener noreferrer">PJ 的這封信</a><a href="https://www.t-t.cool/blog/AI-notes-and-perspection#2-%E9%97%9C%E6%96%BC%E5%A3%93%E7%B8%AE%E8%A9%9E%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%AF%E4%BB%A5%E5%8F%83%E8%80%83-pj-%E7%9A%84%E9%80%99%E5%B0%81%E4%BF%A1" class="hash-link" aria-label="2-關於壓縮詞的概念可以參考-pj-的這封信的直接連結" title="2-關於壓縮詞的概念可以參考-pj-的這封信的直接連結">​</a></h5><h5 class="anchor anchorWithStickyNavbar_LWe7" id="3-一些與文章無關的想法其實目前來看我很難說使用這種對話介面讓體驗變好只能說使用門檻降低如果是對很有經驗的問卷設計者來說可能反而跟預期落差很遠且對話形式對填答者來說變得麻煩大機率會導致降低填答率但-typeform-本身和其他競品一樣都有以-ai-生成結構化問題的功能formless-這個產品看起來更像是在挑戰未來人們會習慣完全使用這種對話介面的可能">[3] 一些與文章無關的想法：其實目前來看我很難說使用這種對話介面讓體驗變好，只能說使用門檻降低。如果是對很有經驗的問卷設計者來說可能反而跟預期落差很遠，且對話形式對填答者來說變得麻煩，大機率會導致降低填答率。但 Typeform 本身和其他競品一樣都有以 AI 生成結構化問題的功能，Formless 這個產品看起來更像是在挑戰未來人們會習慣完全使用這種對話介面的可能。<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#3-%E4%B8%80%E4%BA%9B%E8%88%87%E6%96%87%E7%AB%A0%E7%84%A1%E9%97%9C%E7%9A%84%E6%83%B3%E6%B3%95%E5%85%B6%E5%AF%A6%E7%9B%AE%E5%89%8D%E4%BE%86%E7%9C%8B%E6%88%91%E5%BE%88%E9%9B%A3%E8%AA%AA%E4%BD%BF%E7%94%A8%E9%80%99%E7%A8%AE%E5%B0%8D%E8%A9%B1%E4%BB%8B%E9%9D%A2%E8%AE%93%E9%AB%94%E9%A9%97%E8%AE%8A%E5%A5%BD%E5%8F%AA%E8%83%BD%E8%AA%AA%E4%BD%BF%E7%94%A8%E9%96%80%E6%AA%BB%E9%99%8D%E4%BD%8E%E5%A6%82%E6%9E%9C%E6%98%AF%E5%B0%8D%E5%BE%88%E6%9C%89%E7%B6%93%E9%A9%97%E7%9A%84%E5%95%8F%E5%8D%B7%E8%A8%AD%E8%A8%88%E8%80%85%E4%BE%86%E8%AA%AA%E5%8F%AF%E8%83%BD%E5%8F%8D%E8%80%8C%E8%B7%9F%E9%A0%90%E6%9C%9F%E8%90%BD%E5%B7%AE%E5%BE%88%E9%81%A0%E4%B8%94%E5%B0%8D%E8%A9%B1%E5%BD%A2%E5%BC%8F%E5%B0%8D%E5%A1%AB%E7%AD%94%E8%80%85%E4%BE%86%E8%AA%AA%E8%AE%8A%E5%BE%97%E9%BA%BB%E7%85%A9%E5%A4%A7%E6%A9%9F%E7%8E%87%E6%9C%83%E5%B0%8E%E8%87%B4%E9%99%8D%E4%BD%8E%E5%A1%AB%E7%AD%94%E7%8E%87%E4%BD%86-typeform-%E6%9C%AC%E8%BA%AB%E5%92%8C%E5%85%B6%E4%BB%96%E7%AB%B6%E5%93%81%E4%B8%80%E6%A8%A3%EF%BF%BD%E9%83%BD%E6%9C%89%E4%BB%A5-ai-%E7%94%9F%E6%88%90%E7%B5%90%E6%A7%8B%E5%8C%96%E5%95%8F%E9%A1%8C%E7%9A%84%E5%8A%9F%E8%83%BDformless-%E9%80%99%E5%80%8B%E7%94%A2%E5%93%81%E7%9C%8B%E8%B5%B7%E4%BE%86%E6%9B%B4%E5%83%8F%E6%98%AF%E5%9C%A8%E6%8C%91%E6%88%B0%E6%9C%AA%E4%BE%86%E4%BA%BA%E5%80%91%E6%9C%83%E7%BF%92%E6%85%A3%E5%AE%8C%E5%85%A8%E4%BD%BF%E7%94%A8%E9%80%99%E7%A8%AE%E5%B0%8D%E8%A9%B1%E4%BB%8B%E9%9D%A2%E7%9A%84%E5%8F%AF%E8%83%BD" class="hash-link" aria-label="[3] 一些與文章無關的想法：其實目前來看我很難說使用這種對話介面讓體驗變好，只能說使用門檻降低。如果是對很有經驗的問卷設計者來說可能反而跟預期落差很遠，且對話形式對填答者來說變得麻煩，大機率會導致降低填答率。但 Typeform 本身和其他競品一樣都有以 AI 生成結構化問題的功能，Formless 這個產品看起來更像是在挑戰未來人們會習慣完全使用這種對話介面的可能。的直接連結" title="[3] 一些與文章無關的想法：其實目前來看我很難說使用這種對話介面讓體驗變好，只能說使用門檻降低。如果是對很有經驗的問卷設計者來說可能反而跟預期落差很遠，且對話形式對填答者來說變得麻煩，大機率會導致降低填答率。但 Typeform 本身和其他競品一樣都有以 AI 生成結構化問題的功能，Formless 這個產品看起來更像是在挑戰未來人們會習慣完全使用這種對話介面的可能。的直接連結">​</a></h5></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="結語">結語<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E7%B5%90%E8%AA%9E" class="hash-link" aria-label="結語的直接連結" title="結語的直接連結">​</a></h2>
+<p>在寫這篇文章的過程中，我一直想起 Bret Victor 在 <a href="https://www.youtube.com/watch?v=agOdP2Bmieg" target="_blank" rel="noopener noreferrer">The Humane Representation of Thought</a> 這場演講中提到，表徵（Representation）是人類將思考外化的重要方式，而媒介的發展則擴展了我們的思考範圍。然而，他也指出，每種媒介 —— 比如文字和符號 —— 在賦予我們新能力的同時，也會限制我們的其他能力。</p>
+<p>我認為 AI 正在釋放既有表述形式之於人類的思考限制，它讓跨媒體的知識整合變得可能，但包含寫作在內的能力也因此無法避免地會受到衝擊。比起擔憂，我的態度更偏向好奇與期待，好奇 AI 帶來的衝擊會如何幫助人們突破現有的框架，也期待看到更多與資訊互動的可能性。</p>
+<p>在這些期待之餘，我會督促自己除了追蹤工具更新以外，還應該漸進地瞭解 AI 在技術面的運作邏輯，才能更能看清它的趨勢與限制。</p>
+<!-- -->
+]]></content:encoded>
+            <category>2024</category>
+            <category>Tech</category>
+            <category>AI</category>
+            <category>Course</category>
+            <category>Perspection</category>
+        </item>
         <item>
             <title><![CDATA[PM 筆記｜知識與經驗在工作中的角色：領域知識、經驗知識、成長動能]]></title>
             <link>https://www.t-t.cool/blog/pm-ability-breakdown</link>
@@ -381,7 +489,7 @@
 <p><img decoding="async" loading="lazy" alt="Flow" src="https://www.t-t.cool/assets/images/Flow-b7003889f2ac726e69797270464f347e.png" width="7446" height="2550" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="探索-explore">探索 Explore<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E6%8E%A2%E7%B4%A2-explore" class="hash-link" aria-label="探索 Explore的直接連結" title="探索 Explore的直接連結">​</a></h3>
 <p>在初始的探索階段，得到的會是片段的資訊、不同感官的體驗。</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="資訊輸入">資訊輸入<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E8%B3%87%E8%A8%8A%E8%BC%B8%E5%85%A5" class="hash-link" aria-label="資訊輸入的直接連結" title="資訊輸入的直接連結">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="資訊輸入">資訊輸入<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E8%B3%87%E8%A8%8A%E8%BC%B8%E5%85%A5" class="hash-link" aria-label="資訊輸入的直接連結" title="資訊輸入的直接連��結">​</a></h4>
 <p>這個部分最常會是透過大家習慣的不同知識載體來獲取資訊，包含文字、影音、圖像、音樂等，在數位時代之中，這些會是最氾濫、最多元、最容易取得，卻也最需要篩選的內容。</p>
 <div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>幫助我探索、過濾、收斂、總結的工具包含以下：Arc、Kobo、Spotify、Readwise、Immersive translate、ChatGPT。</div></div>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="體驗">體驗<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E9%AB%94%E9%A9%97" class="hash-link" aria-label="體驗的直接連結" title="體驗的直接連結">​</a></h4>
@@ -399,14 +507,14 @@
 <hr>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="組織和延展-organize--develop">組織和延展 Organize &amp; Develop<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E7%B5%84%E7%B9%94%E5%92%8C%E5%BB%B6%E5%B1%95-organize--develop" class="hash-link" aria-label="組織和延展 Organize &amp; Develop的直接連結" title="組織和延展 Organize &amp; Develop的直接連結">​</a></h3>
 <p>在探索和採集後，會需要透過組織來形成更全面的理解、基於理解去發展自己的觀點與立場。</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="思考理解連結">思考、理解、連結<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E6%80%9D%E8%80%83%E7%90%86%E8%A7%A3%E9%80%A3%E7%B5%90" class="hash-link" aria-label="思考�、理解、連結的直接連結" title="思考、理解、連結的直接連結">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="思考理解連結">思考、理解、連結<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E6%80%9D%E8%80%83%E7%90%86%E8%A7%A3%E9%80%A3%E7%B5%90" class="hash-link" aria-label="思考、理解、連結的直接連結" title="思考、理解、連結的直接連結">​</a></h4>
 <p>在這個階段裡其實手段是很混合的，我會查看採集而來的內容，找尋連結、理解脈絡、思考延伸發展的可能性。</p>
 <p>而這也是為什麼我認爲這整個流程是一種思考的迭代，因為在這個階段中，我很有可能回頭反覆進行探索與採集，以增加我組織與延展的素材。</p>
 <div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>在這個階段裡我會使用的工具涵括前兩個階段，但更多的會是需要聚集採集到的資訊，因此以現階段來說會以 Heptabase 跟 FigJam 有較高的使用頻率。</div></div>
 <hr>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="行動-action">行動 Action<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E8%A1%8C%E5%8B%95-action" class="hash-link" aria-label="行動 Action的直接連結" title="行動 Action的直接連結">​</a></h3>
 <p>在建立起知識，有了自己的想法、立場、觀點以後，我認為最重要的部分是如何將這些腦內劇場化為實體的行動。就如同我在 About 頁面提到的 Personal Rules：比起猶豫不決更優先採取行動，行動是開啟新的探索的鑰匙、是改變狀態的推力，也是看見現有思考缺口的方式。</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="分享">分享<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E5%88%86%E4%BA%AB" class="hash-link" aria-label="分享的直接連結" title="分享的直接連結">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="分��享">分享<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E5%88%86%E4%BA%AB" class="hash-link" aria-label="分享的直接連結" title="分享的直接連結">​</a></h4>
 <p>就像是學外文，輸入和輸出是兩種完全不同的理解。</p>
 <p>如 <a href="https://t.co/mhis0bQz0c" target="_blank" rel="noopener noreferrer">From Digital Sandbox To Digital Garden</a> 所提到蒐集想法、寫作、釐清自己的思路是一個連續的過程，當我閱讀了我的寫作我才真正瞭解我所想 <code>("I write because I don't know what I think until I read what I say." — Flannery O'Connor)</code>，而在分享過後，也才能夠得到回覆、展開對話，開啟新的探索和聽見不同的聲音。</p>
 <p>除了寫作以外，各種型態的分享也是如此，跳舞的人會用舞蹈分享對音樂的理解、攝影的人會用照片展現觀看的視角，除了分享自己，也會去了解別人。</p>
@@ -582,7 +690,7 @@
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="對-pm-的期待不同">對 PM 的期待不同<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E5%B0%8D-pm-%E7%9A%84%E6%9C%9F%E5%BE%85%E4%B8%8D%E5%90%8C" class="hash-link" aria-label="對 PM 的期待不同的直接連結" title="對 PM 的期待不同的直接連結">​</a></h3>
 <p><img decoding="async" loading="lazy" alt="expectations" src="https://www.t-t.cool/assets/images/pm-thoughts-320734448a9bafda2ff05c594c819b26.webp" width="1290" height="716" class="img_ev3q"></p>
 <p>不同公司、不同團隊、不同角色對 PM 有各種不同的期待，Eileen 提到團隊合作沒有標準答案，可以用後面會提到的小撇步 1 on 1 來了解團隊成員的期待，也可以在 PRD 清楚溝通目標來凝聚團隊共識。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一些小撇步">一些小撇步<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E4%B8%80%E4%BA%9B%E5%B0%8F%E6%92%87%E6%AD%A5" class="hash-link" aria-label="一些小撇步的直接連��結" title="一些小撇步的直接連結">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一些小撇步">一些小撇步<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E4%B8%80%E4%BA%9B%E5%B0%8F%E6%92%87%E6%AD%A5" class="hash-link" aria-label="一些小撇步的直��接連結" title="一些小撇步的直接連結">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="降落新團隊小秘訣">降落新團隊小秘訣<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E9%99%8D%E8%90%BD%E6%96%B0%E5%9C%98%E9%9A%8A%E5%B0%8F%E7%A7%98%E8%A8%A3" class="hash-link" aria-label="降落新團隊小秘訣的直接連結" title="降落新團隊小秘訣的直接連結">​</a></h3>
 <p>Eileen 分享了幾項降落新團隊時可以加速適應的小秘訣：</p>
 <ul>
@@ -631,7 +739,7 @@
 <li>教學者的基礎涵養 — — 工作記憶</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="對自己的定位">對自己的定位<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E5%B0%8D%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AE%9A%E4%BD%8D" class="hash-link" aria-label="對自己的定位的直接連結" title="對自己的定位的直接連結">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="回歸目的想�扮演什麼樣的團隊角色">回歸目的：想扮演什麼樣的團隊角色<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E5%9B%9E%E6%AD%B8%E7%9B%AE%E7%9A%84%E6%83%B3%E6%89%AE%E6%BC%94%E4%BB%80%E9%BA%BC%E6%A8%A3%E7%9A%84%E5%9C%98%E9%9A%8A%E8%A7%92%E8%89%B2" class="hash-link" aria-label="回歸目的：想扮演什麼樣的團隊角色的直接連結" title="回歸目的：想扮演什麼樣的團隊角色的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="回歸目�的想扮演什麼樣的團隊角色">回歸目的：想扮演什麼樣的團隊角色<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E5%9B%9E%E6%AD%B8%E7%9B%AE%E7%9A%84%E6%83%B3%E6%89%AE%E6%BC%94%E4%BB%80%E9%BA%BC%E6%A8%A3%E7%9A%84%E5%9C%98%E9%9A%8A%E8%A7%92%E8%89%B2" class="hash-link" aria-label="回歸目的：想扮演什麼樣的團隊角色的直接連結" title="回歸目的：想扮演什麼樣的團隊角色的直接連結">​</a></h3>
 <p><img decoding="async" loading="lazy" alt="position" src="https://www.t-t.cool/assets/images/position-72ac5466ea7f52a82988edee004b7a9f.gif" width="480" height="480" class="img_ev3q"></p>
 <p>在分享的最後，Eileen 提到適合當什麼樣的 PM，其實還是要回歸目的：你想在團隊扮演什麼樣的角色？</p>
 <p>她自己的回答會是擔任團隊的催化劑，讓團隊可以在有了她以後促使事情發生。</p>
@@ -799,7 +907,7 @@
 <p>這樣簡單的回覆卻讓我恍然大悟，</p>
 <div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>我以為我的朋友們是我的安全網，但事實上我也是網的一環。關係總是雙向建立，安心感也都是相互給予的，當能夠彼此分享、彼此理解，才能夠拉緊這張網，承接彼此。</div></div>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2023-小結">2023 小結<a href="https://www.t-t.cool/blog/2023-reflection-part-2#2023-%E5%B0%8F%E7%B5%90" class="hash-link" aria-label="2023 小��結的直接連結" title="2023 小結的直接連結">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2023-小結">2023 小結<a href="https://www.t-t.cool/blog/2023-reflection-part-2#2023-%E5%B0%8F%E7%B5%90" class="hash-link" aria-label="2023 小結的直接連結" title="2023 小結的直接連結">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-給自己的一些小-memo">1. 給自己的一些小 Memo<a href="https://www.t-t.cool/blog/2023-reflection-part-2#1-%E7%B5%A6%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F-memo" class="hash-link" aria-label="1. 給自己的一些小 Memo的直接連結" title="1. 給自己的一些小 Memo的直接連結">​</a></h3>
 <ul>
 <li><strong>有意識地生活</strong>：先從意識到自己沒有意識開始， 在每一個抉擇的當下， 意識到自己的限制、意識到選擇的理由，讓生活是由自己選擇而來，用意識為自己構建滿足與意義。</li>
@@ -831,87 +939,6 @@
 <div style="margin:2rem 0;padding:1.5rem;background-color:var(--ifm-background-surface-color);border-radius:8px;border:1px solid var(--ifm-color-emphasis-200)"><h3 style="margin-bottom:1rem">訂閱最新文章</h3><p style="font-size:0.9rem;margin-bottom:1.5rem">歡迎使用信箱接收最新文章，或是你也可以<a href="https://www.t-t.cool/blog/rss.xml">由此訂閱 RSS</a></p><form style="display:flex;flex-direction:column;gap:1rem"><input type="email" name="fields[email]" placeholder="輸入你的 Email" required="" style="width:100%;padding:0.8rem;border-radius:4px;border:1px solid var(--ifm-color-emphasis-300);background-color:var(--ifm-background-color)"><button type="submit" style="width:100%;padding:0.8rem;background-color:var(--ifm-color-primary);color:white;border:none;border-radius:4px;cursor:pointer;font-weight:bold;opacity:1">訂閱</button></form></div>]]></content:encoded>
             <category>2024</category>
             <category>Reflection</category>
-        </item>
-        <item>
-            <title><![CDATA[2023 Reflection｜Part I：Work]]></title>
-            <link>https://www.t-t.cool/blog/2023-reflection-part-1</link>
-            <guid>https://www.t-t.cool/blog/2023-reflection-part-1</guid>
-            <pubDate>Sun, 04 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[yiyu calendar]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="yiyu calendar" src="https://www.t-t.cool/assets/images/yiyu-calendar-12bd5d86320eae7bd22f7875b757d96d.jpeg" width="1982" height="1586" class="img_ev3q"></p>
-<p>2023 是流動的一年，進入職場一年半，卻可說是在一個漂泊的狀態，在許多層面的轉換和變動以後，有些部分變得清晰，有些卻更模糊了，雖然如同畢業前預想走在軟體產品管理的路上，卻仍時常有感到迷惘與挫折的時刻，在年中覺得自己陷入一個偏向痛苦的狀態而尋求解方的時刻，看到了<a href="https://petersuppi.medium.com/%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86-reflection-%E7%9A%84%E6%8A%80%E8%A1%93-1949da556b68" target="_blank" rel="noopener noreferrer"><strong>產品經理 Reflection 的技術</strong></a>，發現也許對個別事件的檢討與修正對現階段的自己已經不足夠，應該更全面地復盤個人與工作的現狀，釐清目前的所在。延伸到這一年的結束，希望透過反思整理，把這一年的變動，變成成長的養分，於是就誕生了這一篇冗長的（？） reflection 文章。</p>
-<p>因為想涵蓋個人的方方面面，參考 <a href="https://www.books.com.tw/products/0010733134" target="_blank" rel="noopener noreferrer">Designing your life</a> 的 HWPL 儀表板，將 Work、Health、Play、Love 幾個面向分別檢視，由於 Health &amp; Play 被我共同歸類到了身心理健康照顧，所以合併成了同一個部分：</p>
-<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">． 2023 Work</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">． 2023 Health &amp; Play</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">． 2023 Love</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="複製程式碼至剪貼簿" title="複製" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2023-work">2023 Work<a href="https://www.t-t.cool/blog/2023-reflection-part-1#2023-work" class="hash-link" aria-label="2023 Work的直接連結" title="2023 Work的直接連結">​</a></h2>
-<p>從畢業到現在一年半的時間，從傳統銀行數位部門、教育科技新創，輾轉又回到了實習的公司為工具型 SaaS 產品工作，雖然仍然是個菜到不行的 PM，但接受了一點點社會的洗禮、反覆進到新環境和快速上手職務以後，在現在的職位中還面對著要負責分派與引導 Junior PM 進行功能規劃的任務，意識到 PM 真的是個要不斷面對變化與挑戰的職位，就算是這麼短暫的時間裡，也足以為自己整理出幾點階段性的 key learning。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="除了做的事情環境和人是大大影響成長與發展的因素">除了做的事情，環境和人是大大影響成長與發展的因素<a href="https://www.t-t.cool/blog/2023-reflection-part-1#%E9%99%A4%E4%BA%86%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85%E7%92%B0%E5%A2%83%E5%92%8C%E4%BA%BA%E6%98%AF%E5%A4%A7%E5%A4%A7%E5%BD%B1%E9%9F%BF%E6%88%90%E9%95%B7%E8%88%87%E7%99%BC%E5%B1%95%E7%9A%84%E5%9B%A0%E7%B4%A0" class="hash-link" aria-label="除了做的事情，環境和人是大大影響成長與發展的因素的直接連結" title="除了做的事情，環境和人是大大影響成長與發展的因素的直接連結">​</a></h3>
-<p>說到 PM，在不同公司要做的職務範疇真的是百百種，即使都脫不了從競品研究、流程規劃，到整合設計與工程落地的核心任務，但在不同環境之下，會面臨的限制與挑戰也都十分的不同。</p>
-<p>在大公司可能會遇到繁冗到不行的流程、在小新創則可能只能自己從零創造流程；可能受流程和產業所限半年更新一版、或是在兩週一個 sprint 高速運轉之下快速迭代。迭代速度並沒有好與壞，但每個人都有自己喜好的步調，都體會過了才知道，我喜歡保持彈性但穩健的流程，並且學生時代被灌輸的 MVP 觀念早已深植我心，緩慢的版本更新與層層流程規章限制會讓我感到煩躁以及與時下軟體開發脫節。</p>
-<p>人的同質性也是對工作舒適程度影響甚大的一個因素。在大學畢業以前，總是窩在同溫層裡，從沒想過會聽到「你知道為什麼公司不做 UX 嗎？因為難以落地」、「我不在意產品的發展，做人比做事更重要」等言論，現在對於能遇到相對重視體驗、重視產品發展的人們都超級感恩惜福🥺</p>
-<p>非常認同在<a href="https://youtu.be/BBPAc5Dy9EQ?t=852" target="_blank" rel="noopener noreferrer">志祺七七對 Heptabase 共同創辦人詹雨安 Alan 的訪談</a>中，Alan 所提到的：</p>
-<blockquote>
-<p><em>「不論我再怎麼努力地去保持它（個人價值觀和思想）的獨立性，它受到環境的影響是非常大的。」</em></p>
-</blockquote>
-<p>我在剛畢業的這一年半裡做了不止一次可能會被認為是不穩定的抉擇，但若回頭探究：</p>
-<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>我其實在探尋的是一個我能有機會朝自己理想發展的環境，並且和我希望與之學習或共同成長的人們合作。</div></div>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="釐清我對科技產品的想像與信念促進日常生活與個人發展幫助人們獲取學習創造">釐清我對科技產品的想像與信念：促進日常生活與個人發展，幫助人們獲取、學習、創造<a href="https://www.t-t.cool/blog/2023-reflection-part-1#%E9%87%90%E6%B8%85%E6%88%91%E5%B0%8D%E7%A7%91%E6%8A%80%E7%94%A2%E5%93%81%E7%9A%84%E6%83%B3%E5%83%8F%E8%88%87%E4%BF%A1%E5%BF%B5%E4%BF%83%E9%80%B2%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E8%88%87%E5%80%8B%E4%BA%BA%E7%99%BC%E5%B1%95%E5%B9%AB%E5%8A%A9%E4%BA%BA%E5%80%91%E7%8D%B2%E5%8F%96%E5%AD%B8%E7%BF%92%E5%89%B5%E9%80%A0" class="hash-link" aria-label="釐清我對科技產品的想像與信念：促進日常生活與個人發展，幫助人們獲取、學習、創造的直接連結" title="釐清我對科技產品的想像與信念：促進日常生活與個人發展，幫助人們獲取、學習、創造的直接連結">​</a></h3>
-<p>在畢業之初，只著急地想進入職場，沒有深入地思考自己究竟為何著迷於打造科技產品？除了用戶體驗以外，我想透過參與打造科技產品的流程，對社會造成什麼樣的影響力？</p>
-<p>因此在回到實習的公司擔任 SurveyCake Product Manager 之前，我列舉了我進入過（及即將回到）的產品最初吸引我的面向，釐清我自身對科技產品的想像，以及一些真正接觸後的學習點：</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="網銀-app">網銀 APP<a href="https://www.t-t.cool/blog/2023-reflection-part-1#%E7%B6%B2%E9%8A%80-app" class="hash-link" aria-label="網銀 APP的直接連結" title="網銀 APP的直接連結">​</a></h4>
-<ul>
-<li>想像：從出國交換到實習，網銀漸漸成為我 Daily use 的 APP 之一，對我來說貼近日常並促進生活的工具</li>
-<li>學習：事實上若以傳統銀行的金融科技產品來說，它的核心不是工具，是被高度監管的金融商品平台</li>
-</ul>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="線上學習平台">線上學習平台<a href="https://www.t-t.cool/blog/2023-reflection-part-1#%E7%B7%9A%E4%B8%8A%E5%AD%B8%E7%BF%92%E5%B9%B3%E5%8F%B0" class="hash-link" aria-label="線上學習平台的直接連結" title="線上學習平台的直接連結">​</a></h4>
-<ul>
-<li>想像：在就學階段，我深刻感受到被教學體制綑綁，認為線上學習是現代教育的一個突破口，能夠為現在的學生提供不一樣的受教方法</li>
-<li>學習：若是依循傳統出版與補教方法，將舊有的體制數位化，並不能達到自己預期的翻轉或補足教育體制缺口的影響力</li>
-</ul>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="線上問卷平台">線上問卷平台<a href="https://www.t-t.cool/blog/2023-reflection-part-1#%E7%B7%9A%E4%B8%8A%E5%95%8F%E5%8D%B7%E5%B9%B3%E5%8F%B0" class="hash-link" aria-label="線上問卷平台的直接連結" title="線上問卷平台的直接連結">​</a></h4>
-<ul>
-<li>想像：在使用越來越多工具型 SaaS 產品後，我開始覺得這可能會是在現代最能幫助個人（或像公司這樣的群體）創造價值的科技產品類型</li>
-<li>學習：問卷的價值來自於獲取（收集問卷填答）與輸出（資料和圖表），但這些流程的核心是由用戶的創造（問卷設計與製作）而生</li>
-</ul>
-<p>在羅列各個產品後我才理解到我對科技產品的定位其實一直都是某種<strong>能夠促進日常生活或個人發展的工具，我想做到的是藉由打造這些產品，幫助人們獲取、學習、創造</strong>。</p>
-<p>我從前公司自己從 0.1 到 1 規劃線上學習產品 <a href="https://live-study.oneclass.com.tw/" target="_blank" rel="noopener noreferrer">OneStudy+</a> 的經驗裡學到了很多溝通和管理的眉眉角角，但也更加意識到：</p>
-<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>符合自己想創造的價值和影響力是對我來說十分重要的成就感來源。</div></div>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="保持健康的工作心態不追求不斷提升生產力用客體方法檢視問題取得與給予正向回饋">保持健康的工作心態：不追求不斷提升生產力、用客體方法檢視問題、取得與給予正向回饋<a href="https://www.t-t.cool/blog/2023-reflection-part-1#%E4%BF%9D%E6%8C%81%E5%81%A5%E5%BA%B7%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%BF%83%E6%85%8B%E4%B8%8D%E8%BF%BD%E6%B1%82%E4%B8%8D%E6%96%B7%E6%8F%90%E5%8D%87%E7%94%9F%E7%94%A2%E5%8A%9B%E7%94%A8%E5%AE%A2%E9%AB%94%E6%96%B9%E6%B3%95%E6%AA%A2%E8%A6%96%E5%95%8F%E9%A1%8C%E5%8F%96%E5%BE%97%E8%88%87%E7%B5%A6%E4%BA%88%E6%AD%A3%E5%90%91%E5%9B%9E%E9%A5%8B" class="hash-link" aria-label="保持健康的工作心態：不追求不斷提升生產力、用客體方法檢視問題、取得與給予正向回饋的直接連結" title="保持健康的工作心態：不追求不斷提升生產力、用客體方法檢視問題、取得與給予正向回饋的直接連結">​</a></h3>
-<p>初入社會的這一年半以來，高敏感的我經歷了多次的陣痛期，反覆調整自己對工作的期待與觀看方式，才讓工作與生活稍稍平衡，用以下三點幫助我建立更健康的工作心態：</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="1-不追求不斷提升生產力">1. 不追求不斷提升生產力<a href="https://www.t-t.cool/blog/2023-reflection-part-1#1-%E4%B8%8D%E8%BF%BD%E6%B1%82%E4%B8%8D%E6%96%B7%E6%8F%90%E5%8D%87%E7%94%9F%E7%94%A2%E5%8A%9B" class="hash-link" aria-label="1. 不追求不斷提升生產力的直接連結" title="1. 不追求不斷提升生產力的直接連結">​</a></h4>
-<p>不管是在高度競爭的大學時期還是 PM 這個職務角色，我都時常陷入不斷追求提升生產力而讓自己耗竭的誤區，在看了<a href="https://www.books.com.tw/products/0010914255?sloc=main" target="_blank" rel="noopener noreferrer">人生四千個禮拜</a>以後，我才意識到應該要從工作與生活的方方面面跳脫出這樣的負面循環。</p>
-<blockquote>
-<p>生產力是一個陷阱。增加效率只會使你忙得更不可開交。</p>
-</blockquote>
-<p>當過度追求生產力時，我會將工作塞進生活、生活分解成學習片段，試圖把每段時間都用所謂「有意義的事」去填滿，但這麼做卻是讓我不斷消耗自己，不能生活在當下。</p>
-<blockquote>
-<p>我們脫離了當下，我們的生活永遠在想著未來，擔心事情會不會順利發展。我們感受每一件事的方式是期待日後會出現的好處，因此終日惶惶不安，更不可能體驗到「深層時間」。</p>
-</blockquote>
-<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>於是我停止塞滿自己的時間，而是有意識地去選擇，賦予選擇的事件意義，並從中得到更多的滿足感。</div></div>
-<blockquote>
-<p>你至少能在做不到的時候，不再責怪自己。由於你不得不做出困難的抉擇，重點就是學著以清醒的頭腦決定要專心做哪些事，哪些則不去管，而不是預設全都要做。</p>
-</blockquote>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="2-用客體方法檢視問題">2. 用客體方法檢視問題<a href="https://www.t-t.cool/blog/2023-reflection-part-1#2-%E7%94%A8%E5%AE%A2%E9%AB%94%E6%96%B9%E6%B3%95%E6%AA%A2%E8%A6%96%E5%95%8F%E9%A1%8C" class="hash-link" aria-label="2. 用客體方法檢視問題的直接連結" title="2. 用客體方法檢視問題的直接連結">​</a></h4>
-<p>因為 PM 這個角色的特殊性，即使是個小菜鳥，但卻需要如同管理階層一般，去觀察和理解不同團隊成員的行為模式，並嘗試為他人建立支架，為總體成果負責。在前一份工作有陣十分低迷的時刻，當時的我對於還在缺乏支持系統的狀態下摸索與推進自我成長，卻為要同時背負起他人的成果感到挫折。</p>
-<p>剛好那時候在 Samuel 主辦的產品讀書會裡讀到<a href="https://www.books.com.tw/products/0010885596?sloc=main" target="_blank" rel="noopener noreferrer">領導者的意識進化</a>，很大程度的幫助我<strong>抽離當下的角色，學習用客體方法檢視問題，並覺察自己、團隊成員、主管的心理狀態</strong>，更了解自己可以怎麼看待與面對問題。</p>
-<blockquote>
-<p>她並非以觀眾的身份站在舞池觀看，她理解到自己的行動創造了這場舞蹈，她一邊看一邊編排。</p>
-</blockquote>
-<p>特別喜歡書中這一段話和過去街舞經驗的重合，譬如個人對團隊的塑造到公司的跨團隊動態，就如同從個人動作、排舞整體性、變化走位協調性、到觀眾的觀看角度。</p>
-<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>舞蹈和工作場域都是由不同層次的觀點組合而成，而切換層次的能力是從不斷練習與實踐的堆疊累積而來。</div></div>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="3-取得與給予正向回饋">3. 取得與給予正向回饋<a href="https://www.t-t.cool/blog/2023-reflection-part-1#3-%E5%8F%96%E5%BE%97%E8%88%87%E7%B5%A6%E4%BA%88%E6%AD%A3%E5%90%91%E5%9B%9E%E9%A5%8B" class="hash-link" aria-label="3. 取得與給予正向回饋的直接連結" title="3. 取得與給予正向回饋的直接連結">​</a></h4>
-<p>在經歷幾次工作陣痛期之間，我發現團隊互動除了站在一個推動者的角色下造成的消耗以外，也有許多時刻是能夠帶給我能量的。</p>
-<p>比如在 Sprint Retro 的時候從工程與設計得到的正面回饋、離職時收到工程師的小卡（工程師的小卡耶！），都能讓本來容易畏畏縮縮的我更有力量，了解到原來菜鳥本鳥建立的流程是確實有幫助的、我不只是在從他人身上索取，而是我們都在相互學習。</p>
-<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>這樣的經驗讓我也更願意給予工作夥伴們正向回饋，在團隊裡與自己身上形成工作動能的正向循環。</div></div>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2023-health--play--love">2023 Health &amp; Play &amp; Love<a href="https://www.t-t.cool/blog/2023-reflection-part-1#2023-health--play--love" class="hash-link" aria-label="2023 Health &amp; Play &amp; Love的直接連結" title="2023 Health &amp; Play &amp; Love的直接連結">​</a></h2>
-<p>由於在工作層面不小心就打了落落長，只好將剩下的 Health &amp; Play &amp; Love 以及小結拆成第二篇：</p>
-<p><a href="https://www.t-t.cool/blog/2023-reflection-part-2"><strong>2023 Reflection | Part II — Health &amp; Play &amp; Love</strong></a></p>
-<!-- -->
-<div style="margin:2rem 0;padding:1.5rem;background-color:var(--ifm-background-surface-color);border-radius:8px;border:1px solid var(--ifm-color-emphasis-200)"><h3 style="margin-bottom:1rem">訂閱最新文章</h3><p style="font-size:0.9rem;margin-bottom:1.5rem">歡迎使用信箱接收最新文章，或是你也可以<a href="https://www.t-t.cool/blog/rss.xml">由此訂閱 RSS</a></p><form style="display:flex;flex-direction:column;gap:1rem"><input type="email" name="fields[email]" placeholder="輸入你的 Email" required="" style="width:100%;padding:0.8rem;border-radius:4px;border:1px solid var(--ifm-color-emphasis-300);background-color:var(--ifm-background-color)"><button type="submit" style="width:100%;padding:0.8rem;background-color:var(--ifm-color-primary);color:white;border:none;border-radius:4px;cursor:pointer;font-weight:bold;opacity:1">訂閱</button></form></div>]]></content:encoded>
-            <category>2024</category>
-            <category>Reflection</category>
-            <category>PM</category>
         </item>
     </channel>
 </rss>
