@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkt_t=self.webpackChunkt_t||[]).push([[834],{3369:t=>{t.exports=JSON.parse('{"tag":{"label":"Course","permalink":"/blog/tags/course","allTagsPath":"/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/course","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
