@@ -1,4 +1,8 @@
 # 年份
+'2025':
+  label: '2025'
+  permalink: /2025
+
 '2024':
   label: '2024'
   permalink: /2024
@@ -9,22 +13,62 @@
 
 # ----------
 # 分類
+## 場景：紀錄、反思、生活、影視
 reflection:
   label: Reflection
   permalink: /reflection
+
+perspection:
+  label: Perspection
+  permalink: /perspection
 
 life:
   label: Life
   permalink: /life
 
+movie:
+  label: Movie
+  permalink: /movie
+
 forum:
   label: Forum
   permalink: /forum
+
+course:
+  label: Course
+  permalink: /course
 
 murmur:
   label: Murmur
   permalink: /murmur
 
+
+## 科技：PM、知識、管理、技術
 pm:
   label: PM
   permalink: /pm
+
+knowledge:
+  label: Knowledge
+  permalink: /knowledge
+
+management:
+  label: Management
+  permalink: /management
+
+career:
+  label: Career
+  permalink: /Career
+
+ai:
+  label: AI
+  permalink: /ai
+
+tech:
+  label: Tech
+  permalink: /tech
+
+documentation:
+  label: Documentation
+  permalink: /documentation
+

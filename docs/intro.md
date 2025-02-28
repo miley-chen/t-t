@@ -11,7 +11,18 @@ showLastUpdateTime: true
 ## 類別
 
 ### T-T Changelog
-這個網站的改版紀錄，用年份分類，會記下每個版本的改動跟一些當下的想法。
+這個網站的改版紀錄，會記下每個版本的改動跟一些當下的想法。
+
+### 網站筆記
+跟這個網站相關的小筆記。
+
+### 產品筆記
+總之對軟體產品相關的筆記就先放這了。
+
+### 悲傷日記
+有些人快樂的時候會拍手，而我悲傷的時候會寫日記。
+
+> "We must experience everything. Not just the good, but degradation, horror, sadness. This makes us whole, makes us people of substance.“ — Poor Tings
 
 ---
 
@@ -22,4 +33,4 @@ showLastUpdateTime: true
 每個文件會標記**初次發布**的年份，方便以時間查找內容。
 
 ### 其他標籤
-年份以外目前尚無其他標籤的類別規劃，未來若內容比較多、標籤數量多到需要更明確分類的話再慢慢在這裡更新。
+年份以外目前尚無其他標籤的分類規劃，未來若標籤數量多到需要更明確分類的話再慢慢在這裡更新。
