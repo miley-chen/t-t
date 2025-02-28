@@ -4,11 +4,268 @@
         <title>Thinking Today Blog</title>
         <link>https://www.t-t.cool/blog</link>
         <description>Thinking Today Blog</description>
-        <lastBuildDate>Sat, 09 Nov 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
-        <copyright>Copyright © 2024 Thinking Today</copyright>
+        <copyright>Copyright © 2025 Thinking Today</copyright>
+        <item>
+            <title><![CDATA[PM 筆記｜PRD 進化之路 🥚🐣🐥]]></title>
+            <link>https://www.t-t.cool/blog/the-evolution-of-prd</link>
+            <guid>https://www.t-t.cool/blog/the-evolution-of-prd</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[document-documentation]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="document-documentation" src="https://www.t-t.cool/assets/images/document-documentation-caf726a3edca677fc5444c464feb9033.png" width="681" height="448" class="img_ev3q"></p>
+<p>作為產品經理要經手的文件百百種，但要說花費最多時間撰寫與維護的，PRD 難以逃脫第一名，對我來說日常工作不是在研究、會議、更版，就是在寫 PRD 的路上。</p>
+<p>PRD 的形式與管理方式，往往隨著團隊規模、產品發展階段而改變。在前一間公司，我從零建立 PRD，摸索適合團隊的文件管理方式；而現在的公司，產品已有八年歷史，文件存放分散，需要重新整理並轉移至新系統。在這些過程中，我發現 PRD 並不是靜態的，而是隨著產品架構、團隊需求進化，這篇文章是記錄我工作兩年來經歷過的演進歷程。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="何謂-prd">何謂 PRD<a href="https://www.t-t.cool/blog/the-evolution-of-prd#%E4%BD%95%E8%AC%82-prd" class="hash-link" aria-label="何謂 PRD的直接連結" title="何謂 PRD的直接連結">​</a></h2>
+<p>產品需求文件（Product Requirement Document, PRD）是一個詳盡的產品指南，精確地描述產品需求，用來達到降低溝通阻力、增加管理效率的目標。</p>
+<p>根據這篇 <a href="https://shailesh-sharma.medium.com/how-to-write-the-best-prd-for-product-managers-5987c4863b8c" target="_blank" rel="noopener noreferrer">How to Write the Best PRD For Product Managers?</a>，好的 PRD 應該有以下特性：</p>
+<ul>
+<li>在平易近人與技術的文字間平衡</li>
+<li>不會變成遠古文物而是會持續動態調整</li>
+<li>不只是列出功能，也講述用戶從功能受益的情境</li>
+</ul>
+<p>寫文件一定沒有口頭溝通快，但一定會比起口頭溝通來得準確。為團隊建立起更統一的情境認知、更一致的功能細節規範，是我認為 PRD 的核心功能。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-phase-i從零開始建立產品文件">🥚 Phase I：從零開始建立產品文件<a href="https://www.t-t.cool/blog/the-evolution-of-prd#-phase-i%E5%BE%9E%E9%9B%B6%E9%96%8B%E5%A7%8B%E5%BB%BA%E7%AB%8B%E7%94%A2%E5%93%81%E6%96%87%E4%BB%B6" class="hash-link" aria-label="🥚 Phase I：從零開始建立產品文件的直接連結" title="🥚 Phase I：從零開始建立產品文件的直接連結">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="i-am-documentation" src="https://www.t-t.cool/assets/images/i-am-documentation-ecdd2a3cb0ea6e4c1553f04d3ab7a79e.png" width="750" height="627" class="img_ev3q"></p>
+<p>前主管的作風是不寫文件，跟設計師和工程師口頭溝通好情境就好，但我有著不紀錄下來就不踏實的病，於是依循著實習時期的經驗、網路上的資料，發展出一套跟設計與工程的文件溝通流程。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="規劃流程">規劃流程<a href="https://www.t-t.cool/blog/the-evolution-of-prd#%E8%A6%8F%E5%8A%83%E6%B5%81%E7%A8%8B" class="hash-link" aria-label="規劃流程的直接連結" title="規劃流程的直接連結">​</a></h3>
+<p>當時負責三個產品線，兩個沒有先前的文件、一個是從 0 到 1 的產品，在我對功能細節有大部分掌控權的情況下，規劃流程偏單純：</p>
+<ol>
+<li>確認需求</li>
+<li>進行競品研究（optional）和規劃</li>
+<li>完成規格</li>
+<li>依據改動幅度決定要不要畫 Wireframe</li>
+<li>開單請設計師出設計稿</li>
+<li>依據討論後定稿的設計微調規格再進入開發</li>
+<li>最終在我根據規格驗收完功能後上線</li>
+</ol>
+<p><img decoding="async" loading="lazy" alt="phase I" src="https://www.t-t.cool/assets/images/I-fd77865d9bb7bb3990715b88466fc7f8.jpg" width="2154" height="1668" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="prd">PRD<a href="https://www.t-t.cool/blog/the-evolution-of-prd#prd" class="hash-link" aria-label="PRD的直接連結" title="PRD的直接連結">​</a></h3>
+<p>因應面對的需求大小，撰寫規格的方式會依照以下做微調：</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="小型功能">小型功能<a href="https://www.t-t.cool/blog/the-evolution-of-prd#%E5%B0%8F%E5%9E%8B%E5%8A%9F%E8%83%BD" class="hash-link" aria-label="小型功能的直接連結" title="小型功能的直接連結">​</a></h4>
+<p>直接在 Jira 開單，單內附上以下資訊：</p>
+<ul>
+<li>User Story</li>
+<li>流程圖／Wireframe／設計稿（若已跟設計師確認完稿）</li>
+<li>開發規格：行為流程、頁面功能、欄位限制</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="中大型功能">中大型功能<a href="https://www.t-t.cool/blog/the-evolution-of-prd#%E4%B8%AD%E5%A4%A7%E5%9E%8B%E5%8A%9F%E8%83%BD" class="hash-link" aria-label="中大型功能的直接連結" title="中大型功能的直接連結">​</a></h4>
+<p><img decoding="async" loading="lazy" alt="mid-size" src="https://www.t-t.cool/assets/images/mid-size-18e0c6c788d637c337f0d66614617de7.png" width="1271" height="866" class="img_ev3q">
+使用 Google docs 撰寫文件，視需求可能拆分成多張單給工程與設計。每份文件會包含以下項目：</p>
+<ul>
+<li>目錄</li>
+<li>編修歷程</li>
+<li>開發目的說明<!-- -->
+<ul>
+<li>需求來源</li>
+<li>需求內容</li>
+</ul>
+</li>
+<li>情境說明<!-- -->
+<ul>
+<li>User stories</li>
+</ul>
+</li>
+<li>影響範圍<!-- -->
+<ul>
+<li>影響的產品（可能跨產品）</li>
+<li>影響的裝置（產品各自有 Web / Desktop / Mobile 版本）</li>
+<li>影響的頁面、流程</li>
+</ul>
+</li>
+<li>開發規格</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="0---1-產品">0 - 1 產品<a href="https://www.t-t.cool/blog/the-evolution-of-prd#0---1-%E7%94%A2%E5%93%81" class="hash-link" aria-label="0 - 1 產品的直接連結" title="0 - 1 產品的直接連結">​</a></h4>
+<p><img decoding="async" loading="lazy" alt="0-1" src="https://www.t-t.cool/assets/images/0-1-59b09c634c4044ca7a86c4a7bea55651.jpeg" width="1269" height="842" class="img_ev3q">
+使用 Google docs 撰寫文件，將產品功能依照產品架構分類，並且拆分開發階段：</p>
+<ul>
+<li>目錄</li>
+<li>編修歷程</li>
+<li>開發目的與說明</li>
+<li>產品功能<!-- -->
+<ul>
+<li>Functional Map</li>
+</ul>
+</li>
+<li>開發規格<!-- -->
+<ul>
+<li>開發階段</li>
+<li>頁面規格（Wireframe 和流程圖穿插其中）<!-- -->
+<ul>
+<li>【前台】
+-【全域功能】<!-- -->
+<ul>
+<li>【主要頁面／功能分類】</li>
+</ul>
+</li>
+<li>【後台】<!-- -->
+<ul>
+<li>【全域功能】</li>
+<li>【主要頁面／功能分類】</li>
+</ul>
+</li>
+<li>【權限統整】<!-- -->
+<ul>
+<li>前台權限</li>
+<li>後台權限</li>
+</ul>
+</li>
+<li>附錄<!-- -->
+<ul>
+<li>使用者條款等產品所需附件檔案</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="檢討">檢討<a href="https://www.t-t.cool/blog/the-evolution-of-prd#%E6%AA%A2%E8%A8%8E" class="hash-link" aria-label="檢討的直接連結" title="檢討的直接連結">​</a></h3>
+<p>回頭來看這些文件內容雖有達到在當下促進團隊溝通的目的，但仍有許多須改進之處：</p>
+<ol>
+<li><strong>可維護性</strong>較低：</li>
+</ol>
+<ul>
+<li>
+<p>文件的存放：文件過於分散（同產品不同功能散落多個文件／單）或過於集中（0 - 1 產品的所有功能在一個不好變動的線性文件裡）</p>
+</li>
+<li>
+<p>版本管理：雖然有記錄編修歷程，但由於 Google Docs 的編輯紀錄是較細的時間戳記，難以回溯到特定版本，並且仰賴我手動新增歷程紀錄</p>
+</li>
+</ul>
+<ol start="2">
+<li><strong>細節格式</strong>不統一：由於是每次改動見招拆招，慢慢形塑 PRD 架構，所以除了必定有的 User Story 跟頁面行為說明外，其他細節會視每次跟設計與工程討論的狀況優化，並且面對隕石可能就會有急著開單脫離原本架構的情況發生。</li>
+</ol>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>Phase I 小結</div><div class="admonitionContent_BuS1"><ul>
+<li>沒有文件 → 建立 PRD 讓團隊有文件可參考</li>
+<li>使用 Jira Issue、Google Docs 存放文件 → 文件存放過於分散、缺乏明確的版本管理，導致後續維護文件成本高</li>
+<li>視情境、功能大小彈性調整格式 → 文件格式不統一</li>
+</ul></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-phase-ii模組化與標準化">🐣 Phase II：模組化與標準化<a href="https://www.t-t.cool/blog/the-evolution-of-prd#-phase-ii%E6%A8%A1%E7%B5%84%E5%8C%96%E8%88%87%E6%A8%99%E6%BA%96%E5%8C%96" class="hash-link" aria-label="🐣 Phase II：模組化與標準化的直接連結" title="🐣 Phase II：模組化與標準化的直接連結">​</a></h2>
+<p>而在現在的公司中雖有寫規格的習慣，但過往曾使用過 Google Slides、Google Docs、GitLab 幾種方式管理，並且不是所有功能都有記錄。</p>
+<p><img decoding="async" loading="lazy" alt="doc everywhere" src="https://www.t-t.cool/assets/images/docs-everywhere-b9de0b39a9c8395e3c8ad451aa3e9dde.jpg" width="600" height="327" class="img_ev3q"></p>
+<p>在我進入公司時，比較近期的功能已轉用 Confluence 存放產品文件，但無論是優化舊功能還是開發新功能，大部分的文件還是需要從頭撰寫。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="規劃流程-1">規劃流程<a href="https://www.t-t.cool/blog/the-evolution-of-prd#%E8%A6%8F%E5%8A%83%E6%B5%81%E7%A8%8B-1" class="hash-link" aria-label="規劃流程的直接連結" title="規劃流程的直接連結">​</a></h3>
+<p>規劃流程大同小異，主要的改變是前期研究從我自作主張地做（？），變成必定會經過的流程，且和產品設計師大量合作執行。此外，寫 PRD 以前，規劃過程與細節每週都會和主管與老闆同步，並在上線前有和行銷 / 客服／業務等更多跨職能角色合作：</p>
+<ol>
+<li>確認需求</li>
+<li>進行競品研究</li>
+<li>（與上層）同步流程、設計稿，依據討論調整</li>
+<li>（與 Tech Lead）可行性來回確認</li>
+<li>完成規格，期間補足或修改設計細節</li>
+<li>跨部門同步，，依據討論調整</li>
+<li>經過 Tech Lead 評估做法後的規格進入開發</li>
+<li>Marketing / CS 進行相關文件與推廣規劃</li>
+<li>手動＋自動化測試</li>
+<li>上線</li>
+</ol>
+<p><img decoding="async" loading="lazy" alt="phase II" src="https://www.t-t.cool/assets/images/II-e6097fd76b11f153bca4929f497bf82a.jpg" width="2386" height="1491" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="prd-1">PRD<a href="https://www.t-t.cool/blog/the-evolution-of-prd#prd-1" class="hash-link" aria-label="PRD的直接連結" title="PRD的直接連結">​</a></h3>
+<p>相比於 Phase I 整理出的文件格式，Phase II 的產品文件管理方式更動態地在迭代，因此以下不列詳細的文件內容，而是整理目前管理的準則。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="統整-prd-與設計稿架構">統整 PRD 與設計稿架構<a href="https://www.t-t.cool/blog/the-evolution-of-prd#%E7%B5%B1%E6%95%B4-prd-%E8%88%87%E8%A8%AD%E8%A8%88%E7%A8%BF%E6%9E%B6%E6%A7%8B" class="hash-link" aria-label="統整 PRD 與設計稿架構的直接連結" title="統整 PRD 與設計稿架構的直接連結">​</a></h4>
+<p>剛好在調整 PRD 分類方式時，設計師也想整理 Figma 設計稿，於是我們一起討論出了統一的分類架構，讓 PRD 與設計稿可以有更一致的分類，幫助查找與減少重複性。基本上遵循以下大原則：</p>
+<ul>
+<li>依照<strong>產品的架構</strong>做外層分類：比如後台總覽、帳戶設定</li>
+<li>依照<strong>流程</strong>做下層分類：比如編輯題目、分享問卷、查看問卷結果是一個完整的編輯問卷流程</li>
+<li><strong>重複性的功能</strong>集中為一個分類：比如產品內很多地方都可以上傳圖片但可能有不同限制</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="根據功能特性製作並持續維護模板">根據功能特性，製作並持續維護模板<a href="https://www.t-t.cool/blog/the-evolution-of-prd#%E6%A0%B9%E6%93%9A%E5%8A%9F%E8%83%BD%E7%89%B9%E6%80%A7%E8%A3%BD%E4%BD%9C%E4%B8%A6%E6%8C%81%EF%BF%BD%E7%BA%8C%E7%B6%AD%E8%AD%B7%E6%A8%A1%E6%9D%BF" class="hash-link" aria-label="根據功能特性，製作並持續維護模板的直接連結" title="根據功能特性，製作並持續維護模板的直接連結">​</a></h4>
+<p>當整理產品規格一段時間，除了 User Story、流程圖、規格說明、設計稿對應方式這些大方向可以統一以外，觀察並分類出規格模板，有助於<strong>降低從頭建立文件的力氣、避免遺漏細節，以及統一團隊的文件溝通方式</strong>。我自己目前歸類的方式如下：</p>
+<ul>
+<li>
+<p>常見且有<strong>重複複雜因素</strong>要考慮的功能<br>
+<!-- -->比如一個新的問卷題型，每次設計都至少需要考慮以下面向，這些面向底下要確認的內容就會被條列並納入新題型模板中：</p>
+<ul>
+<li>權限：題型本身或是內部設定適用的方案、團隊角色</li>
+<li>編輯時可以進行的 N 種設定：包含跨題型通用的基礎設定及該題型特定的設定</li>
+<li>統計圖表：該題型適用的圖表呈現</li>
+<li>明細匯出：該題型的資料格式，在後台有提供的三種格式 x 三種檔案類型下，介面與匯出的檔案分別如何呈現</li>
+<li>邏輯設定方式</li>
+</ul>
+</li>
+<li>
+<p>常見且有<strong>特定規則</strong>需要遵循的功能<br>
+<!-- -->比如功能 Config，不像題型有那麼多複雜細節需要考慮，但通常都需要定義 Key name、預設值、設定值等</p>
+</li>
+<li>
+<p>一般新功能<br>
+<!-- -->以上兩類以外的任何新功能都可以通用的基本內容</p>
+</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="讓文件可追溯好查找標示明確">讓文件可追溯、好查找、標示明確<a href="https://www.t-t.cool/blog/the-evolution-of-prd#%E8%AE%93%E6%96%87%E4%BB%B6%E5%8F%AF%E8%BF%BD%E6%BA%AF%E5%A5%BD%E6%9F%A5%E6%89%BE%E6%A8%99%E7%A4%BA%E6%98%8E%E7%A2%BA" class="hash-link" aria-label="讓文件可追溯、好查找、標示明確的直接連結" title="讓文件可追溯、好查找、標示明確的直接連結">​</a></h4>
+<ul>
+<li>
+<p>可追溯<br>
+<!-- -->由於目前使用的 Confluence 內建有明確的版本管理功能，我只要在發佈變更前備註該次做了什麼改動，後續都可以直接查看和回復到特定改動之前。</p>
+</li>
+<li>
+<p>好查找<br>
+<!-- -->這裡的查找是指查找和該功能相關的資訊。在所有模板裡我都會放上需求文件、研究文件、設計稿、Jira 單等連結欄位，方便放上相關資料連結，讓其他人或我自己在必要時查看。</p>
+</li>
+<li>
+<p>標示明確</p>
+<ul>
+<li>文字與圖像的對應<br>
+<!-- -->團隊內現行的規格模板通常是左右欄的形式，多虧 Confluence 的內嵌功能，除了放上整份設計稿的連結，我可以讓 Figma 的特定 Frame 預覽顯示在文字敘述旁，FigJam 畫的流程圖也同理。
+<img decoding="async" loading="lazy" alt="2 column" src="https://www.t-t.cool/assets/images/2-column-74144f0037f6ffbe416b39d821aff7c2.jpg" width="2386" height="1491" class="img_ev3q"></li>
+<li>習慣／養成團隊對特定標示涵義的共識<br>
+<!-- -->比如大括號內的文字是變數、文字內容使用 <code>code 底</code> 等。</li>
+<li>若是更動舊規格，前後改動差異需要被明確指出</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="檢討-1">檢討<a href="https://www.t-t.cool/blog/the-evolution-of-prd#%E6%AA%A2%E8%A8%8E-1" class="hash-link" aria-label="檢討的直接連結" title="檢討的直接連結">​</a></h3>
+<ul>
+<li>
+<p><strong>同步角色</strong>過於侷限：</p>
+<ul>
+<li>目前的內容還是著重在產品開發團隊的內部同步，上線前推廣計劃等和行銷 / 客服／業務跨職能的協作都是額外拉出來同步，在改組後各角色更密切合作的狀況下，也許有更好整合、減少重工的做法</li>
+<li>我們公司沒有 MRD，考慮納入相關的文件架構到現有文件是一種可能方式</li>
+</ul>
+</li>
+<li>
+<p><strong>驗收標準</strong>不夠嚴謹：</p>
+<ul>
+<li>去年一整年大多在做 B 端的功能，一直在趕時限 GA 埋點的單都是後補，今年拆分部門後，面向 C 端需要有更完善的數據監測</li>
+<li>規劃時應該就要列 DoDs，第一階段測試有更明確的基準點，可以幫助 QA 後續更好延續測（ㄋㄨㄥˋ）試（ㄏㄨㄞˋ）</li>
+</ul>
+</li>
+<li>
+<p><strong>極端情境的盤點</strong>不夠完善：雖然覺得這件事始終難以避免，從規劃、寫規格到開發，一直都會需要有各種遺漏的情境或技術限制需要討論，但現在並沒有發展出一套可以有效幫助自己或團隊檢查的方式，非常仰賴每次的感覺。最近開始會讓 AI 幫助羅列情境，成效還在觀察中。</p>
+</li>
+</ul>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>Phase II 小結</div><div class="admonitionContent_BuS1"><ul>
+<li>與設計師同步，統一 PRD 與 Figma 設計稿的分類方式，提升查找與維護效率</li>
+<li>建立 PRD 模板，針對常見功能標準化撰寫方式，降低遺漏風險</li>
+<li>善用 Confluence 的版本管理紀錄，讓文件更可追溯</li>
+</ul></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-next-phase--結語">🐥 Next Phase &amp; 結語<a href="https://www.t-t.cool/blog/the-evolution-of-prd#-next-phase--%E7%B5%90%E8%AA%9E" class="hash-link" aria-label="🐥 Next Phase &amp; 結語的直接連結" title="🐥 Next Phase &amp; 結語的直接連結">​</a></h2>
+<p>過去兩階段都是非常專注在產品開發團隊內部的溝通，而當基礎的架構建設完成並運行順利後，下一步需要的是從更全面的市場策略、驗證機制著手，和更多角色同步認知。</p>
+<p>PRD 是一種動態的溝通工具，它的價值取決於是否能幫助團隊建立共識並提升開發效率；它需要從個人管理走向團隊協作，從功能描述發展成可追蹤、可驗證的文件系統。</p>
+<p>說起來可能有點奇怪，但很多時候我頗樂在整理和撰寫文件的過程中 <del>（雖然可以好好寫的時間難能可貴）</del>，把功能具體定義出來、梳理和打磨其中細節，跟規劃階段有著不同的樂趣。</p>
+<p>不知道看到這的大家，公司內部都是怎麼寫 PRD 的呢？歡迎跟我分享！</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="推薦閱讀">推薦閱讀<a href="https://www.t-t.cool/blog/the-evolution-of-prd#%E6%8E%A8%E8%96%A6%E9%96%B1%E8%AE%80" class="hash-link" aria-label="推薦閱讀的直接連結" title="推薦閱讀的直接連結">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="關於如何寫-prd">關於如何寫 PRD<a href="https://www.t-t.cool/blog/the-evolution-of-prd#%E9%97%9C%E6%96%BC%E5%A6%82%E4%BD%95%E5%AF%AB-prd" class="hash-link" aria-label="關於如何寫 PRD的直接連結" title="關於如何寫 PRD的直接連結">​</a></h3>
+<ul>
+<li><a href="https://shailesh-sharma.medium.com/how-to-write-the-best-prd-for-product-managers-5987c4863b8c" target="_blank" rel="noopener noreferrer">How to Write the Best PRD For Product Managers?</a></li>
+<li><a href="https://medium.com/design-bootcamp/decoding-success-a-guide-to-writing-effective-prd-683c55799198" target="_blank" rel="noopener noreferrer">Decoding Success: A Guide to Writing Effective PRD</a></li>
+<li><a href="https://medium.com/as-a-product-designer/sop-ep01-prd-3c6d33880c34" target="_blank" rel="noopener noreferrer">【SOP不藏私】系列＃EP1「連猴子也會的PRD指南」</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="延伸推薦">延伸推薦<a href="https://www.t-t.cool/blog/the-evolution-of-prd#%E5%BB%B6%E4%BC%B8%E6%8E%A8%E8%96%A6" class="hash-link" aria-label="延伸推薦的直接連結" title="延伸推薦的直接連結">​</a></h3>
+<ul>
+<li><a href="https://www.lennysnewsletter.com/p/a-framework-for-pm-skill-development?publication_id=10845&amp;post_id=144374892&amp;isFreemail=true&amp;r=3h70ns&amp;triedRedirect=true" target="_blank" rel="noopener noreferrer">A framework for PM skill development | Vikrama Dhiman (Gojek)</a></li>
+</ul>
+<blockquote>
+<p>Good PMs produce good artifacts: PRDs, product notes, design briefs, etc. These demonstrate your proficiency across core PM skills, and they are your opportunity to “have impact on the impact”—to add value to a team that is adding value to the company.</p>
+</blockquote>
+<!-- -->
+]]></content:encoded>
+            <category>2025</category>
+            <category>PM</category>
+            <category>Documentation</category>
+        </item>
         <item>
             <title><![CDATA[對 AI 的粗淺認識與個人見解]]></title>
             <link>https://www.t-t.cool/blog/AI-notes-and-perspection</link>
@@ -62,7 +319,7 @@
 <li>持續參與和 AI 的對話，運用人類的判斷和審核，引導出合理的結果</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="一些個人觀察與見解">一些個人觀察與見解<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E4%B8%80%E4%BA%9B%E5%80%8B%E4%BA%BA%E8%A7%80%E5%AF%9F%E8%88%87%E8%A6%8B%E8%A7%A3" class="hash-link" aria-label="一些個人觀察與見解的直接連結" title="一些個人觀察與見解的直接連結">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="觀察-ai-正在帶來的知識改革新一波知識爆炸時代加深識讀能力的重要性">觀察 AI 正在帶來的知識改革：新一波知識爆炸時代加深識讀能力的重要性<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E8%A7%80%E5%AF%9F-ai-%E6%AD%A3%E5%9C%A8%E5%B8%B6%E4%BE%86%E7%9A%84%E7%9F%A5%E8%AD%98%E6%94%B9%E9%9D%A9%E6%96%B0%E4%B8%80%E6%B3%A2%E7%9F%A5%E8%AD%98%E7%88%86%E7%82%B8%E6%99%82%E4%BB%A3%E5%8A%A0%E6%B7%B1%E8%AD%98%E8%AE%80%E8%83%BD%E5%8A%9B%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7" class="hash-link" aria-label="觀察 AI 正在帶來的知識改革：新一波知識爆炸時代加深識讀能力的重要性的直接連��結" title="觀察 AI 正在帶來的知識改革：新一波知識爆炸時代加深識讀能力的重要性的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="觀察-ai-正在帶來的知識改革新一波知識爆炸時代加深識讀能力的重要性">觀察 AI 正在帶來的知識改革：新一波知識爆炸時代加深識讀能力的重要性<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E8%A7%80%E5%AF%9F-ai-%E6%AD%A3%E5%9C%A8%E5%B8%B6%E4%BE%86%E7%9A%84%E7%9F%A5%E8%AD%98%E6%94%B9%E9%9D%A9%E6%96%B0%E4%B8%80%E6%B3%A2%E7%9F%A5%E8%AD%98%E7%88%86%E7%82%B8%E6%99%82%E4%BB%A3%E5%8A%A0%E6%B7%B1%E8%AD%98%E8%AE%80%E8%83%BD%E5%8A%9B%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7" class="hash-link" aria-label="觀察 AI �正在帶來的知識改革：新一波知識爆炸時代加深識讀能力的重要性的直接連結" title="觀察 AI 正在帶來的知識改革：新一波知識爆炸時代加深識讀能力的重要性的直接連結">​</a></h3>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="更快更容易取得知識密度高但可能有錯的資訊">更快、更容易取得知識密度高（但可能有錯）的資訊<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E6%9B%B4%E5%BF%AB%E6%9B%B4%E5%AE%B9%E6%98%93%E5%8F%96%E5%BE%97%E7%9F%A5%E8%AD%98%E5%AF%86%E5%BA%A6%E9%AB%98%E4%BD%86%E5%8F%AF%E8%83%BD%E6%9C%89%E9%8C%AF%E7%9A%84%E8%B3%87%E8%A8%8A" class="hash-link" aria-label="更快、更容易取得知識密度高（但可能有錯）的資訊的直接連結" title="更快、更容易取得知識密度高（但可能有錯）的資訊的直接連結">​</a></h4>
 <p>AI 的發展為我們提供了前所未有的資訊獲取速度，在這樣一個新時代裡，識讀能力將比以往更加重要，因為知識的生成與傳播速度雖然空前加快，但其中的準確性與適用性卻未必能得到保證。</p>
 <p>AI 工具讓我們能夠迅速獲取濃縮且豐富的知識，無論是技術文件的摘要、學術研究的大綱，還是複雜概念的簡單解釋。然而，這些 AI 生成內容的知識密度雖高，但它們並非總是準確或完整，部分資訊可能包含邏輯漏洞、缺乏背景脈絡，甚至是錯誤陳述。這意味著我們在使用 AI 生成資訊時，必須以批判性的眼光加以檢視，避免過度依賴其結論。</p>
@@ -76,7 +333,7 @@
 <p>在 <a href="https://every.to/chain-of-thought/writing-as-a-way-of-thinking" target="_blank" rel="noopener noreferrer">Writing as a Way of Thinking</a> 這篇文章裡，作者很好地點出另一種論點：寫作不是「唯一」的思考方式，AI 也許會改變現今人們寫作的方式，但其他類型的思考將被保留甚至增強。</p>
 <p>思考能力會隨著寫作能力一起消失的觀點建立在一個假設之上：思考必須依賴寫作，然而這並不完全符合事實。在文字被發明來承載思考以前，思考就已經存在於人們的腦海中，以我自身來說，雖然近一年來我開始透過寫作探索新的思考方式，但這並不意味著過去二十幾年我未曾進行深度思考，只是當時我的思考以不同形式存在；甚至我會說寫作對思考不是必要的，它是幫助人類擴展思考的一種工具，但並非唯一的方法。就像簡報、攝影、舞蹈等媒介一樣，寫作的價值在於幫助我們紀錄、傳遞或回頭觀看思考的脈絡，而不等同於思考本身，這也是為什麼人類不斷發明新的媒介來拓展思考與表達的可能性。</p>
 <p>綜上所述，我相信即使寫作能力削弱，人類的獨立思考能力也不會迎來終點，而是新的思考形式會隨之誕生。</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="寫作與思考能力可能會有典範轉移但不會消失">寫作與思考能力可能會有典範轉移但不會消失<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E5%AF%AB%E4%BD%9C%E8%88%87%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B%E5%8F%AF%E8%83%BD%E6%9C%83%E6%9C%89%E5%85%B8%E7%AF%84%E8%BD%89%E7%A7%BB%E4%BD%86%E4%B8%8D%E6%9C%83%E6%B6%88%E5%A4%B1" class="hash-link" aria-label="寫�作與思考能力可能會有典範轉移但不會消失的直接連結" title="寫作與思考能力可能會有典範轉移但不會消失的直接連結">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="寫作與思考能力可能會有典範轉移但不會消失">寫作與思考能力可能會有典範轉移但不會消失<a href="https://www.t-t.cool/blog/AI-notes-and-perspection#%E5%AF%AB%E4%BD%9C%E8%88%87%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B%E5%8F%AF%E8%83%BD%E6%9C%83%E6%9C%89%E5%85%B8%E7%AF%84%E8%BD%89%E7%A7%BB%E4%BD%86%E4%B8%8D%E6%9C%83%E6%B6%88%E5%A4%B1" class="hash-link" aria-label="寫作與思考能力可能會有典範轉移但不會消失的直接連結" title="寫作與思考能力可能會有典範轉移但不會消失的直接連結">​</a></h4>
 <p>作為一個更偏向科技樂觀主義的人，我相信寫作能力並不會簡單地消失，而是經歷典範轉移。</p>
 <p>從大多數 LLM 工具應用中可以觀察到，AI 的核心應用場景之一是基於文字的對話與指令。這意味著未來的寫作能力可能將不再著重於將從文學式的敘事技巧，而是轉變為如何高效地與 AI 協作，以生成目標成果。與其專注於完整文章的架構，人們可能更需要掌握如何通過簡潔的壓縮詞 <a href="https://www.t-t.cool/blog/AI-notes-and-perspection#2-%E9%97%9C%E6%96%BC%E5%A3%93%E7%B8%AE%E8%A9%9E%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%AF%E4%BB%A5%E5%8F%83%E8%80%83-pj-%E7%9A%84%E9%80%99%E5%B0%81%E4%BF%A1">[2]</a>、精準的提問以及清晰的範例來引導 AI，Prompt Engineering 正是這種新型寫作能力的早期體現。</p>
 <p>這樣的典範轉移也代表著寫作時經歷的思考過程將產生深刻改變。傳統寫作的過程強調從無到有的創造性，而 AI 則讓我們在早期階段進行更多抽象化與結構化的思考。這種人類參與循環結合了人類創造力與模型運算能力，帶來更高效的協作式思考，也改變了寫作的本質。</p>
@@ -134,7 +391,7 @@
 <p>觀察「經驗」在這些人身上起的作用，有些能夠透過累積經驗的過程快速增幅自己的能力值，有些卻反而被過去的經驗阻礙，由此可以看出經驗並不能完全代表一個 PM 的能力，用一個人有多少「經驗」來判斷是否有能力是似乎是一種表面歸因錯誤（Superficial Attribution Error），真正重要的應該是透過經驗形成的「經驗知識」（Experiencial Knowledge）。</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="拆解能力值">拆解能力值<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E6%8B%86%E8%A7%A3%E8%83%BD%E5%8A%9B%E5%80%BC" class="hash-link" aria-label="拆解能力值的直接連結" title="拆解能力值的直接連結">​</a></h2>
 <p>所以所謂 PM 的能力值到底來自哪裡？我自己目前會拆解成幾項歸類：領域知識、經驗知識、成長動能。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="領域知識-vs-經驗知識">領域知識 vs 經驗知識<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E9%A0%98%E5%9F%9F%E7%9F%A5%E8%AD%98-vs-%E7%B6%93%E9%A9%97%E7%9F%A5%E8%AD%98" class="hash-link" aria-label="領域知識 vs 經驗知識的直接連結" title="領域知識 vs 經驗知識的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="領域知識-vs-經驗知識">領域知識 vs 經驗知識<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E9%A0%98%E5%9F%9F%E7%9F%A5%E8%AD%98-vs-%E7%B6%93%E9%A9%97%E7%9F%A5%E8%AD%98" class="hash-link" aria-label="領域知識 vs 經驗知識的直接連結" title="領域知識 vs 經驗知識的��直接連結">​</a></h3>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="領域知識">領域知識<a href="https://www.t-t.cool/blog/pm-ability-breakdown#%E9%A0%98%E5%9F%9F%E7%9F%A5%E8%AD%98" class="hash-link" aria-label="領域知識的直接連結" title="領域知識的直接連結">​</a></h4>
 <p>領域知識泛指在所屬崗位中所需的相關知識，包含常見的產品管理的技術、用戶、商業三大領域，還有各個產業中的特殊知識，像是金融或教育領域的特定需求。</p>
 <p>列舉出這些面向好像還是很模糊，如果沒有工作經驗，我能夠擁有這些知識嗎？如果沒進入過該產業、沒有面對過實際的用戶，我要怎麼有相關的知識？</p>
@@ -311,7 +568,7 @@
 </li>
 </ul>
 <!-- -->
-<div style="margin:2rem 0;padding:1.5rem;background-color:var(--ifm-background-surface-color);border-radius:8px;border:1px solid var(--ifm-color-emphasis-200)"><h3 style="margin-bottom:1rem">訂閱最新文章</h3><p style="font-size:0.9rem;margin-bottom:1.5rem">歡迎使用信箱接收最新文章，或是你也可以<a href="https://www.t-t.cool/blog/rss.xml">由此訂閱 RSS</a></p><form style="display:flex;flex-direction:column;gap:1rem"><input type="email" name="fields[email]" placeholder="輸入你的 Email" required="" style="width:100%;padding:0.8rem;border-radius:4px;border:1px solid var(--ifm-color-emphasis-300);background-color:var(--ifm-background-color)"><button type="submit" style="width:100%;padding:0.8rem;background-color:var(--feedback-primary-color);color:white;border:none;border-radius:4px;cursor:pointer;font-weight:bold;opacity:1">訂閱</button></form></div>]]></content:encoded>
+]]></content:encoded>
             <category>2024</category>
             <category>PM</category>
             <category>Knowledge</category>
@@ -455,7 +712,7 @@
 <p>「我們愛你，包括所有凌亂不堪、美麗的部分。」</p>
 </blockquote>
 <!-- -->
-<div style="margin:2rem 0;padding:1.5rem;background-color:var(--ifm-background-surface-color);border-radius:8px;border:1px solid var(--ifm-color-emphasis-200)"><h3 style="margin-bottom:1rem">訂閱最新文章</h3><p style="font-size:0.9rem;margin-bottom:1.5rem">歡迎使用信箱接收最新文章，或是你也可以<a href="https://www.t-t.cool/blog/rss.xml">由此訂閱 RSS</a></p><form style="display:flex;flex-direction:column;gap:1rem"><input type="email" name="fields[email]" placeholder="輸入你的 Email" required="" style="width:100%;padding:0.8rem;border-radius:4px;border:1px solid var(--ifm-color-emphasis-300);background-color:var(--ifm-background-color)"><button type="submit" style="width:100%;padding:0.8rem;background-color:var(--ifm-color-primary);color:white;border:none;border-radius:4px;cursor:pointer;font-weight:bold;opacity:1">訂閱</button></form></div>]]></content:encoded>
+]]></content:encoded>
             <category>2024</category>
             <category>Life</category>
             <category>Movie</category>
@@ -489,7 +746,7 @@
 <p><img decoding="async" loading="lazy" alt="Flow" src="https://www.t-t.cool/assets/images/Flow-b7003889f2ac726e69797270464f347e.png" width="7446" height="2550" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="探索-explore">探索 Explore<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E6%8E%A2%E7%B4%A2-explore" class="hash-link" aria-label="探索 Explore的直接連結" title="探索 Explore的直接連結">​</a></h3>
 <p>在初始的探索階段，得到的會是片段的資訊、不同感官的體驗。</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="資訊輸入">資訊輸入<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E8%B3%87%E8%A8%8A%E8%BC%B8%E5%85%A5" class="hash-link" aria-label="資訊輸入的直接連結" title="資訊輸入的直接連��結">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="資訊輸入">資訊輸入<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E8%B3%87%E8%A8%8A%EF%BF%BD%E8%BC%B8%E5%85%A5" class="hash-link" aria-label="資訊輸入的直接連結" title="資訊輸入的直接連結">​</a></h4>
 <p>這個部分最常會是透過大家習慣的不同知識載體來獲取資訊，包含文字、影音、圖像、音樂等，在數位時代之中，這些會是最氾濫、最多元、最容易取得，卻也最需要篩選的內容。</p>
 <div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>幫助我探索、過濾、收斂、總結的工具包含以下：Arc、Kobo、Spotify、Readwise、Immersive translate、ChatGPT。</div></div>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="體驗">體驗<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E9%AB%94%E9%A9%97" class="hash-link" aria-label="體驗的直接連結" title="體驗的直接連結">​</a></h4>
@@ -507,14 +764,14 @@
 <hr>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="組織和延展-organize--develop">組織和延展 Organize &amp; Develop<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E7%B5%84%E7%B9%94%E5%92%8C%E5%BB%B6%E5%B1%95-organize--develop" class="hash-link" aria-label="組織和延展 Organize &amp; Develop的直接連結" title="組織和延展 Organize &amp; Develop的直接連結">​</a></h3>
 <p>在探索和採集後，會需要透過組織來形成更全面的理解、基於理解去發展自己的觀點與立場。</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="思考理解連結">思考、理解、連結<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E6%80%9D%E8%80%83%E7%90%86%E8%A7%A3%E9%80%A3%E7%B5%90" class="hash-link" aria-label="思考、理解、連結的直接連結" title="思考、理解、連結的直接連結">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="思��考理解連結">思考、理解、連結<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E6%80%9D%E8%80%83%E7%90%86%E8%A7%A3%E9%80%A3%E7%B5%90" class="hash-link" aria-label="思考、理解、連結的直接連結" title="思考、理解、連結的直接連結">​</a></h4>
 <p>在這個階段裡其實手段是很混合的，我會查看採集而來的內容，找尋連結、理解脈絡、思考延伸發展的可能性。</p>
 <p>而這也是為什麼我認爲這整個流程是一種思考的迭代，因為在這個階段中，我很有可能回頭反覆進行探索與採集，以增加我組織與延展的素材。</p>
 <div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>在這個階段裡我會使用的工具涵括前兩個階段，但更多的會是需要聚集採集到的資訊，因此以現階段來說會以 Heptabase 跟 FigJam 有較高的使用頻率。</div></div>
 <hr>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="行動-action">行動 Action<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E8%A1%8C%E5%8B%95-action" class="hash-link" aria-label="行動 Action的直接連結" title="行動 Action的直接連結">​</a></h3>
 <p>在建立起知識，有了自己的想法、立場、觀點以後，我認為最重要的部分是如何將這些腦內劇場化為實體的行動。就如同我在 About 頁面提到的 Personal Rules：比起猶豫不決更優先採取行動，行動是開啟新的探索的鑰匙、是改變狀態的推力，也是看見現有思考缺口的方式。</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="分��享">分享<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E5%88%86%E4%BA%AB" class="hash-link" aria-label="分享的直接連結" title="分享的直接連結">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="分享">分享<a href="https://www.t-t.cool/blog/2024-personal-knowledge-management#%E5%88%86%E4%BA%AB" class="hash-link" aria-label="分享的直接連結" title="分享的直接連結">​</a></h4>
 <p>就像是學外文，輸入和輸出是兩種完全不同的理解。</p>
 <p>如 <a href="https://t.co/mhis0bQz0c" target="_blank" rel="noopener noreferrer">From Digital Sandbox To Digital Garden</a> 所提到蒐集想法、寫作、釐清自己的思路是一個連續的過程，當我閱讀了我的寫作我才真正瞭解我所想 <code>("I write because I don't know what I think until I read what I say." — Flannery O'Connor)</code>，而在分享過後，也才能夠得到回覆、展開對話，開啟新的探索和聽見不同的聲音。</p>
 <p>除了寫作以外，各種型態的分享也是如此，跳舞的人會用舞蹈分享對音樂的理解、攝影的人會用照片展現觀看的視角，除了分享自己，也會去了解別人。</p>
@@ -540,7 +797,7 @@
 </blockquote>
 <p><em><a href="https://chuhenry.medium.com/blog-80-%E8%BA%AB%E7%82%BA%E4%B8%80%E5%80%8B-pm-%E6%96%B0%E6%89%8B-%E6%88%91%E5%8F%AF%E4%BB%A5%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E5%B7%A5%E4%BD%9C-%E4%B8%8A-308b72972906" target="_blank" rel="noopener noreferrer">—— 《Blog 81 — 身為一個 PM 新手，我可以如何快速上手工作 (中)，產品經理技能篇》</a></em></p>
 <!-- -->
-<div style="margin:2rem 0;padding:1.5rem;background-color:var(--ifm-background-surface-color);border-radius:8px;border:1px solid var(--ifm-color-emphasis-200)"><h3 style="margin-bottom:1rem">訂閱最新文章</h3><p style="font-size:0.9rem;margin-bottom:1.5rem">歡迎使用信箱接收最新文章，或是你也可以<a href="https://www.t-t.cool/blog/rss.xml">由此訂閱 RSS</a></p><form style="display:flex;flex-direction:column;gap:1rem"><input type="email" name="fields[email]" placeholder="輸入你的 Email" required="" style="width:100%;padding:0.8rem;border-radius:4px;border:1px solid var(--ifm-color-emphasis-300);background-color:var(--ifm-background-color)"><button type="submit" style="width:100%;padding:0.8rem;background-color:var(--ifm-color-primary);color:white;border:none;border-radius:4px;cursor:pointer;font-weight:bold;opacity:1">訂閱</button></form></div>]]></content:encoded>
+]]></content:encoded>
             <category>2024</category>
             <category>Knowledge</category>
             <category>Management</category>
@@ -582,7 +839,7 @@
 </li>
 </ul>
 <!-- -->
-<div style="margin:2rem 0;padding:1.5rem;background-color:var(--ifm-background-surface-color);border-radius:8px;border:1px solid var(--ifm-color-emphasis-200)"><h3 style="margin-bottom:1rem">訂閱最新文章</h3><p style="font-size:0.9rem;margin-bottom:1.5rem">歡迎使用信箱接收最新文章，或是你也可以<a href="https://www.t-t.cool/blog/rss.xml">由此訂閱 RSS</a></p><form style="display:flex;flex-direction:column;gap:1rem"><input type="email" name="fields[email]" placeholder="輸入你的 Email" required="" style="width:100%;padding:0.8rem;border-radius:4px;border:1px solid var(--ifm-color-emphasis-300);background-color:var(--ifm-background-color)"><button type="submit" style="width:100%;padding:0.8rem;background-color:var(--ifm-color-primary);color:white;border:none;border-radius:4px;cursor:pointer;font-weight:bold;opacity:1">訂閱</button></form></div>]]></content:encoded>
+]]></content:encoded>
             <category>2024</category>
             <category>Murmur</category>
         </item>
@@ -651,14 +908,14 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="這些嘗試所促成的個人改變">這些嘗試所促成的個人改變<a href="https://www.t-t.cool/blog/2024-mid-year-reflection#%E9%80%99%E4%BA%9B%E5%98%97%E8%A9%A6%E6%89%80%E4%BF%83%E6%88%90%E7%9A%84%E5%80%8B%E4%BA%BA%E6%94%B9%E8%AE%8A" class="hash-link" aria-label="這些嘗試所促成的個人改變的直接連結" title="這些嘗試所促成的個人改變的直接連結">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="比起猶豫不決更優先採取行動">比起猶豫不決更優先採取行動<a href="https://www.t-t.cool/blog/2024-mid-year-reflection#%E6%AF%94%E8%B5%B7%E7%8C%B6%E8%B1%AB%E4%B8%8D%E6%B1%BA%E6%9B%B4%E5%84%AA%E5%85%88%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95" class="hash-link" aria-label="比起猶豫不決更優先採取行動的直接連結" title="比起猶豫不決更優先採取行動的直接連結">​</a></h3>
 <p>過去的我經常先思考很多可能性和後果然後就止步不前，但從上面工作與生活上不同的嘗試來看，我發現有時若已經有目標或想法，「開始行動」正是能讓自己跨越阻礙的方法。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="不安於現狀但不要不安於現狀">不安於現狀，但不要不安於現狀<a href="https://www.t-t.cool/blog/2024-mid-year-reflection#%E4%B8%8D%E5%AE%89%E6%96%BC%E7%8F%BE%E7%8B%80%E4%BD%86%E4%B8%8D%E8%A6%81%E4%B8%8D%E5%AE%89%E6%96%BC%E7%8F%BE%E7%8B%80" class="hash-link" aria-label="不安於現狀，但不要不安於現狀的直接連結" title="不安於現狀，但不要不安於現狀的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="不安於現狀但不要不安於現狀">不安於現狀，但不要不安於現狀<a href="https://www.t-t.cool/blog/2024-mid-year-reflection#%E4%B8%8D%E5%AE%89%E6%96%BC%E7%8F%BE%E7%8B%80%E4%BD%86%E4%B8%8D%E8%A6%81%E4%B8%8D%E5%AE%89%E6%96%BC%E7%8F%BE%E7%8B%80" class="hash-link" aria-label="不安於現狀，但不要不安於現狀的直接連�結" title="不安於現狀，但不要不安於現狀的直接連結">​</a></h3>
 <p>在探索的過程中才清楚認知到，我是一個很需要持續有外在刺激的人，這讓我不會安於現狀，願意尋求成長與新體驗，卻也讓我「不安」於現狀，傾向把沒有改變跟停滯劃上等號。 事實上很多時候表面的沒改變是正在擴展自己的能量總和，當自己有足夠能量躍遷到新一階時，改變才可能發生；沒改變不等於停滯，維持穩定狀態也是件不容易的事。</p>
 <hr>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="題外話關於思考紀錄">題外話：關於思考紀錄<a href="https://www.t-t.cool/blog/2024-mid-year-reflection#%E9%A1%8C%E5%A4%96%E8%A9%B1%E9%97%9C%E6%96%BC%E6%80%9D%E8%80%83%E7%B4%80%E9%8C%84" class="hash-link" aria-label="題外話：關於思考紀錄的直接連結" title="題外話：關於思考紀錄的直接連結">​</a></h2>
 <p>從今年開始，為了可以更習慣輸出，我都會在<a href="https://twitter.com/MileyChen0u0" target="_blank" rel="noopener noreferrer">我的推特帳號</a>發一些日常的思考和閱讀心得，並將每次的推文紀錄在 Heptabase 裡。在寫這篇文章時，感覺像是把近期的推文都串連了起來，很多部分也都是用推文的文字來總結，而這種單點想法連成線的體驗是非常特別且愉悅的。</p>
 <p>因此在這篇文章的最後，我想給自己留一個小小的期許：持續記錄自己短短的思考片段，並在這些片段之上組織出更完整的思考脈絡。</p>
 <!-- -->
-<div style="margin:2rem 0;padding:1.5rem;background-color:var(--ifm-background-surface-color);border-radius:8px;border:1px solid var(--ifm-color-emphasis-200)"><h3 style="margin-bottom:1rem">訂閱最新文章</h3><p style="font-size:0.9rem;margin-bottom:1.5rem">歡迎使用信箱接收最新文章，或是你也可以<a href="https://www.t-t.cool/blog/rss.xml">由此訂閱 RSS</a></p><form style="display:flex;flex-direction:column;gap:1rem"><input type="email" name="fields[email]" placeholder="輸入你的 Email" required="" style="width:100%;padding:0.8rem;border-radius:4px;border:1px solid var(--ifm-color-emphasis-300);background-color:var(--ifm-background-color)"><button type="submit" style="width:100%;padding:0.8rem;background-color:var(--ifm-color-primary);color:white;border:none;border-radius:4px;cursor:pointer;font-weight:bold;opacity:1">訂閱</button></form></div>]]></content:encoded>
+]]></content:encoded>
             <category>2024</category>
             <category>Reflection</category>
         </item>
@@ -690,7 +947,7 @@
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="對-pm-的期待不同">對 PM 的期待不同<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E5%B0%8D-pm-%E7%9A%84%E6%9C%9F%E5%BE%85%E4%B8%8D%E5%90%8C" class="hash-link" aria-label="對 PM 的期待不同的直接連結" title="對 PM 的期待不同的直接連結">​</a></h3>
 <p><img decoding="async" loading="lazy" alt="expectations" src="https://www.t-t.cool/assets/images/pm-thoughts-320734448a9bafda2ff05c594c819b26.webp" width="1290" height="716" class="img_ev3q"></p>
 <p>不同公司、不同團隊、不同角色對 PM 有各種不同的期待，Eileen 提到團隊合作沒有標準答案，可以用後面會提到的小撇步 1 on 1 來了解團隊成員的期待，也可以在 PRD 清楚溝通目標來凝聚團隊共識。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一些小撇步">一些小撇步<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E4%B8%80%E4%BA%9B%E5%B0%8F%E6%92%87%E6%AD%A5" class="hash-link" aria-label="一些小撇步的直��接連結" title="一些小撇步的直接連結">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一些小��撇步">一些小撇步<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E4%B8%80%E4%BA%9B%E5%B0%8F%E6%92%87%E6%AD%A5" class="hash-link" aria-label="一些小撇步的直接連結" title="一些小撇步的直接連結">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="降落新團隊小秘訣">降落新團隊小秘訣<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E9%99%8D%E8%90%BD%E6%96%B0%E5%9C%98%E9%9A%8A%E5%B0%8F%E7%A7%98%E8%A8%A3" class="hash-link" aria-label="降落新團隊小秘訣的直接連結" title="降落新團隊小秘訣的直接連結">​</a></h3>
 <p>Eileen 分享了幾項降落新團隊時可以加速適應的小秘訣：</p>
 <ul>
@@ -738,15 +995,15 @@
 <ul>
 <li>教學者的基礎涵養 — — 工作記憶</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="對自己的定位">對自己的定位<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E5%B0%8D%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AE%9A%E4%BD%8D" class="hash-link" aria-label="對自己的定位的直接連結" title="對自己的定位的直接連結">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="回歸目�的想扮演什麼樣的團隊角色">回歸目的：想扮演什麼樣的團隊角色<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E5%9B%9E%E6%AD%B8%E7%9B%AE%E7%9A%84%E6%83%B3%E6%89%AE%E6%BC%94%E4%BB%80%E9%BA%BC%E6%A8%A3%E7%9A%84%E5%9C%98%E9%9A%8A%E8%A7%92%E8%89%B2" class="hash-link" aria-label="回歸目的：想扮演什麼樣的團隊角色的直接連結" title="回歸目的：想扮演什麼樣的團隊角色的直接連結">​</a></h3>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="對自己的定位">對自己的定位<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E5%B0%8D%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AE%9A%E4%BD%8D" class="hash-link" aria-label="對自己的定位的直接連結" title="對自��己的定位的直接連結">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="回歸目的想扮演什麼樣的團隊角色">回歸目的：想扮演什麼樣的團隊角色<a href="https://www.t-t.cool/blog/2024-forum-tkug-tpm#%E5%9B%9E%E6%AD%B8%E7%9B%AE%E7%9A%84%E6%83%B3%E6%89%AE%E6%BC%94%E4%BB%80%E9%BA%BC%E6%A8%A3%E7%9A%84%E5%9C%98%E9%9A%8A%E8%A7%92%E8%89%B2" class="hash-link" aria-label="回歸目的：想扮演什麼樣的團隊角色的直接連結" title="回歸目的：想扮演什麼樣的團隊角色的直接連結">​</a></h3>
 <p><img decoding="async" loading="lazy" alt="position" src="https://www.t-t.cool/assets/images/position-72ac5466ea7f52a82988edee004b7a9f.gif" width="480" height="480" class="img_ev3q"></p>
 <p>在分享的最後，Eileen 提到適合當什麼樣的 PM，其實還是要回歸目的：你想在團隊扮演什麼樣的角色？</p>
 <p>她自己的回答會是擔任團隊的催化劑，讓團隊可以在有了她以後促使事情發生。</p>
 <p>PM 有很多的樣貌，重點是取得平衡，讓自己可以盡情發揮自己擅長的事，並對自己不擅長的事進行風險管理。</p>
 <p>我自己也許還在摸索定位的過程之中，但近期的想法是成為團隊翻譯機與路隊長，讓團隊成員可以相互溝通、理解，並引領團隊前往正確的前進方向。</p>
 <!-- -->
-<div style="margin:2rem 0;padding:1.5rem;background-color:var(--ifm-background-surface-color);border-radius:8px;border:1px solid var(--ifm-color-emphasis-200)"><h3 style="margin-bottom:1rem">訂閱最新文章</h3><p style="font-size:0.9rem;margin-bottom:1.5rem">歡迎使用信箱接收最新文章，或是你也可以<a href="https://www.t-t.cool/blog/rss.xml">由此訂閱 RSS</a></p><form style="display:flex;flex-direction:column;gap:1rem"><input type="email" name="fields[email]" placeholder="輸入你的 Email" required="" style="width:100%;padding:0.8rem;border-radius:4px;border:1px solid var(--ifm-color-emphasis-300);background-color:var(--ifm-background-color)"><button type="submit" style="width:100%;padding:0.8rem;background-color:var(--ifm-color-primary);color:white;border:none;border-radius:4px;cursor:pointer;font-weight:bold;opacity:1">訂閱</button></form></div>]]></content:encoded>
+]]></content:encoded>
             <category>2024</category>
             <category>Forum</category>
             <category>PM</category>
@@ -797,7 +1054,7 @@
 <li>喂喂你還好不好</li>
 </ul>
 <!-- -->
-<div style="margin:2rem 0;padding:1.5rem;background-color:var(--ifm-background-surface-color);border-radius:8px;border:1px solid var(--ifm-color-emphasis-200)"><h3 style="margin-bottom:1rem">訂閱最新文章</h3><p style="font-size:0.9rem;margin-bottom:1.5rem">歡迎使用信箱接收最新文章，或是你也可以<a href="https://www.t-t.cool/blog/rss.xml">由此訂閱 RSS</a></p><form style="display:flex;flex-direction:column;gap:1rem"><input type="email" name="fields[email]" placeholder="輸入你的 Email" required="" style="width:100%;padding:0.8rem;border-radius:4px;border:1px solid var(--ifm-color-emphasis-300);background-color:var(--ifm-background-color)"><button type="submit" style="width:100%;padding:0.8rem;background-color:var(--ifm-color-primary);color:white;border:none;border-radius:4px;cursor:pointer;font-weight:bold;opacity:1">訂閱</button></form></div>]]></content:encoded>
+]]></content:encoded>
             <category>2024</category>
             <category>Life</category>
         </item>
@@ -853,92 +1110,9 @@
 <hr>
 <p>以上是目前的訂閱項目，隨時可能再發文紀錄！</p>
 <!-- -->
-<div style="margin:2rem 0;padding:1.5rem;background-color:var(--ifm-background-surface-color);border-radius:8px;border:1px solid var(--ifm-color-emphasis-200)"><h3 style="margin-bottom:1rem">訂閱最新文章</h3><p style="font-size:0.9rem;margin-bottom:1.5rem">歡迎使用信箱接收最新文章，或是你也可以<a href="https://www.t-t.cool/blog/rss.xml">由此訂閱 RSS</a></p><form style="display:flex;flex-direction:column;gap:1rem"><input type="email" name="fields[email]" placeholder="輸入你的 Email" required="" style="width:100%;padding:0.8rem;border-radius:4px;border:1px solid var(--ifm-color-emphasis-300);background-color:var(--ifm-background-color)"><button type="submit" style="width:100%;padding:0.8rem;background-color:var(--ifm-color-primary);color:white;border:none;border-radius:4px;cursor:pointer;font-weight:bold;opacity:1">訂閱</button></form></div>]]></content:encoded>
+]]></content:encoded>
             <category>2024</category>
             <category>Life</category>
-        </item>
-        <item>
-            <title><![CDATA[2023 Reflection｜Part II：Health & Play & Love]]></title>
-            <link>https://www.t-t.cool/blog/2023-reflection-part-2</link>
-            <guid>https://www.t-t.cool/blog/2023-reflection-part-2</guid>
-            <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[happy-third]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="happy-third" src="https://www.t-t.cool/assets/images/happy-third-9974fcc88a6300530ed916e5074f881a.jpeg" width="2048" height="1540" class="img_ev3q"></p>
-<p>承接前一篇 <a href="https://medium.com/@MileyChen/2023-reflection-part-i-work-538f2d8f8f24" target="_blank" rel="noopener noreferrer"><strong>2023 Reflection | Part I: Work</strong></a>  回顧完 2023 工作部分，這篇將回顧的是：</p>
-<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">． 2023 Health &amp; Play</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">． 2023 Love</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">． 2023 小結</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="複製程式碼至剪貼簿" title="複製" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2023-health--play">2023 Health &amp; Play<a href="https://www.t-t.cool/blog/2023-reflection-part-2#2023-health--play" class="hash-link" aria-label="2023 Health &amp; Play的直接連結" title="2023 Health &amp; Play的直接連結">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="允許自己放鬆放空與遊樂">允許自己放鬆、放空與遊樂<a href="https://www.t-t.cool/blog/2023-reflection-part-2#%E5%85%81%E8%A8%B1%E8%87%AA%E5%B7%B1%E6%94%BE%E9%AC%86%E6%94%BE%E7%A9%BA%E8%88%87%E9%81%8A%E6%A8%82" class="hash-link" aria-label="允許自己放鬆、放空與遊樂的直接連結" title="允許自己放鬆、放空與遊樂的直接連結">​</a></h3>
-<p>如同在上一篇所回顧的不追求不斷提升生產力，留給自己放鬆的空間是我從大學以來的課題，大學時用學分和活動把生活塞滿，出了社會則是變成下班還在想著工作、下班仍覺得自己沒有上一些課或做 side project 就很焦慮的狀態。</p>
-<p>在 2023 的後半，我趁著換工作前出國到清邁找備考中到處游牧的瓜瓜，很短暫地完全抽離工作，在那個步調很鬆但有著許多遠端工作者的城市，又認識一種新的生活型態。</p>
-<blockquote>
-<p><em>「工作是為了生活。」</em></p>
-</blockquote>
-<p>開始工作後約一年我才比較能體會這句話的意義。</p>
-<p>追根究底也許仍然是和我持續在處理的課題相關：「不要把自我價值建構在外在成果」，要容許自己適當地、依照自己舒適的步調成長，而不是為了不斷追逐成果而逼得自己連鬆一口氣的空間都沒有。從開始可以遠端工作的生活型態轉變開始，我給自己更多「屬於自己的時間」。</p>
-<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>看電影、野餐、看書、聽專場、或是單純地躺著耍廢，在這些生活的空檔，再學習自己覺得有趣的事，用屬於自己的步調成長。</div></div>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="從熟悉的運動作為起點讓跳舞回歸遊戲">從熟悉的運動作為起點：讓跳舞回歸遊戲<a href="https://www.t-t.cool/blog/2023-reflection-part-2#%E5%BE%9E%E7%86%9F%E6%82%89%E7%9A%84%E9%81%8B%E5%8B%95%E4%BD%9C%E7%82%BA%E8%B5%B7%E9%BB%9E%E8%AE%93%E8%B7%B3%E8%88%9E%E5%9B%9E%E6%AD%B8%E9%81%8A%E6%88%B2" class="hash-link" aria-label="從熟悉的運動作為起點：讓跳舞回歸遊戲的直接連結" title="從熟悉的運動作為起點：讓跳舞回歸遊戲的直接連結">​</a></h3>
-<p>上班以後坐著的時間變成是八小時起跳，下班又時常耗盡能量地躺在沙發上，覺得這樣的生活太不健康的我嘗試過進健身房，但最後還是被惰性打敗。於是發現，被我因健康狀態中斷、荒廢已久的街舞，仍是我唯一喜愛並有辦法持續的運動項目。中間很久沒重啟練舞除了覺得肌肉量低下的自己很難馬上回歸原本強度以外，也包含了過去對追求要變得更強卻不斷感到挫敗的退縮感。還好過去的一年有朋友的練舞邀約，讓自己漸漸重拾跳舞時的快樂，慢慢回歸上課與練舞。</p>
-<blockquote>
-<p><strong>讓喜歡的事回歸遊戲，才能長久地持續，並專注在自己對這件事本身的感受與體驗。</strong></p>
-</blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="讓心態不再漂泊專注在營造自己的生活與安全空間">讓心態不再漂泊：專注在營造自己的生活與安全空間<a href="https://www.t-t.cool/blog/2023-reflection-part-2#%E8%AE%93%E5%BF%83%E6%85%8B%E4%B8%8D%E5%86%8D%E6%BC%82%E6%B3%8A%E5%B0%88%E6%B3%A8%E5%9C%A8%E7%87%9F%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%9F%E6%B4%BB%E8%88%87%E5%AE%89%E5%85%A8%E7%A9%BA%E9%96%93" class="hash-link" aria-label="讓心態不再漂泊：專注在營造自己的生活與安全空間的直接連結" title="讓心態不再漂泊：專注在營造自己的生活與安全空間的直接連結">​</a></h3>
-<p>身為一個從上大學到工作越漂越北的南部小孩，宿舍和租屋處對我來說總是「該有的都有」就好，完全不曾悉心營造屬於自己的空間，從小就習慣沒有房間真正屬於自己，離開了家就更像是株沒有根的植物，現在的住處也不是屬於我的歸處。</p>
-<p>在<a href="https://www.books.com.tw/products/0010971398?sloc=main" target="_blank" rel="noopener noreferrer">無解的日常題目</a>中，我特別喜歡「房間」這個篇章：</p>
-<blockquote>
-<p><em>在二十二歲之前，我的房間權限一直不只屬於自己，直到入住這裡，我才明白上鎖房門是一種奢侈，而真正的富有，原來是擁有自己的空間與時間。</em></p>
-</blockquote>
-<p>在開始遠端工作以後，才意識到**即使是租屋處，現在的房間承載了我所有的生活，無論身心理上都是屬於我自己的安全庇護所。**於是我調整了房間擺設、重新整理與佈置自己的房間，讓陽光可以灑落在我工作的座位和床頭，捨棄只是堆積著卻總捨不得的物品和衣服，放上香氛吸吐著喜歡的香氣，並用一隅有花的日曆細數著生活的每一日。</p>
-<blockquote>
-<p><em>我的房間永遠允許我，以任何形式存在，即便出了房門，這世界的雜音不會善待我，但只要在房間裡，我的世界就是安靜的。</em></p>
-</blockquote>
-<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>有了這樣的意識與整理後，待在房間裡總很神奇地感受到安全，也有了更多對生活的掌控感。好像把自己的心也跟著整理了乾淨，準備好容納更多的思緒、更多樣的自己。</div></div>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2023-love">2023 Love<a href="https://www.t-t.cool/blog/2023-reflection-part-2#2023-love" class="hash-link" aria-label="2023 Love的直接連結" title="2023 Love的直接連結">​</a></h2>
-<p>2023 的我得到了、也付出了很多的愛，和摯友們更緊密、經歷一段關係的終結，在這些愛之中學習著用更多的愛去愛自己。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="真正的情緒穩定面對消化溝通">真正的情緒穩定：面對、消化、溝通<a href="https://www.t-t.cool/blog/2023-reflection-part-2#%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%83%85%E7%B7%92%E7%A9%A9%E5%AE%9A%E9%9D%A2%E5%B0%8D%E6%B6%88%E5%8C%96%E6%BA%9D%E9%80%9A" class="hash-link" aria-label="真正的情緒穩定：面對、消化、溝通的直接連結" title="真正的情緒穩定：面對、消化、溝通的直接連結">​</a></h3>
-<p>近年很流行講求人在感情中的「情緒穩定」，似乎變成了一種標語與條件，在某些人的解讀之下，有時會變成好像有表達出某些情緒就是錯誤的，但<strong>情緒是我們對不同事件的反應，不論是生氣、難過、哀傷、喜悅，都並沒有正負面之分，而是無形地展現著我們對這個世界的觀點</strong>。</p>
-<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>真正的情緒穩定並不是沒有情緒，而是能夠自己面對與消化這些不同的觀點和感受，並將之分享、表達出來，促成溝通。</div></div>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="關係的安心感是雙向建立">關係的安心感是雙向建立<a href="https://www.t-t.cool/blog/2023-reflection-part-2#%E9%97%9C%E4%BF%82%E7%9A%84%E5%AE%89%E5%BF%83%E6%84%9F%E6%98%AF%E9%9B%99%E5%90%91%E5%BB%BA%E7%AB%8B" class="hash-link" aria-label="關係的安心感是雙向建立的直接連結" title="關係的安心感是雙向建立的直接連結">​</a></h3>
-<p>現在的人際網路很像我為自己構建的安全網，有時候會覺得我的朋友們怎麼都那麼能夠承接我的情緒和狀態，也因此向昱融提問過不知道為什麼我會能夠打給你哭呢？為什麼身邊的人會願意接住這些樣態的我呢？</p>
-<blockquote>
-<p><em>安心感一直都是雙向給予的呦</em></p>
-</blockquote>
-<p>這樣簡單的回覆卻讓我恍然大悟，</p>
-<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>我以為我的朋友們是我的安全網，但事實上我也是網的一環。關係總是雙向建立，安心感也都是相互給予的，當能夠彼此分享、彼此理解，才能夠拉緊這張網，承接彼此。</div></div>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2023-小結">2023 小結<a href="https://www.t-t.cool/blog/2023-reflection-part-2#2023-%E5%B0%8F%E7%B5%90" class="hash-link" aria-label="2023 小結的直接連結" title="2023 小結的直接連結">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-給自己的一些小-memo">1. 給自己的一些小 Memo<a href="https://www.t-t.cool/blog/2023-reflection-part-2#1-%E7%B5%A6%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F-memo" class="hash-link" aria-label="1. 給自己的一些小 Memo的直接連結" title="1. 給自己的一些小 Memo的直接連結">​</a></h3>
-<ul>
-<li><strong>有意識地生活</strong>：先從意識到自己沒有意識開始， 在每一個抉擇的當下， 意識到自己的限制、意識到選擇的理由，讓生活是由自己選擇而來，用意識為自己構建滿足與意義。</li>
-</ul>
-<blockquote>
-<p>「有意識的生活，不要陷入 default 模式，時刻問自己現在最重要的是什麼」- 矽谷輕鬆談 ep.160</p>
-</blockquote>
-<ul>
-<li><strong>提高解析度</strong>：提升向內與向外的廣度、深度、時間線，以及調節解析度的能力。</li>
-</ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-一些小目標">2. 一些小目標<a href="https://www.t-t.cool/blog/2023-reflection-part-2#2-%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%9B%AE%E6%A8%99" class="hash-link" aria-label="2. 一些小目標的直接連結" title="2. 一些小目標的直接連結">​</a></h3>
-<p><strong>Work</strong></p>
-<ul>
-<li>學習用數據更好地支持決策</li>
-<li>優化團隊規劃與時程安排流程</li>
-<li>定期自我紀錄 reflection</li>
-</ul>
-<p><strong>Health &amp; Play</strong></p>
-<ul>
-<li>保持跳舞、挑戰潛水與雪板</li>
-<li>持續營造理想的生活空間</li>
-<li>多曬太陽多出門走走</li>
-</ul>
-<p><strong>Love</strong></p>
-<ul>
-<li>和摯友家人們保持分享、理解、溝通</li>
-</ul>
-<!-- -->
-<div style="margin:2rem 0;padding:1.5rem;background-color:var(--ifm-background-surface-color);border-radius:8px;border:1px solid var(--ifm-color-emphasis-200)"><h3 style="margin-bottom:1rem">訂閱最新文章</h3><p style="font-size:0.9rem;margin-bottom:1.5rem">歡迎使用信箱接收最新文章，或是你也可以<a href="https://www.t-t.cool/blog/rss.xml">由此訂閱 RSS</a></p><form style="display:flex;flex-direction:column;gap:1rem"><input type="email" name="fields[email]" placeholder="輸入你的 Email" required="" style="width:100%;padding:0.8rem;border-radius:4px;border:1px solid var(--ifm-color-emphasis-300);background-color:var(--ifm-background-color)"><button type="submit" style="width:100%;padding:0.8rem;background-color:var(--ifm-color-primary);color:white;border:none;border-radius:4px;cursor:pointer;font-weight:bold;opacity:1">訂閱</button></form></div>]]></content:encoded>
-            <category>2024</category>
-            <category>Reflection</category>
         </item>
     </channel>
 </rss>
