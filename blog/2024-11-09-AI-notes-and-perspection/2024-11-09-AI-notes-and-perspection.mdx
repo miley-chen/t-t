@@ -1,0 +1,269 @@
+---
+slug: AI-notes-and-perspection
+title: 對 AI 的粗淺認識與個人見解
+authors: [miley]
+tags: ['2024', tech, ai, course, perspection]
+keywords: [AI, 人工智慧, 生成式 AI, 大語言模型, LLM]
+---
+import React from 'react';
+import BrowserOnly from '@docusaurus/BrowserOnly';
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<!-- 以上是設定區塊 -->
+
+
+![cover](./cover.png)
+ 
+前陣子在 Coursera 上完成了 [Google AI Essential](https://www.coursera.org/learn/google-ai-essentials?irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2985301&utm_content=b2c&gad_source=1&irclickid=1AxwlqWyFxyKR7MXQczqn2pCUkCTLu3AxWUfwA0) 這門課，相比先前在 Google Skill Shop 沒上完的 AI 課程，這是一門更加容易上手的基本入門課（aka 比初階更初階的基礎介紹），對 AI 的技術說明比例較低，較多圍繞在 AI 限制與帶來的影響、Prompt Engineering 這些主題。上課筆記被我整理在 Garden 裡，而這篇文章主要是連結了近期看到的文章們，紀錄下一些個人想法。
+
+免責聲明（？）：上課筆記可能有理解錯誤或敘述不清，個人見解部分則是我腦洞大開，都歡迎利用網站右下角的回饋或是來信網站底端附上的信箱討論。
+
+
+<!-- truncate -->
+
+## 對 AI 的粗淺認識
+
+避免文章過長，比較詳細的技術名詞筆記都在 Garden，建議對技術名詞解釋的人有興趣再點擊文內連結去看。
+
+### [LLM 是 AI 的一個子集合](/garden/tech-notes/AI/LLM)
+
+近年迅速竄起的 AI 產業風潮，精確來說是由使用大型語言模型（Large language model, LLM）技術的工具所引領，而 LLM 是人工智慧（Artificial Intelligence, AI）的一個子集。
+
+#### 重點整理
+
+為了區分什麼是 LLM，實在是需要了解非常多專有名詞，可以點擊標題去參考 Garden 的筆記，簡化後的兩點關鍵：
+
+- AI 是指能模擬人類智慧完成做決策或解決問題等複雜情境的電腦程式
+
+- LLM 是 GAI 的一個子集，特別強調在文字生成與語言理解上的能力
+
+### [AI 的先天限制](/garden/tech-notes/AI/AI-limitation)
+
+即使 AI 的發展越來越進步，它依然面臨一些先天性的限制，讓它在實際應用中可能產生誤差或不準確的情況。
+
+無論是將它應用於不同產品上的開發端，還是使用應用相關技術工具的用戶端，瞭解他的限制並培養辨認 AI 提供的哪些內容是真實有效都是必要的。
+
+#### 重點整理
+
+- 知識截止點來自 AI 無法獲取最新資訊，是知識的靜態限制
+
+  - 飄移是知識逐漸脫節的動態影響，使 AI 回應的知識不符合現況
+  - 幻覺是知識截止點和飄移造成的結果之一，當 AI 無法提供真實答案時，可能為了填補空缺而編造出錯誤的回應
+
+- 偏誤和幻覺都可能來自 AI 訓練數據的品質問題
+
+  - 當數據本身存在偏見或錯誤，AI 就可能在回答中反映這些偏見
+  - 偏見可能導致幻覺中的不公平表現，讓 AI 編造出有偏向的答案
+
+
+### [和 LLM 合作更順暢的 Prompting 技巧](/garden/tech-notes/AI/prompt-engineering)
+
+在使用 LLM 時，提示語（Prompt）的撰寫方式會直接影響 AI 回應的品質，因此初步理解提示工程（Prompt engineering）這門用來設計與撰寫指令的技術，能夠幫助自己引導 AI 提供更有用、清晰、並且符合需求的結果。
+
+#### 重點整理
+- 給予脈絡，告訴 AI 情境和回答的角色
+- 使用動詞，明確指出要 AI 執行的事項
+- 適度給予範例或請 AI 逐步解釋問題
+- 持續參與和 AI 的對話，運用人類的判斷和審核，引導出合理的結果
+
+## 一些個人觀察與見解
+
+### 觀察 AI 正在帶來的知識改革：新一波知識爆炸時代加深識讀能力的重要性
+
+#### 更快、更容易取得知識密度高（但可能有錯）的資訊
+
+AI 的發展為我們提供了前所未有的資訊獲取速度，在這樣一個新時代裡，識讀能力將比以往更加重要，因為知識的生成與傳播速度雖然空前加快，但其中的準確性與適用性卻未必能得到保證。  
+
+AI 工具讓我們能夠迅速獲取濃縮且豐富的知識，無論是技術文件的摘要、學術研究的大綱，還是複雜概念的簡單解釋。然而，這些 AI 生成內容的知識密度雖高，但它們並非總是準確或完整，部分資訊可能包含邏輯漏洞、缺乏背景脈絡，甚至是錯誤陳述。這意味著我們在使用 AI 生成資訊時，必須以批判性的眼光加以檢視，避免過度依賴其結論。
+
+#### 理解技術有其限制，有意識地篩選資訊與挑選應用場景
+
+AI 的優勢在於效率，但它的限制也不可忽視。大型語言模型並不真正「理解」其生成的內容，而是基於語言模式進行推導。因此，它們可能在快速生成重複性內容或提供創意靈感等特定場景下表現出色，但在高度專業化的情境中，如醫學診斷或法律解釋，容易導致誤用風險。因此識讀能力的重要性不僅體現在資訊篩選上，還包括我們對應用場景的意識。使用者需要主動選擇適合 AI 發揮其效能的場景，並在關鍵情境下引入人類專家的判斷。  
+
+以我今年使用 ChatGPT 協助我閱讀一些論文為例，雖然它可以幫助我快速翻譯和整理重點，但有時也會有和未完整說明、不符文章脈絡的資訊參雜其中，如果無法分辨資訊的真偽或與來源的一致性，可能會影響吸收知識的成效。​而如果是用來對閱讀的內容提出問題，相對有更高容錯度，甚至能由它提供的角度激發思考。 [[1]](/blog/AI-notes-and-perspection#1-關於用-ai-做資訊處理manny-提出的這篇心得很值得看看)
+
+理解 AI 工具的優勢與局限，在對生成的知識保持質疑與反思的態度下，挑選適用的場景，會是人們如何能更高效地利用這些新工具拓展知識與技術邊界的關鍵。  
+
+### 議題探討：AI 會讓寫作能力與思考能力消失嗎？
+
+#### 寫作只是「其中一種」思考
+
+前陣子看到 Paul Graham 的文章 [Writes and Write-Nots](https://paulgraham.com/writes.html?__readwiseLocation=) 引發了一些討論，他在文章中提出，未來幾十年內，人們將依賴 AI 來完成寫作任務，這將導致寫作能力逐漸消失，進而危及人類的思考能力。然而，我卻不認同人類的獨立思考能力會因此而被嚴重危害。  
+
+在 [Writing as a Way of Thinking](https://every.to/chain-of-thought/writing-as-a-way-of-thinking) 這篇文章裡，作者很好地點出另一種論點：寫作不是「唯一」的思考方式，AI 也許會改變現今人們寫作的方式，但其他類型的思考將被保留甚至增強。  
+
+思考能力會隨著寫作能力一起消失的觀點建立在一個假設之上：思考必須依賴寫作，然而這並不完全符合事實。在文字被發明來承載思考以前，思考就已經存在於人們的腦海中，以我自身來說，雖然近一年來我開始透過寫作探索新的思考方式，但這並不意味著過去二十幾年我未曾進行深度思考，只是當時我的思考以不同形式存在；甚至我會說寫作對思考不是必要的，它是幫助人類擴展思考的一種工具，但並非唯一的方法。就像簡報、攝影、舞蹈等媒介一樣，寫作的價值在於幫助我們紀錄、傳遞或回頭觀看思考的脈絡，而不等同於思考本身，這也是為什麼人類不斷發明新的媒介來拓展思考與表達的可能性。  
+
+綜上所述，我相信即使寫作能力削弱，人類的獨立思考能力也不會迎來終點，而是新的思考形式會隨之誕生。
+
+#### 寫作與思考能力可能會有典範轉移但不會消失
+
+作為一個更偏向科技樂觀主義的人，我相信寫作能力並不會簡單地消失，而是經歷典範轉移。  
+
+從大多數 LLM 工具應用中可以觀察到，AI 的核心應用場景之一是基於文字的對話與指令。這意味著未來的寫作能力可能將不再著重於將從文學式的敘事技巧，而是轉變為如何高效地與 AI 協作，以生成目標成果。與其專注於完整文章的架構，人們可能更需要掌握如何通過簡潔的壓縮詞 [[2]](/blog/AI-notes-and-perspection#2-關於壓縮詞的概念可以參考-pj-的這封信)、精準的提問以及清晰的範例來引導 AI，Prompt Engineering 正是這種新型寫作能力的早期體現。  
+
+這樣的典範轉移也代表著寫作時經歷的思考過程將產生深刻改變。傳統寫作的過程強調從無到有的創造性，而 AI 則讓我們在早期階段進行更多抽象化與結構化的思考。這種人類參與循環結合了人類創造力與模型運算能力，帶來更高效的協作式思考，也改變了寫作的本質。  
+
+例如，行銷團隊可能不再需要完整撰寫行銷文章，而是可以透過向 AI 提供一系列提示來生成初稿，再針對不滿意的部分進行修改和補充。在這樣的情境中，寫作能力仍然發揮作用，但它轉變成更接近於設計者的能力 —— 定義目標、描述意圖、解決問題，而非傳統意義上的文章寫作。  
+
+在 [The End of Productivity](https://every.to/thesis/the-end-of-productivity) 這篇文章中可以從 PKM 工具轉變的角度看到 AI 幫助人們從生產力轉向創造力的概念：過去大多數的工具是為了收斂想法所建，引導你專注於用一系列的線性方法簡化和精煉想法；現在藉由其他更自由的組織方式與 AI 的幫助下，創造性的思考得到了更多的支持。  
+
+> The AI didn’t generate the output for me. It surfaced just-in-time quotes to reinforce my argument, rescue me from my own forgetfulness, and push me to make the occasional creative leap.
+
+這種轉變將導致社會需要重新評估寫作能力的定義，且為了避免人們未能掌握與 AI 協作的新技能而被邊緣化，教育方針也需要因應新型態的寫作調整能力培養方式，以確保人們能在新環境下保持競爭力。總體來說，未來從寫作衍生的思考可能更加多維、模組化，與工具的協作也將成為我們日常思維的一部分。  
+
+### AI 工具的發展與影響
+
+#### 消弭呈現形式在思考和溝通上造成的阻礙
+
+AI 的發展讓我看到一個可能性：未來的生產工具不再僅僅是輔助我們創造內容，而是成為一種橋樑，縮短思考與呈現形式之間的距離。在目前的溝通與表達過程中，我們常常受到形式的局限（例如：文章、簡報或圖表）導致無法傳達或接收完整的思路，甚至讓溝通效率降低。AI 有潛力幫助我們直接轉化思考為多種形式的表達，進而大幅減少這些阻礙。  
+
+舉例來說，我在工作中經常需要先用 FigJam 規劃功能與流程，接著將規劃內容整理成 Confluence 規格文件，供工程師開發參照，最後再製作簡報，向跨部門成員解釋功能的情境背景與操作方式。儘管這些內容都來自同一個思考脈絡，但因應面向不同角色的溝通需求，我必須花費大量時間進行「轉譯」。再加上我對文件呈現的龜毛要求，這些形式化的處理，時常成為影響我效率的瓶頸。  
+
+如果 AI 工具能協助我們更快速地在不同形式之間切換，那麼我們就能將更多精力專注於思考本身，而非被表達形式束縛，溝通也藉由便利的形式轉換變得更加容易。  
+
+#### 作為一種新的互動介面
+
+最近看了一本教導學術寫作的書 They say I say，書中強調學術寫作的核心在於：
+
+> 你必須將自己的論點與其他論點形成一個對談。
+
+在我看來，這種對話的底層概念在傳統學術寫作與指令寫作之間並未改變。過去，寫作的過程同時是思考與表達的過程，結果最終在靜態文本呈現；而在使用 AI 時，更多的對話與探索過程被保留於動態的互動之中。  
+
+目前許多工具嘗試融入 LLM，讓原本複雜的操作可以透過簡顯易懂的自然語言快速調整，而這種和 AI「對話」的形式成為了一種新的互動介面。  
+
+> Just as the GUI allowed users to interact with computers through intuitive visual elements, interactive AI enables users to engage with technology — or more properly, the information that technology can make available — as well as their own thinking processes in more dynamic and meaningful ways. This transformation is not merely about making information more accessible, but about fundamentally altering how users retrieve and interact with data, and ultimately, how they think and act in the world.
+> —— [AI as Interface: Transforming Human-Computer Interaction](https://www.linkedin.com/pulse/ai-interface-transforming-human-computer-interaction-friedland-phd-dvude/) 
+  
+
+比如 Typeform 直接另闢戰場，推出 AI 新產品 Formless，完全是一個以文字互動為體驗核心的表單軟體，將建立問卷步驟拆解成了一系列文字輸入，甚至問卷本身就是以對話的方式進行。這個產品摒棄了舊有的制式題型，將如何設計問題與分析回答交給 AI 思考，降低資料收集的門檻，讓設計問卷與填答所有流程，都可以用大家最熟悉的對話方式進行 [[3]](/blog/AI-notes-and-perspection#3-%E4%B8%80%E4%BA%9B%E8%88%87%E6%96%87%E7%AB%A0%E7%84%A1%E9%97%9C%E7%9A%84%E6%83%B3%E6%B3%95%E5%85%B6%E5%AF%A6%E7%9B%AE%E5%89%8D%E4%BE%86%E7%9C%8B%E6%88%91%E5%BE%88%E9%9B%A3%E8%AA%AA%E4%BD%BF%E7%94%A8%E9%80%99%E7%A8%AE%E5%B0%8D%E8%A9%B1%E4%BB%8B%E9%9D%A2%E8%AE%93%E9%AB%94%E9%A9%97%E8%AE%8A%E5%A5%BD%E5%8F%AA%E8%83%BD%E8%AA%AA%E4%BD%BF%E7%94%A8%E9%96%80%E6%AA%BB%E9%99%8D%E4%BD%8E%E5%A6%82%E6%9E%9C%E6%98%AF%E5%B0%8D%E5%BE%88%E6%9C%89%E7%B6%93%E9%A9%97%E7%9A%84%E5%95%8F%E5%8D%B7%E8%A8%AD%E8%A8%88%E8%80%85%E4%BE%86%E8%AA%AA%E5%8F%AF%E8%83%BD%E5%8F%8D%E8%80%8C%E8%B7%9F%E9%A0%90%E6%9C%9F%E8%90%BD%E5%B7%AE%E5%BE%88%E9%81%A0%E4%B8%94%E5%B0%8D%E8%A9%B1%E5%BD%A2%E5%BC%8F%E5%B0%8D%E5%A1%AB%E7%AD%94%E8%80%85%E4%BE%86%E8%AA%AA%E8%AE%8A%E5%BE%97%E9%BA%BB%E7%85%A9%E5%A4%A7%E6%A9%9F%E7%8E%87%E6%9C%83%E5%B0%8E%E8%87%B4%E9%99%8D%E4%BD%8E%E5%A1%AB%E7%AD%94%E7%8E%87%E4%BD%86-typeform-%E6%9C%AC%E8%BA%AB%E5%92%8C%E5%85%B6%E4%BB%96%E7%AB%B6%E5%93%81%E4%B8%80%E6%A8%A3%E9%83%BD%E6%9C%89%E4%BB%A5-ai-%E7%94%9F%E6%88%90%E7%B5%90%E6%A7%8B%E5%8C%96%E5%95%8F%E9%A1%8C%E7%9A%84%E5%8A%9F%E8%83%BDformless-%E9%80%99%E5%80%8B%E7%94%A2%E5%93%81%E7%9C%8B%E8%B5%B7%E4%BE%86%E6%9B%B4%E5%83%8F%E6%98%AF%E5%9C%A8%E6%8C%91%E6%88%B0%E6%9C%AA%E4%BE%86%E4%BA%BA%E5%80%91%E6%9C%83%E7%BF%92%E6%85%A3%E5%AE%8C%E5%85%A8%E4%BD%BF%E7%94%A8%E9%80%99%E7%A8%AE%E5%B0%8D%E8%A9%B1%E4%BB%8B%E9%9D%A2%E7%9A%84%E5%8F%AF%E8%83%BD)。
+
+這種互動介面可以用在各式各樣的產品與領域，於是各種與推導、規劃、生成相關的技能似乎都會和前述的寫作能力變化面臨相同的問題 —— 會有更多人向倚靠 AI 達成任務、深度鑽研知識的兩端靠攏。許多人可能就止步在讓 AI 完成最基本的工作，卻沒有更深入的知識可以引導或調整出更好的成果；也有些人可能是現在已有高知識含量、或是能夠善用 AI 工具幫助自己到深度知識的一端。如何能發展新的學習或思考方式來跨越兩端中間的鴻溝，是在有了各種 AI 工具以後人們將面臨的一大挑戰。
+
+:::note
+##### [1] 關於用 AI 做資訊處理，[Manny 提出的這篇心得](https://www.facebook.com/mannyyhl/posts/pfbid024116F3trjJV7J1gqVMbGWJWTKfbwKWKeZbiL714Ny6LRnz5tjjRUpRVd8Xhwgggel?rdid=iMh4e9QiSGgFtE1t)很值得看看
+
+##### [2] 關於壓縮詞的概念，可以參考 [PJ 的這封信](https://world.hey.com/mimir/a-letter-from-pj-no-2-ai-12549d51)
+
+##### [3] 一些與文章無關的想法：其實目前來看我很難說使用這種對話介面讓體驗變好，只能說使用門檻降低。如果是對很有經驗的問卷設計者來說可能反而跟預期落差很遠，且對話形式對填答者來說變得麻煩，大機率會導致降低填答率。但 Typeform 本身和其他競品一樣都有以 AI 生成結構化問題的功能，Formless 這個產品看起來更像是在挑戰未來人們會習慣完全使用這種對話介面的可能。
+:::
+
+## 結語
+
+在寫這篇文章的過程中，我一直想起 Bret Victor 在 [The Humane Representation of Thought](https://www.youtube.com/watch?v=agOdP2Bmieg) 這場演講中提到，表徵（Representation）是人類將思考外化的重要方式，而媒介的發展則擴展了我們的思考範圍。然而，他也指出，每種媒介 —— 比如文字和符號 —— 在賦予我們新能力的同時，也會限制我們的其他能力。
+
+我認為 AI 正在釋放既有表述形式之於人類的思考限制，它讓跨媒體的知識整合變得可能，但包含寫作在內的能力也因此無法避免地會受到衝擊。比起擔憂，我的態度更偏向好奇與期待，好奇 AI 帶來的衝擊會如何幫助人們突破現有的框架，也期待看到更多與資訊互動的可能性。
+
+在這些期待之餘，我會督促自己除了追蹤工具更新以外，還應該漸進地瞭解 AI 在技術面的運作邏輯，才能更能看清它的趨勢與限制。
+
+
+
+
+
+
+<!-- 以下是訂閱表單區塊 -->
+
+export const NewsletterForm = () => {
+  const [isSuccess, setIsSuccess] = React.useState(false);
+  const [isLoading, setIsLoading] = React.useState(false);
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    setIsLoading(true);
+
+    const formData = new FormData(e.target);
+    const email = formData.get('email'); // 更新為新的 email 欄位名稱
+
+    try {
+      const response = await fetch(
+        'https://buttondown.com/api/emails/embed-subscribe/thinking-today', // 更新為新的 API 端點
+        {
+          method: 'POST',
+          body: formData,
+        }
+      );
+
+      if (response.ok) {
+        setIsSuccess(true);
+      }
+    } catch (error) {
+      console.error('訂閱失敗:', error);
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  if (isSuccess) {
+    return (
+      <div style={{
+        margin: '2rem 0',
+        padding: '1.5rem',
+        backgroundColor: 'var(--ifm-background-surface-color)',
+        borderRadius: '8px',
+        border: '1px solid var(--ifm-color-emphasis-200)'
+      }}>
+        <h3 style={{marginBottom: '1rem'}}>感謝訂閱</h3>
+        <p style={{fontSize: '0.9rem'}}>
+          只差一步了！請至信箱驗證你的郵件地址。
+        </p>
+      </div>
+    );
+  }
+
+  return (
+    <div style={{
+      margin: '2rem 0',
+      padding: '1.5rem',
+      backgroundColor: 'var(--ifm-background-surface-color)',
+      borderRadius: '8px',
+      border: '1px solid var(--ifm-color-emphasis-200)'
+    }}>
+      <h3 style={{marginBottom: '1rem'}}>訂閱最新文章</h3>
+      <p style={{fontSize: '0.9rem', marginBottom: '1.5rem'}}>
+        歡迎使用信箱接收最新文章，或是你也可以
+        <a href="/blog/rss.xml">由此訂閱 RSS</a>
+      </p>
+      
+      <form 
+        onSubmit={handleSubmit}
+        style={{display: 'flex', flexDirection: 'column', gap: '1rem'}}
+      >
+        <input 
+          type="email" 
+          name="email" // 更新為新的 email 欄位名稱
+          placeholder="輸入你的 Email" 
+          required
+          style={{
+            width: '100%',
+            padding: '0.8rem',
+            borderRadius: '4px',
+            border: '1px solid var(--ifm-color-emphasis-300)',
+            backgroundColor: 'var(--ifm-background-color)'
+          }}
+        />
+        <button 
+          type="submit" 
+          disabled={isLoading}
+          style={{
+            width: '100%',
+            padding: '0.8rem',
+            backgroundColor: 'var(--ifm-color-primary)',
+            color: 'var(--subscribe-text-color)',
+            border: 'none',
+            borderRadius: '4px',
+            cursor: isLoading ? 'not-allowed' : 'pointer',
+            fontWeight: 'bold',
+            opacity: isLoading ? 0.7 : 1
+          }}
+        >
+          {isLoading ? '訂閱中...' : '訂閱'}
+        </button>
+      </form>
+    </div>
+  );
+};
+
+<BrowserOnly>
+{() => <NewsletterForm />}
+</BrowserOnly>

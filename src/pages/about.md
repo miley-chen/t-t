@@ -1,6 +1,7 @@
 ---
 Title: about
 ---
+
 # Hi there 👋🏼
 我是 Miley，敏感又內向但在變化多端的軟體產品管理領域走跳，是個總是被自己的感性困擾，卻又會被說太理性的人。
 
@@ -16,7 +17,7 @@ Title: about
 
 ### Onging projects
 - **思考工具探索**：從心理學、人機互動的角度瞭解思考與知識傳遞流程。
-- **聊聊計畫**：透過邀約不熟悉的人聊天，建立弱連結拓展認知邊界，如果你有興趣和我聊聊，歡迎查看下方 [Contact](/#contact) 聯絡我。
+- **[聊聊計畫](/blog/2024-mid-year-reflection#聊聊計畫)**：透過邀約不熟悉的人聊天，建立弱連結拓展認知邊界，如果你有興趣和我聊聊，歡迎查看下方 Contact 聯絡我。
 
 ### Personal rules
 - [保持好奇、主動傾聽](https://x.com/MileyChen0u0/status/1802720761758838805)
@@ -28,4 +29,7 @@ Title: about
 
 ## Contact
 
-如果你想給予文章回饋會是開啟任何討論，你可以[透過 Email 聯絡我](mailto:miley.chen@25sprout.com)，或是從下方 Footer 找到我的其他社群連結。
+如果你想給予文章回饋會是開啟任何討論，你可以[透過 Email 聯絡我](mailto:miley.ttc@gmail.com)，或是從 [Bento](https://bento.me/mileychen) 找到我的其他社群連結。
+
+:::tip 我在網站的 v1.3.0 版本新增了 Feedback 功能！歡迎點擊網站右下角的按鍵開啟回饋視窗，直接留言給我 📝 🙋🏻‍♀️
+:::
