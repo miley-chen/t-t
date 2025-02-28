@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkt_t=self.webpackChunkt_t||[]).push([[3263],{286:t=>{t.exports=JSON.parse('{"tag":{"label":"Life","permalink":"/blog/tags/life","allTagsPath":"/blog/tags","count":3,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/life","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
