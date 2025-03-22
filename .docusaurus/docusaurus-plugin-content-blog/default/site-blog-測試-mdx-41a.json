@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/測試",
+  "source": "@site/blog/測試.mdx",
+  "title": "測試文章",
+  "description": "{/ 定義訂閱表單組件 /}",
+  "date": "2024-10-29T15:19:44.527Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "test",
+      "permalink": "/blog/tags/test"
+    }
+  ],
+  "readingTime": 0.82,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "url": "https://x.com/MileyChen0u0",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "title": "測試文章",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "test"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "你的文章標題",
+    "permalink": "/blog/測試 copy"
+  },
+  "nextItem": {
+    "title": "PM 筆記｜知識與經驗在工作中的角色：領域知識、經驗知識、成長動能",
+    "permalink": "/blog/pm-ability-breakdown"
+  }
+}

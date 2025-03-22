@@ -1,0 +1,58 @@
+{
+  "permalink": "/blog/the-evolution-of-prd",
+  "source": "@site/blog/2025-02-28-the-evolution-of-prd/2025-02-28-the-evolution-of-prd.mdx",
+  "title": "PM 筆記｜PRD 進化之路 🥚🐣🐥",
+  "description": "document-documentation",
+  "date": "2025-02-28T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "2025",
+      "permalink": "/blog/tags/2025"
+    },
+    {
+      "inline": false,
+      "label": "PM",
+      "permalink": "/blog/tags/pm"
+    },
+    {
+      "inline": false,
+      "label": "Documentation",
+      "permalink": "/blog/tags/documentation"
+    }
+  ],
+  "readingTime": 17.92,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "url": "https://x.com/MileyChen0u0",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "the-evolution-of-prd",
+    "title": "PM 筆記｜PRD 進化之路 🥚🐣🐥",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "2025",
+      "pm",
+      "documentation"
+    ],
+    "keywords": [
+      "PM",
+      "產品經理",
+      "PRD",
+      "產品需求文件",
+      "規格"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "對 AI 的粗淺認識與個人見解",
+    "permalink": "/blog/AI-notes-and-perspection"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "permalink": "/blog/2022-recap",
+  "source": "@site/blog/2023-02-20-2022-recap/2023-02-20-2022 recap.md",
+  "title": "2022 Recap | 關於那些稚嫩的探索與懷疑 — 回顧讀大學這件事",
+  "description": "NYCU certificate",
+  "date": "2023-02-20T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "2023",
+      "permalink": "/blog/tags/2023"
+    },
+    {
+      "inline": false,
+      "label": "Reflection",
+      "permalink": "/blog/tags/reflection"
+    }
+  ],
+  "readingTime": 9.575,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "2022-recap",
+    "title": "2022 Recap | 關於那些稚嫩的探索與懷疑 — 回顧讀大學這件事",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "2023",
+      "reflection"
+    ],
+    "image": "./NYCU-certificate.jpeg",
+    "keywords": [
+      "recap",
+      "reflection",
+      "回顧",
+      "大學"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "2023 Reflection | Part I：Work",
+    "permalink": "/blog/2023-reflection-part-1"
+  }
+}

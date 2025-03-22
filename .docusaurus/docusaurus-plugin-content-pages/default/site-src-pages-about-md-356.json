@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/about",
+  "source": "@site/src/pages/about.md",
+  "title": "Hi there 👋🏼",
+  "description": "我是 Miley，敏感又內向但在變化多端的軟體產品管理領域走跳，是個總是被自己的感性困擾，卻又會被說太理性的人。",
+  "frontMatter": {
+    "Title": "about"
+  },
+  "unlisted": false
+}

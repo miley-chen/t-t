@@ -1,0 +1,74 @@
+{
+  "permalink": "/blog/AI-notes-and-perspection",
+  "source": "@site/blog/2024-11-09-AI-notes-and-perspection/2024-11-09-AI-notes-and-perspection.mdx",
+  "title": "對 AI 的粗淺認識與個人見解",
+  "description": "cover",
+  "date": "2024-11-09T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/blog/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "Tech",
+      "permalink": "/blog/tags/tech"
+    },
+    {
+      "inline": false,
+      "label": "AI",
+      "permalink": "/blog/tags/ai"
+    },
+    {
+      "inline": false,
+      "label": "Course",
+      "permalink": "/blog/tags/course"
+    },
+    {
+      "inline": false,
+      "label": "Perspection",
+      "permalink": "/blog/tags/perspection"
+    }
+  ],
+  "readingTime": 22.955,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "url": "https://x.com/MileyChen0u0",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "AI-notes-and-perspection",
+    "title": "對 AI 的粗淺認識與個人見解",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "2024",
+      "tech",
+      "ai",
+      "course",
+      "perspection"
+    ],
+    "keywords": [
+      "AI",
+      "人工智慧",
+      "生成式 AI",
+      "大語言模型",
+      "LLM"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "PM 筆記｜PRD 進化之路 🥚🐣🐥",
+    "permalink": "/blog/the-evolution-of-prd"
+  },
+  "nextItem": {
+    "title": "PM 筆記｜知識與經驗在工作中的角色：領域知識、經驗知識、成長動能",
+    "permalink": "/blog/pm-ability-breakdown"
+  }
+}

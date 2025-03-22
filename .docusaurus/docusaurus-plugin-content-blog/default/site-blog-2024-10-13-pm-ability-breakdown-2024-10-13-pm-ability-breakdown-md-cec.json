@@ -1,0 +1,66 @@
+{
+  "permalink": "/blog/pm-ability-breakdown",
+  "source": "@site/blog/2024-10-13-pm-ability-breakdown/2024-10-13-pm-ability-breakdown.md",
+  "title": "PM 筆記｜知識與經驗在工作中的角色：領域知識、經驗知識、成長動能",
+  "description": "cover",
+  "date": "2024-10-13T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/blog/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "PM",
+      "permalink": "/blog/tags/pm"
+    },
+    {
+      "inline": false,
+      "label": "Knowledge",
+      "permalink": "/blog/tags/knowledge"
+    },
+    {
+      "inline": false,
+      "label": "Career",
+      "permalink": "/blog/tags/Career"
+    }
+  ],
+  "readingTime": 18.72,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "url": "https://x.com/MileyChen0u0",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "pm-ability-breakdown",
+    "title": "PM 筆記｜知識與經驗在工作中的角色：領域知識、經驗知識、成長動能",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "2024",
+      "pm",
+      "knowledge",
+      "career"
+    ],
+    "image": "./cover.png",
+    "keywords": [
+      "knowledge",
+      "知識",
+      "experience",
+      "經驗",
+      "PM",
+      "產品經理"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "生活紀錄｜近年喜歡的影視作品",
+    "permalink": "/blog/2024-series-and-movies"
+  }
+}

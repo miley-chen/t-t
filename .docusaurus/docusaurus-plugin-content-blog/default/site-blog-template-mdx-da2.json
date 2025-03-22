@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/template",
+  "source": "@site/blog/Template.mdx",
+  "title": "文章模板",
+  "description": "文章說明",
+  "date": "2024-10-29T15:53:20.193Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/blog/tags/2024"
+    }
+  ],
+  "readingTime": 1.465,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "url": "https://x.com/MileyChen0u0",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "template",
+    "title": "文章模板",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "2024"
+    ],
+    "keywords": [
+      "Template",
+      "模板"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "PM 筆記｜知識與經驗在工作中的角色：領域知識、經驗知識、成長動能",
+    "permalink": "/blog/pm-ability-breakdown"
+  }
+}

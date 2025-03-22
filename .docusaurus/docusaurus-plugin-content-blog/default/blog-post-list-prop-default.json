@@ -1,0 +1,65 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "PM 筆記｜PRD 進化之路 🥚🐣🐥",
+      "permalink": "/blog/the-evolution-of-prd",
+      "unlisted": false,
+      "date": "2025-02-28T00:00:00.000Z"
+    },
+    {
+      "title": "對 AI 的粗淺認識與個人見解",
+      "permalink": "/blog/AI-notes-and-perspection",
+      "unlisted": false,
+      "date": "2024-11-09T00:00:00.000Z"
+    },
+    {
+      "title": "PM 筆記｜知識與經驗在工作中的角色：領域知識、經驗知識、成長動能",
+      "permalink": "/blog/pm-ability-breakdown",
+      "unlisted": false,
+      "date": "2024-10-13T00:00:00.000Z"
+    },
+    {
+      "title": "生活紀錄｜近年喜歡的影視作品",
+      "permalink": "/blog/2024-series-and-movies",
+      "unlisted": false,
+      "date": "2024-09-14T00:00:00.000Z"
+    },
+    {
+      "title": "2024 個人知識管理運作流程",
+      "permalink": "/blog/2024-personal-knowledge-management",
+      "unlisted": false,
+      "date": "2024-07-17T00:00:00.000Z"
+    },
+    {
+      "title": "Murmur｜平庸之上的平凡人",
+      "permalink": "/blog/2024-mediocre",
+      "unlisted": false,
+      "date": "2024-06-07T00:00:00.000Z"
+    },
+    {
+      "title": "2024 年中 Reflection｜用嘗試、探索、思考找回內心能量",
+      "permalink": "/blog/2024-mid-year-reflection",
+      "unlisted": false,
+      "date": "2024-05-31T00:00:00.000Z"
+    },
+    {
+      "title": "PM 筆記｜TKUG x TPM 講座：產品經理沒有崩潰之職場密室逃脫",
+      "permalink": "/blog/2024-forum-tkug-tpm",
+      "unlisted": false,
+      "date": "2024-03-19T00:00:00.000Z"
+    },
+    {
+      "title": "生活紀錄｜那些我喜歡的 Podcast 們",
+      "permalink": "/blog/2024-podcast",
+      "unlisted": false,
+      "date": "2024-02-27T00:00:00.000Z"
+    },
+    {
+      "title": "生活紀錄｜那些我訂閱的服務們",
+      "permalink": "/blog/2024-subscribe",
+      "unlisted": false,
+      "date": "2024-02-25T00:00:00.000Z"
+    }
+  ]
+}

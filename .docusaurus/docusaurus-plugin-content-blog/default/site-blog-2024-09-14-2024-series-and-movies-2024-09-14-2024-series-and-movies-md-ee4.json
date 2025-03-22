@@ -1,0 +1,67 @@
+{
+  "permalink": "/blog/2024-series-and-movies",
+  "source": "@site/blog/2024-09-14-2024-series-and-movies/2024-09-14-2024-series-and-movies.md",
+  "title": "生活紀錄｜近年喜歡的影視作品",
+  "description": "perfectBlue",
+  "date": "2024-09-14T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/blog/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "Life",
+      "permalink": "/blog/tags/life"
+    },
+    {
+      "inline": false,
+      "label": "Movie",
+      "permalink": "/blog/tags/movie"
+    }
+  ],
+  "readingTime": 8.565,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "url": "https://x.com/MileyChen0u0",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "2024-series-and-movies",
+    "title": "生活紀錄｜近年喜歡的影視作品",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "2024",
+      "life",
+      "movie"
+    ],
+    "image": "./perfectBlue.jpeg",
+    "keywords": [
+      "drama",
+      "tv series",
+      "talk show",
+      "movie",
+      "anime",
+      "Pixar",
+      "Satoshi Kon",
+      "perfec blue",
+      "look back"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "PM 筆記｜知識與經驗在工作中的角色：領域知識、經驗知識、成長動能",
+    "permalink": "/blog/pm-ability-breakdown"
+  },
+  "nextItem": {
+    "title": "2024 個人知識管理運作流程",
+    "permalink": "/blog/2024-personal-knowledge-management"
+  }
+}

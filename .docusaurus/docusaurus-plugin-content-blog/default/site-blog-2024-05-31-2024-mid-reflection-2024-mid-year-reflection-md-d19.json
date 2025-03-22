@@ -1,0 +1,57 @@
+{
+  "permalink": "/blog/2024-mid-year-reflection",
+  "source": "@site/blog/2024-05-31-2024-mid-reflection/2024mid-year-reflection.md",
+  "title": "2024 年中 Reflection | 用嘗試、探索、思考找回內心能量",
+  "description": "normal",
+  "date": "2024-05-31T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/blog/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "Reflection",
+      "permalink": "/blog/tags/reflection"
+    }
+  ],
+  "readingTime": 14.845,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "2024-mid-year-reflection",
+    "title": "2024 年中 Reflection | 用嘗試、探索、思考找回內心能量",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "2024",
+      "reflection"
+    ],
+    "image": "./normal.jpeg",
+    "keywords": [
+      "reflection",
+      "回顧",
+      "嘗試",
+      "探索",
+      "思考",
+      "內心能量"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Murmur | 平庸之上的平凡人",
+    "permalink": "/blog/2024-mediocre"
+  },
+  "nextItem": {
+    "title": "講座紀錄 | TKUG x TPM 產品經理沒有崩潰之職場密室逃脫",
+    "permalink": "/blog/2024-forum-tkug-tpm"
+  }
+}

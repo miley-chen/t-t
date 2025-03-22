@@ -1,0 +1,41 @@
+{
+  "id": "diary/2019/0410",
+  "title": "0410",
+  "description": "買 Ｍacbook 的第五天，開始寫日記的第一天。",
+  "source": "@site/docs/04-diary/2019/0410.md",
+  "sourceDirName": "04-diary/2019",
+  "slug": "/diary/2019/0410",
+  "permalink": "/garden/diary/2019/0410",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "2019",
+      "permalink": "/garden/tags/2019"
+    },
+    {
+      "inline": false,
+      "label": "Diary",
+      "permalink": "/garden/tags/diary"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "0410",
+    "tags": [
+      "2019",
+      "diary"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2019",
+    "permalink": "/garden/category/2019"
+  },
+  "next": {
+    "title": "0411",
+    "permalink": "/garden/diary/2019/0411"
+  }
+}

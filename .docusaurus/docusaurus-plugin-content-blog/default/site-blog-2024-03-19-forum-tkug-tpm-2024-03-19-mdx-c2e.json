@@ -1,0 +1,62 @@
+{
+  "permalink": "/blog/2024-forum-tkug-tpm",
+  "source": "@site/blog/2024-03-19-forum-tkug-tpm/2024-03-19.mdx",
+  "title": "PM 筆記｜TKUG x TPM 講座：產品經理沒有崩潰之職場密室逃脫",
+  "description": "tkug-tpm",
+  "date": "2024-03-19T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/blog/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "Forum",
+      "permalink": "/blog/tags/forum"
+    },
+    {
+      "inline": false,
+      "label": "PM",
+      "permalink": "/blog/tags/pm"
+    }
+  ],
+  "readingTime": 9.115,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "url": "https://x.com/MileyChen0u0",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "2024-forum-tkug-tpm",
+    "title": "PM 筆記｜TKUG x TPM 講座：產品經理沒有崩潰之職場密室逃脫",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "2024",
+      "forum",
+      "pm"
+    ],
+    "image": "./tkug-tpm.jpeg",
+    "keywords": [
+      "forum",
+      "講座",
+      "PM",
+      "產品經理"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "2024 年中 Reflection｜用嘗試、探索、思考找回內心能量",
+    "permalink": "/blog/2024-mid-year-reflection"
+  },
+  "nextItem": {
+    "title": "生活紀錄｜那些我喜歡的 Podcast 們",
+    "permalink": "/blog/2024-podcast"
+  }
+}

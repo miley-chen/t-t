@@ -1,0 +1,56 @@
+{
+  "id": "tech-notes/AI/LLM",
+  "title": "LLM 是 AI 的一個子集合",
+  "description": "近年迅速竄起的 AI 產業風潮，精確來說是由使用大型語言模型（Large language model, LLM）技術的工具所引領，而 LLM 是人工智慧（Artificial Intelligence, AI）的一個子集。",
+  "source": "@site/docs/03-tech-notes/AI/LLM.mdx",
+  "sourceDirName": "03-tech-notes/AI",
+  "slug": "/tech-notes/AI/LLM",
+  "permalink": "/garden/tech-notes/AI/LLM",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/garden/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "AI",
+      "permalink": "/garden/tags/ai"
+    },
+    {
+      "inline": false,
+      "label": "Note",
+      "permalink": "/garden/tags/note"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1731168000000,
+  "frontMatter": {
+    "title": "LLM 是 AI 的一個子集合",
+    "tags": [
+      "2024",
+      "ai",
+      "note"
+    ],
+    "keywords": [
+      "LLM",
+      "AI",
+      "人工智慧",
+      "大型語言模型"
+    ],
+    "last_update": {
+      "date": "2024/11/10"
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "科技筆記",
+    "permalink": "/garden/category/科技筆記"
+  },
+  "next": {
+    "title": "產品筆記",
+    "permalink": "/garden/category/產品筆記"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "tech-notes/AI/prompting-engineering/prompt-engineering",
+  "title": "和 LLM 合作更順暢的 Prompting 技巧",
+  "description": "",
+  "source": "@site/docs/03-tech-notes/AI/prompting-engineering/prompt-engineering.mdx",
+  "sourceDirName": "03-tech-notes/AI/prompting-engineering",
+  "slug": "/tech-notes/AI/prompting-engineering/prompt-engineering",
+  "permalink": "/garden/tech-notes/AI/prompting-engineering/prompt-engineering",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/garden/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "AI",
+      "permalink": "/garden/tags/ai"
+    },
+    {
+      "inline": false,
+      "label": "Note",
+      "permalink": "/garden/tags/note"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1731168000000,
+  "frontMatter": {
+    "title": "和 LLM 合作更順暢的 Prompting 技巧",
+    "tags": [
+      "2024",
+      "ai",
+      "note"
+    ],
+    "keywords": [
+      "AI",
+      "人工智慧",
+      "LLM",
+      "Prompting",
+      "Prompt Engineering"
+    ],
+    "last_update": {
+      "date": "2024/11/10"
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AI 的先天限制",
+    "permalink": "/garden/tech-notes/AI/ai-limitation/"
+  },
+  "next": {
+    "title": "產品筆記",
+    "permalink": "/garden/category/產品筆記"
+  }
+}

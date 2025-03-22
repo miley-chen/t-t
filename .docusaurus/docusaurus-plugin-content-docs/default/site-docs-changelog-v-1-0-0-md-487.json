@@ -1,0 +1,30 @@
+{
+  "id": "changelog/v1.0.0",
+  "title": "v1.0.0",
+  "description": "Release date: 2024/07/04",
+  "source": "@site/docs/changelog/v1.0.0.md",
+  "sourceDirName": "changelog",
+  "slug": "/changelog/v1.0.0",
+  "permalink": "/garden/changelog/v1.0.0",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/garden/tags/2024"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "v1.0.0",
+    "tags": [
+      "2024"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "T-T Changelog",
+    "permalink": "/garden/category/t-t-changelog"
+  }
+}

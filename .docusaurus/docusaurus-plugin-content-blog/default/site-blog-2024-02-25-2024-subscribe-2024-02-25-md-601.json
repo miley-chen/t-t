@@ -1,0 +1,55 @@
+{
+  "permalink": "/blog/2024-subscribe",
+  "source": "@site/blog/2024-02-25-2024-subscribe/2024-02-25.md",
+  "title": "生活紀錄 | 那些我訂閱的服務們",
+  "description": "computer",
+  "date": "2024-02-25T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/blog/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "Life",
+      "permalink": "/blog/tags/life"
+    }
+  ],
+  "readingTime": 5.95,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "2024-subscribe",
+    "title": "生活紀錄 | 那些我訂閱的服務們",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "2024",
+      "life"
+    ],
+    "image": "./computer.jpeg",
+    "keywords": [
+      "life",
+      "生活",
+      "subscribe",
+      "訂閱"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "生活紀錄 | 那些我喜歡的 Podcast 們",
+    "permalink": "/blog/2024-podcast"
+  },
+  "nextItem": {
+    "title": "2023 Reflection | Part II：Health & Play & Love",
+    "permalink": "/blog/2023-reflection-part-2"
+  }
+}

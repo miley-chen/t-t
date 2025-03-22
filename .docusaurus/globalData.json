@@ -1,0 +1,193 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/garden",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/garden",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "diary/2019/0410",
+              "path": "/garden/diary/2019/0410",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diary/2019/0411",
+              "path": "/garden/diary/2019/0411",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diary/2019/0416",
+              "path": "/garden/diary/2019/0416",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diary/2019/0502",
+              "path": "/garden/diary/2019/0502",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diary/2019/0520",
+              "path": "/garden/diary/2019/0520",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diary/2019/0601",
+              "path": "/garden/diary/2019/0601",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diary/2019/0711",
+              "path": "/garden/diary/2019/0711",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diary/2019/1220",
+              "path": "/garden/diary/2019/1220",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diary/2019/1230",
+              "path": "/garden/diary/2019/1230",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diary/2024/0718/0718",
+              "path": "/garden/diary/2024/0718/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diary/2024/0719",
+              "path": "/garden/diary/2024/0719",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diary/2024/0813",
+              "path": "/garden/diary/2024/0813",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diary/2024/1103",
+              "path": "/garden/diary/2024/1103",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/garden/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-notes/Heptabase/observing001/observing001",
+              "path": "/garden/product-notes/Heptabase/observing001/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-notes/Heptabase/observing002/observing002",
+              "path": "/garden/product-notes/Heptabase/observing002/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "t-t-changelog/v1.0.0/v1.0.0",
+              "path": "/garden/t-t-changelog/v1.0.0/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "t-t-changelog/v1.1.0/v1.1.0",
+              "path": "/garden/t-t-changelog/v1.1.0/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "t-t-changelog/v1.2.0/v1.2.0",
+              "path": "/garden/t-t-changelog/v1.2.0/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "t-t-changelog/v1.3.0/v1.3.0",
+              "path": "/garden/t-t-changelog/v1.3.0/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tech-notes/AI/AI-limitation/AI-limitation",
+              "path": "/garden/tech-notes/AI/AI-limitation/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tech-notes/AI/LLM/LLM",
+              "path": "/garden/tech-notes/AI/LLM/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tech-notes/AI/prompt-engineering/prompt-engineering",
+              "path": "/garden/tech-notes/AI/prompt-engineering/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "website-notes/docusaurus-personal-website/docusaurus-personal-website",
+              "path": "/garden/website-notes/docusaurus-personal-website/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "website-notes/medium-export/medium-export",
+              "path": "/garden/website-notes/medium-export/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "website-notes/rss-to-email/rss-to-email",
+              "path": "/garden/website-notes/rss-to-email/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/t-t-changelog",
+              "path": "/garden/category/t-t-changelog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/網站筆記",
+              "path": "/garden/category/網站筆記",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/科技筆記",
+              "path": "/garden/category/科技筆記",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/產品筆記",
+              "path": "/garden/category/產品筆記",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/悲傷日記",
+              "path": "/garden/category/悲傷日記",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/2024",
+              "path": "/garden/category/2024",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/2019",
+              "path": "/garden/category/2019",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/garden/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

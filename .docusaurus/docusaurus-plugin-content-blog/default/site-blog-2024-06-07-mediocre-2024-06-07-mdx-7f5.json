@@ -1,0 +1,55 @@
+{
+  "permalink": "/blog/2024-mediocre",
+  "source": "@site/blog/2024-06-07-mediocre/2024-06-07.mdx",
+  "title": "Murmur｜平庸之上的平凡人",
+  "description": "street",
+  "date": "2024-06-07T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/blog/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "Murmur",
+      "permalink": "/blog/tags/murmur"
+    }
+  ],
+  "readingTime": 5.44,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "url": "https://x.com/MileyChen0u0",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "2024-mediocre",
+    "title": "Murmur｜平庸之上的平凡人",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "2024",
+      "murmur"
+    ],
+    "image": "./street.jpeg",
+    "keywords": [
+      "mediocre",
+      "平庸",
+      "平凡"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "2024 個人知識管理運作流程",
+    "permalink": "/blog/2024-personal-knowledge-management"
+  },
+  "nextItem": {
+    "title": "2024 年中 Reflection｜用嘗試、探索、思考找回內心能量",
+    "permalink": "/blog/2024-mid-year-reflection"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "permalink": "/blog/2024-podcast",
+  "source": "@site/blog/2024-02-27-2024-podcast/2024-02-27.md",
+  "title": "生活紀錄 | 那些我喜歡的 Podcast 們",
+  "description": "近期最常吸收資訊的來源是書本、Podcast、Youtube 影片，和一些電子報，這篇主要想紀錄近期常聽的 Podcast 們以及一些舊愛，會想時不時再紀錄與比較當下的清單，了解自己關注的世界有什麼樣的變化。",
+  "date": "2024-02-27T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/blog/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "Life",
+      "permalink": "/blog/tags/life"
+    }
+  ],
+  "readingTime": 4.15,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "2024-podcast",
+    "title": "生活紀錄 | 那些我喜歡的 Podcast 們",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "2024",
+      "life"
+    ],
+    "keywords": [
+      "life",
+      "生活",
+      "podcast"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "講座紀錄 | TKUG x TPM 產品經理沒有崩潰之職場密室逃脫",
+    "permalink": "/blog/2024-forum-tkug-tpm"
+  },
+  "nextItem": {
+    "title": "生活紀錄 | 那些我訂閱的服務們",
+    "permalink": "/blog/2024-subscribe"
+  }
+}

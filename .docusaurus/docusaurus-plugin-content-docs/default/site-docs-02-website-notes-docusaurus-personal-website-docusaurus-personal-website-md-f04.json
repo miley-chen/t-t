@@ -1,0 +1,51 @@
+{
+  "id": "website-notes/docusaurus-personal-website/docusaurus-personal-website",
+  "title": "用 Docusaurus 創建個人網站",
+  "description": "TL;DR",
+  "source": "@site/docs/02-website-notes/docusaurus-personal-website/docusaurus-personal-website.md",
+  "sourceDirName": "02-website-notes/docusaurus-personal-website",
+  "slug": "/website-notes/docusaurus-personal-website/",
+  "permalink": "/garden/website-notes/docusaurus-personal-website/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/garden/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "Docusaurus",
+      "permalink": "/garden/tags/docusaurus"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1721404800000,
+  "frontMatter": {
+    "title": "用 Docusaurus 創建個人網站",
+    "tags": [
+      "2024",
+      "docusaurus"
+    ],
+    "keywords": [
+      "docusaurus",
+      "personal website",
+      "static website",
+      "個人網站",
+      "架站"
+    ],
+    "last_update": {
+      "date": "2024/07/20"
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "網站筆記",
+    "permalink": "/garden/category/網站筆記"
+  },
+  "next": {
+    "title": "如何從 Medium 匯出文章存檔",
+    "permalink": "/garden/website-notes/medium-export/"
+  }
+}

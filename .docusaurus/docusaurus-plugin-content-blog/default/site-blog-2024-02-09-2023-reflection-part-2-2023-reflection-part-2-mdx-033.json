@@ -1,0 +1,54 @@
+{
+  "permalink": "/blog/2023-reflection-part-2",
+  "source": "@site/blog/2024-02-09-2023-reflection-part-2/2023-reflection-part-2.mdx",
+  "title": "2023 Reflection｜Part II：Health & Play & Love",
+  "description": "happy-third",
+  "date": "2024-02-09T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/blog/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "Reflection",
+      "permalink": "/blog/tags/reflection"
+    }
+  ],
+  "readingTime": 10.49,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "url": "https://x.com/MileyChen0u0",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "2023-reflection-part-2",
+    "title": "2023 Reflection｜Part II：Health & Play & Love",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "2024",
+      "reflection"
+    ],
+    "image": "./happy-third.jpeg",
+    "keywords": [
+      "reflection",
+      "回顧"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "生活紀錄｜那些我訂閱的服務們",
+    "permalink": "/blog/2024-subscribe"
+  },
+  "nextItem": {
+    "title": "2023 Reflection｜Part I：Work",
+    "permalink": "/blog/2023-reflection-part-1"
+  }
+}

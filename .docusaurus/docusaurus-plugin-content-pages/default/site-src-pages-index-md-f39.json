@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/",
+  "source": "@site/src/pages/index.md",
+  "title": "Thinking Today",
+  "description": "Hello world",
+  "frontMatter": {
+    "routeBasePath": "/",
+    "Title": "Landing page"
+  },
+  "unlisted": false
+}

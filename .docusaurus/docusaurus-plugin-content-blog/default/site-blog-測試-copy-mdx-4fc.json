@@ -1,0 +1,19 @@
+{
+  "permalink": "/blog/測試 copy",
+  "source": "@site/blog/測試 copy.mdx",
+  "title": "你的文章標題",
+  "description": "const handleSubmit = async (e) => {",
+  "date": "2024-10-29T15:53:20.193Z",
+  "tags": [],
+  "readingTime": 1.365,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "你的文章標題"
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "PM 筆記｜知識與經驗在工作中的角色：領域知識、經驗知識、成長動能",
+    "permalink": "/blog/pm-ability-breakdown"
+  }
+}

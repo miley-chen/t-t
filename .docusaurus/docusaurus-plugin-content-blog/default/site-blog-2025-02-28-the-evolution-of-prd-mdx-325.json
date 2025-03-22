@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/template",
+  "source": "@site/blog/2025-02-28-the-evolution-of-prd.mdx",
+  "title": "文章模板",
+  "description": "文章說明",
+  "date": "2025-02-28T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/blog/tags/2024"
+    }
+  ],
+  "readingTime": 1.645,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "url": "https://x.com/MileyChen0u0",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "template",
+    "title": "文章模板",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "2024"
+    ],
+    "keywords": [
+      "Template",
+      "模板"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "對 AI 的粗淺認識與個人見解",
+    "permalink": "/blog/AI-notes-and-perspection"
+  }
+}

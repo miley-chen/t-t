@@ -1,0 +1,62 @@
+{
+  "id": "website-notes/medium-export/medium-export",
+  "title": "如何從 Medium 匯出文章存檔",
+  "description": "TL;DR",
+  "source": "@site/docs/02-website-notes/medium-export/medium-export.md",
+  "sourceDirName": "02-website-notes/medium-export",
+  "slug": "/website-notes/medium-export/",
+  "permalink": "/garden/website-notes/medium-export/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/garden/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "Medium",
+      "permalink": "/garden/tags/medium"
+    },
+    {
+      "inline": false,
+      "label": "Markdown",
+      "permalink": "/garden/tags/markdown"
+    },
+    {
+      "inline": false,
+      "label": "HTML",
+      "permalink": "/garden/tags/html"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1720108800000,
+  "frontMatter": {
+    "title": "如何從 Medium 匯出文章存檔",
+    "tags": [
+      "2024",
+      "medium",
+      "markdown",
+      "html"
+    ],
+    "keywords": [
+      "medium",
+      "export",
+      "html",
+      "markdown"
+    ],
+    "last_update": {
+      "date": "2024/07/05"
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "用 Docusaurus 創建個人網站",
+    "permalink": "/garden/website-notes/docusaurus-personal-website/"
+  },
+  "next": {
+    "title": "RSS to Email： RSS 更新即寄 Email",
+    "permalink": "/garden/website-notes/rss-to-email/"
+  }
+}

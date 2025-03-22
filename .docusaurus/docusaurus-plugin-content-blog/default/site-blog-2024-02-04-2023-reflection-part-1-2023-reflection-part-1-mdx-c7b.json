@@ -1,0 +1,63 @@
+{
+  "permalink": "/blog/2023-reflection-part-1",
+  "source": "@site/blog/2024-02-04-2023-reflection-part-1/2023-reflection-part1.mdx",
+  "title": "2023 Reflection｜Part I：Work",
+  "description": "yiyu calendar",
+  "date": "2024-02-04T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/blog/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "Reflection",
+      "permalink": "/blog/tags/reflection"
+    },
+    {
+      "inline": false,
+      "label": "PM",
+      "permalink": "/blog/tags/pm"
+    }
+  ],
+  "readingTime": 15.29,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "url": "https://x.com/MileyChen0u0",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "2023-reflection-part-1",
+    "title": "2023 Reflection｜Part I：Work",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "2024",
+      "reflection",
+      "pm"
+    ],
+    "image": "./yiyu-calendar.jpeg",
+    "keywords": [
+      "reflection",
+      "回顧",
+      "工作",
+      "PM",
+      "產品經理"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "2023 Reflection｜Part II：Health & Play & Love",
+    "permalink": "/blog/2023-reflection-part-2"
+  },
+  "nextItem": {
+    "title": "2022 Recap｜關於那些稚嫩的探索與懷疑 — 回顧讀大學這件事",
+    "permalink": "/blog/2022-recap"
+  }
+}

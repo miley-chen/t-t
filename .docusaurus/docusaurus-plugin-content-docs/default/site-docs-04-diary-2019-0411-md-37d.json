@@ -1,0 +1,41 @@
+{
+  "id": "diary/2019/0411",
+  "title": "0411",
+  "description": "不知道為什麼，「你還好嗎」好像已經變成了大家最近對我的招呼語。",
+  "source": "@site/docs/04-diary/2019/0411.md",
+  "sourceDirName": "04-diary/2019",
+  "slug": "/diary/2019/0411",
+  "permalink": "/garden/diary/2019/0411",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "2019",
+      "permalink": "/garden/tags/2019"
+    },
+    {
+      "inline": false,
+      "label": "Diary",
+      "permalink": "/garden/tags/diary"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "0411",
+    "tags": [
+      "2019",
+      "diary"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "0410",
+    "permalink": "/garden/diary/2019/0410"
+  },
+  "next": {
+    "title": "0416",
+    "permalink": "/garden/diary/2019/0416"
+  }
+}

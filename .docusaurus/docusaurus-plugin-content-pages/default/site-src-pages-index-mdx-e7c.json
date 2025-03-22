@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/",
+  "source": "@site/src/pages/index.mdx",
+  "title": "每天思考是件很酷的事",
+  "description": "Hello world",
+  "frontMatter": {
+    "routeBasePath": "/",
+    "Title": "每天思考是件很酷的事"
+  },
+  "unlisted": false
+}

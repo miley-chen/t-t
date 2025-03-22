@@ -1,0 +1,25 @@
+{
+  "id": "intro",
+  "title": "Garden Intro",
+  "description": "類別",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/garden/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 1,
+    "showLastUpdateTime": true
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "T-T Changelog",
+    "permalink": "/garden/category/t-t-changelog"
+  }
+}

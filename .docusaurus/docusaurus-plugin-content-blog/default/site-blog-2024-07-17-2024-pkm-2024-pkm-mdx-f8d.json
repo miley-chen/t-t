@@ -1,0 +1,62 @@
+{
+  "permalink": "/blog/2024-personal-knowledge-management",
+  "source": "@site/blog/2024-07-17-2024-pkm/2024-pkm.mdx",
+  "title": "2024 個人知識管理運作流程",
+  "description": "classroom",
+  "date": "2024-07-17T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/blog/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "Knowledge",
+      "permalink": "/blog/tags/knowledge"
+    },
+    {
+      "inline": false,
+      "label": "Management",
+      "permalink": "/blog/tags/management"
+    }
+  ],
+  "readingTime": 11.17,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Miley Chen",
+      "url": "https://x.com/MileyChen0u0",
+      "key": "miley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "2024-personal-knowledge-management",
+    "title": "2024 個人知識管理運作流程",
+    "authors": [
+      "miley"
+    ],
+    "tags": [
+      "2024",
+      "knowledge",
+      "management"
+    ],
+    "image": "./knowledge.jpg",
+    "keywords": [
+      "個人",
+      "知識管理",
+      "PKM",
+      "personal knowledge management"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "生活紀錄｜近年喜歡的影視作品",
+    "permalink": "/blog/2024-series-and-movies"
+  },
+  "nextItem": {
+    "title": "Murmur｜平庸之上的平凡人",
+    "permalink": "/blog/2024-mediocre"
+  }
+}

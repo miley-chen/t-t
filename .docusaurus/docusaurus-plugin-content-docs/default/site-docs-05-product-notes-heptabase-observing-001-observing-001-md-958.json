@@ -1,0 +1,50 @@
+{
+  "id": "product-notes/Heptabase/observing001/observing001",
+  "title": "關於用戶期待",
+  "description": "用戶反饋觀察",
+  "source": "@site/docs/05-product-notes/Heptabase/observing001/observing001.md",
+  "sourceDirName": "05-product-notes/Heptabase/observing001",
+  "slug": "/product-notes/Heptabase/observing001/",
+  "permalink": "/garden/product-notes/Heptabase/observing001/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "2024",
+      "permalink": "/garden/tags/2024"
+    },
+    {
+      "inline": false,
+      "label": "Heptabase",
+      "permalink": "/garden/tags/heptabase"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1721664000000,
+  "frontMatter": {
+    "title": "關於用戶期待",
+    "tags": [
+      "2024",
+      "heptabase"
+    ],
+    "keywords": [
+      "heptabase",
+      "update",
+      "kano",
+      "rice"
+    ],
+    "last_update": {
+      "date": "2024/07/23"
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "產品筆記",
+    "permalink": "/garden/category/產品筆記"
+  },
+  "next": {
+    "title": "1st AMA 讀後感",
+    "permalink": "/garden/product-notes/Heptabase/observing002/"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "defaultLocale": "zh-Hant",
+  "locales": [
+    "zh-Hant"
+  ],
+  "path": "i18n",
+  "currentLocale": "zh-Hant",
+  "localeConfigs": {
+    "zh-Hant": {
+      "label": "繁體中文",
+      "direction": "ltr",
+      "htmlLang": "zh-Hant",
+      "calendar": "gregory",
+      "path": "zh-Hant"
+    }
+  }
+}
