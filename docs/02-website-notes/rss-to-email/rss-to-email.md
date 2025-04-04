@@ -11,7 +11,7 @@ last_update:
 
 雖然這個網站的 Blog 內容和流量都還不是很多，但反正剛好看到 Docusaurus 的 RSS 功能，就試著調整 config 開啟了 RSS 頁面。（~~非常隨便~~）
 
-調整完 RSS 後，我接著突發奇想了起來：`比起 RSS，我現在好像更常使用 Email 訂閱，也有一些部落格有提供 Email 訂閱的機制，不知道我自己能不能夠做到把 RSS 轉成 Email 訂閱，連動更新？`  
+調整完 RSS 後，我接著思考起：`比起 RSS，我現在好像更常使用 Email 訂閱，也有一些部落格有提供 Email 訂閱的機制，不知道我自己能不能夠做到把 RSS 轉成 Email 訂閱，連動更新？`  
 
 於是我的研究與探索之旅就這樣開始了，這篇是過程中的一些筆記。
 
@@ -110,3 +110,8 @@ RSS 是個很方便的機制，不過需要額外使用閱讀器是個雙面刃�
 - [3 Key Differences Between Blog and Newsletter](https://chinese.beehiiv.com/p/3-key-differences-blog-newsletter)
 ### RSS to Email
 - [All you need to know about RSS-to-Email](https://t.co/jWbV50gmCD)
+
+## 2025 Update
+原先利用 Zapier 和 MailerLite 串接的方式不太穩定，有幾次文章更新並沒有寄出 Email，加上圖片大小問題遲遲找不到解法，最終決定~~花錢消災~~課金改用 buttondown（註：雖然訂閱人數很少，但 RSS to Email 在包含 buttondown 在內的各大電子報平台多屬付費功能）。另外，嵌入的收取名單表單也元件化了。
+
+這算是個自己異想天開嘗試土法煉鋼，最後失敗選用現成服務的經驗。但過程中建立了網站網域的 Email 地址是個不錯的副產物。

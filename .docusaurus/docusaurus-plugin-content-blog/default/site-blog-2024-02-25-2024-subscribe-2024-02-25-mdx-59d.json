@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/2024-subscribe",
+  "permalink": "/blog/2024-subscription",
   "source": "@site/blog/2024-02-25-2024-subscribe/2024-02-25.mdx",
   "title": "生活紀錄｜那些我訂閱的服務們",
   "description": "computer",
@@ -16,7 +16,7 @@
       "permalink": "/blog/tags/life"
     }
   ],
-  "readingTime": 7.605,
+  "readingTime": 6.095,
   "hasTruncateMarker": true,
   "authors": [
     {
@@ -27,7 +27,7 @@
     }
   ],
   "frontMatter": {
-    "slug": "2024-subscribe",
+    "slug": "2024-subscription",
     "title": "生活紀錄｜那些我訂閱的服務們",
     "authors": [
       "miley"
@@ -40,7 +40,7 @@
     "keywords": [
       "life",
       "生活",
-      "subscribe",
+      "subscription",
       "訂閱"
     ]
   },

@@ -2,6 +2,12 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "在是一位 _____ 之前，我們都先是一個人",
+      "permalink": "/blog/beyond-labels-we-are-human",
+      "unlisted": false,
+      "date": "2025-03-22T00:00:00.000Z"
+    },
+    {
       "title": "PM 筆記｜PRD 進化之路 🥚🐣🐥",
       "permalink": "/blog/the-evolution-of-prd",
       "unlisted": false,
@@ -54,12 +60,6 @@
       "permalink": "/blog/2024-podcast",
       "unlisted": false,
       "date": "2024-02-27T00:00:00.000Z"
-    },
-    {
-      "title": "生活紀錄｜那些我訂閱的服務們",
-      "permalink": "/blog/2024-subscribe",
-      "unlisted": false,
-      "date": "2024-02-25T00:00:00.000Z"
     }
   ]
 }

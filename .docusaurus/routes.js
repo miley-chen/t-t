@@ -3,48 +3,13 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/about',
     component: ComponentCreator('/about', '954'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'a08'),
+    component: ComponentCreator('/blog', '8cf'),
     exact: true
   },
   {
@@ -93,8 +58,8 @@ export default [
     exact: true
   },
   {
-    path: '/blog/2024-subscribe',
-    component: ComponentCreator('/blog/2024-subscribe', '8a7'),
+    path: '/blog/2024-subscription',
+    component: ComponentCreator('/blog/2024-subscription', '75f'),
     exact: true
   },
   {
@@ -113,8 +78,13 @@ export default [
     exact: true
   },
   {
+    path: '/blog/beyond-labels-we-are-human',
+    component: ComponentCreator('/blog/beyond-labels-we-are-human', 'f73'),
+    exact: true
+  },
+  {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2', '9c5'),
+    component: ComponentCreator('/blog/page/2', '7af'),
     exact: true
   },
   {
@@ -134,7 +104,7 @@ export default [
   },
   {
     path: '/blog/tags/2024',
-    component: ComponentCreator('/blog/tags/2024', '8ff'),
+    component: ComponentCreator('/blog/tags/2024', 'ad9'),
     exact: true
   },
   {
@@ -144,7 +114,7 @@ export default [
   },
   {
     path: '/blog/tags/2025',
-    component: ComponentCreator('/blog/tags/2025', '9f1'),
+    component: ComponentCreator('/blog/tags/2025', 'b6a'),
     exact: true
   },
   {
@@ -179,7 +149,7 @@ export default [
   },
   {
     path: '/blog/tags/life',
-    component: ComponentCreator('/blog/tags/life', '265'),
+    component: ComponentCreator('/blog/tags/life', '51b'),
     exact: true
   },
   {
@@ -199,7 +169,7 @@ export default [
   },
   {
     path: '/blog/tags/perspection',
-    component: ComponentCreator('/blog/tags/perspection', 'b1d'),
+    component: ComponentCreator('/blog/tags/perspection', '337'),
     exact: true
   },
   {
@@ -223,6 +193,11 @@ export default [
     exact: true
   },
   {
+    path: '/componentPlayground',
+    component: ComponentCreator('/componentPlayground', '313'),
+    exact: true
+  },
+  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '3d7'),
     exact: true
@@ -234,20 +209,15 @@ export default [
   },
   {
     path: '/garden',
-    component: ComponentCreator('/garden', 'f29'),
+    component: ComponentCreator('/garden', 'a22'),
     routes: [
       {
         path: '/garden',
-        component: ComponentCreator('/garden', '413'),
+        component: ComponentCreator('/garden', '1ce'),
         routes: [
           {
             path: '/garden/tags',
             component: ComponentCreator('/garden/tags', '067'),
-            exact: true
-          },
-          {
-            path: '/garden/tags/2019',
-            component: ComponentCreator('/garden/tags/2019', 'e81'),
             exact: true
           },
           {
@@ -256,13 +226,13 @@ export default [
             exact: true
           },
           {
-            path: '/garden/tags/ai',
-            component: ComponentCreator('/garden/tags/ai', 'e5d'),
+            path: '/garden/tags/2025',
+            component: ComponentCreator('/garden/tags/2025', '6e7'),
             exact: true
           },
           {
-            path: '/garden/tags/diary',
-            component: ComponentCreator('/garden/tags/diary', '425'),
+            path: '/garden/tags/ai',
+            component: ComponentCreator('/garden/tags/ai', 'e5d'),
             exact: true
           },
           {
@@ -273,11 +243,6 @@ export default [
           {
             path: '/garden/tags/email',
             component: ComponentCreator('/garden/tags/email', 'e75'),
-            exact: true
-          },
-          {
-            path: '/garden/tags/heptabase',
-            component: ComponentCreator('/garden/tags/heptabase', 'b59'),
             exact: true
           },
           {
@@ -296,11 +261,6 @@ export default [
             exact: true
           },
           {
-            path: '/garden/tags/mindcircle',
-            component: ComponentCreator('/garden/tags/mindcircle', '3a3'),
-            exact: true
-          },
-          {
             path: '/garden/tags/note',
             component: ComponentCreator('/garden/tags/note', '957'),
             exact: true
@@ -312,41 +272,17 @@ export default [
           },
           {
             path: '/garden',
-            component: ComponentCreator('/garden', '914'),
+            component: ComponentCreator('/garden', 'fa3'),
             routes: [
               {
                 path: '/garden/',
-                component: ComponentCreator('/garden/', 'ef6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/category/2019',
-                component: ComponentCreator('/garden/category/2019', 'ac4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/category/2024',
-                component: ComponentCreator('/garden/category/2024', 'ed8'),
+                component: ComponentCreator('/garden/', '8e3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/garden/category/t-t-changelog',
                 component: ComponentCreator('/garden/category/t-t-changelog', '817'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/category/悲傷日記',
-                component: ComponentCreator('/garden/category/悲傷日記', 'aba'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/category/產品筆記',
-                component: ComponentCreator('/garden/category/產品筆記', 'aaa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -363,116 +299,32 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/garden/diary/2019/0410',
-                component: ComponentCreator('/garden/diary/2019/0410', '858'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/diary/2019/0411',
-                component: ComponentCreator('/garden/diary/2019/0411', 'dde'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/diary/2019/0416',
-                component: ComponentCreator('/garden/diary/2019/0416', '411'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/diary/2019/0502',
-                component: ComponentCreator('/garden/diary/2019/0502', '914'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/diary/2019/0520',
-                component: ComponentCreator('/garden/diary/2019/0520', '23a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/diary/2019/0601',
-                component: ComponentCreator('/garden/diary/2019/0601', 'eb2'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/diary/2019/0711',
-                component: ComponentCreator('/garden/diary/2019/0711', 'b80'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/diary/2019/1220',
-                component: ComponentCreator('/garden/diary/2019/1220', 'ca9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/diary/2019/1230',
-                component: ComponentCreator('/garden/diary/2019/1230', 'bef'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/diary/2024/0718/',
-                component: ComponentCreator('/garden/diary/2024/0718/', 'a1e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/diary/2024/0719',
-                component: ComponentCreator('/garden/diary/2024/0719', 'ac4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/diary/2024/0813',
-                component: ComponentCreator('/garden/diary/2024/0813', 'd8e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/diary/2024/1103',
-                component: ComponentCreator('/garden/diary/2024/1103', 'c26'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/product-notes/Heptabase/observing001/',
-                component: ComponentCreator('/garden/product-notes/Heptabase/observing001/', '085'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/garden/product-notes/Heptabase/observing002/',
-                component: ComponentCreator('/garden/product-notes/Heptabase/observing002/', '8fe'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/garden/t-t-changelog/v1.0.0/',
-                component: ComponentCreator('/garden/t-t-changelog/v1.0.0/', '9e4'),
+                component: ComponentCreator('/garden/t-t-changelog/v1.0.0/', 'e5c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/garden/t-t-changelog/v1.1.0/',
-                component: ComponentCreator('/garden/t-t-changelog/v1.1.0/', 'f14'),
+                component: ComponentCreator('/garden/t-t-changelog/v1.1.0/', 'a73'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/garden/t-t-changelog/v1.2.0/',
-                component: ComponentCreator('/garden/t-t-changelog/v1.2.0/', '11d'),
+                component: ComponentCreator('/garden/t-t-changelog/v1.2.0/', 'c14'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/garden/t-t-changelog/v1.3.0/',
-                component: ComponentCreator('/garden/t-t-changelog/v1.3.0/', 'f5b'),
+                component: ComponentCreator('/garden/t-t-changelog/v1.3.0/', '225'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/garden/t-t-changelog/v1.3.1/',
+                component: ComponentCreator('/garden/t-t-changelog/v1.3.1/', '373'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

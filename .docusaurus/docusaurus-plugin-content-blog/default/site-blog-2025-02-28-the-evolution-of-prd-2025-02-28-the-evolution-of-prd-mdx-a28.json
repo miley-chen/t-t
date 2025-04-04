@@ -21,7 +21,7 @@
       "permalink": "/blog/tags/documentation"
     }
   ],
-  "readingTime": 17.92,
+  "readingTime": 16.41,
   "hasTruncateMarker": true,
   "authors": [
     {
@@ -51,6 +51,10 @@
     ]
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "在是一位 _____ 之前，我們都先是一個人",
+    "permalink": "/blog/beyond-labels-we-are-human"
+  },
   "nextItem": {
     "title": "對 AI 的粗淺認識與個人見解",
     "permalink": "/blog/AI-notes-and-perspection"

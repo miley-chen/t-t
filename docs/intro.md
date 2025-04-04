@@ -19,10 +19,8 @@ showLastUpdateTime: true
 ### 產品筆記
 總之對軟體產品相關的筆記就先放這了。
 
-### 悲傷日記
-有些人快樂的時候會拍手，而我悲傷的時候會寫日記。
-
-> "We must experience everything. Not just the good, but degradation, horror, sadness. This makes us whole, makes us people of substance.“ — Poor Tings
+### 科技筆記
+任何的科技趨勢筆記。
 
 ---
 
